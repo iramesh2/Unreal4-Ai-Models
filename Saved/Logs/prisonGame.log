@@ -6913,3 +6913,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.18-19.49.08:006][241]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonCharacter3E9CD23E4E75F76FED1069BDC65E8A25.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2022.11.18-19.49.08:024][241]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2022.11.18-19.49.08:024][241]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.11.18-19.49.50:809][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.11.18-19.49.50:846][734]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap_Auto15B2997364FB65A49861CEA9D9E2D235C.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.11.18-19.49.50:848][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.065
+[2022.11.18-19.49.50:849][734]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
