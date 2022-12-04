@@ -13152,3 +13152,391 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.04-23.12.06:210][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.04-23.12.06:213][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2022.12.04-23.12.06:245][133]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.04-23.12.26:005][337]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.12.26:015][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.12.26:015][337]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 11:12:26 AM)
+[2022.12.04-23.12.26:015][337]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.12.26:028][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012284s)
+[2022.12.04-23.12.26:029][337]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-23.12.26:029][337]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2022.12.04-23.12.26:029][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013945s)
+[2022.12.04-23.12.26:056][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.04-23.12.26:057][337]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.12.26:057][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.12.26:057][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.12.26:058][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.12.26:058][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.12.26:058][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.12.26:058][337]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.12.26:062][337]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.12.26:062][337]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.12.26:143][337]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.12.26:143][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.12.26:144][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.12.26:144][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.12.26:144][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.12.26:144][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.12.26:144][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.12.26:145][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.12.26:145][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.12.26:145][337]LogInit: FAudioDevice initialized.
+[2022.12.04-23.12.26:145][337]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-23.12.26:151][337]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.12.26:154][337]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-17.12.26
+[2022.12.04-23.12.26:154][337]LogWorld: Bringing up level for play took: 0.002294
+[2022.12.04-23.12.26:154][337]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.12.04-23.12.26:159][337]PIE: Server logged in
+[2022.12.04-23.12.26:160][337]PIE: Play in editor total start time 0.147 seconds.
+[2022.12.04-23.12.26:767][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.12.26:767][372]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.12.26:768][372]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.12.26:768][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.12.26:776][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.12.26:779][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.12.26:801][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.12.26:801][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.12.26:802][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.12.26:825][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.04-23.12.26:854][373]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.04-23.12.37:957][ 21]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI2)
+[2022.12.04-23.12.38:025][ 24]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2022.12.04-23.12.48:626][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.04-23.12.48:656][641]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMapB48FFB8B477AFA107DE26F80CFD5E7C2.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.04-23.12.48:686][641]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.04-23.12.48:686][641]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.04-23.12.50:333][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.04-23.12.50:362][735]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap841076114E397DED4C26AEA18A5BECE4.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.04-23.12.50:391][735]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.04-23.12.50:391][735]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.04-23.12.51:714][811]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.12.51:723][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.12.51:723][811]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 11:12:51 AM)
+[2022.12.04-23.12.51:723][811]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.12.51:735][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011359s)
+[2022.12.04-23.12.51:735][811]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-23.12.51:736][811]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2022.12.04-23.12.51:736][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012569s)
+[2022.12.04-23.12.51:761][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.04-23.12.51:762][811]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.12.51:762][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.12.51:762][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.12.51:763][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.12.51:763][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.12.51:763][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.12.51:763][811]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.12.51:767][811]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.12.51:767][811]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.12.51:850][811]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.12.51:851][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.12.51:851][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.12.51:851][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.12.51:851][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.12.51:851][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.12.51:851][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.12.51:852][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.12.51:852][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.12.51:852][811]LogInit: FAudioDevice initialized.
+[2022.12.04-23.12.51:852][811]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-23.12.51:862][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.12.51:865][811]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-17.12.51
+[2022.12.04-23.12.51:866][811]LogWorld: Bringing up level for play took: 0.002913
+[2022.12.04-23.12.51:866][811]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.12.04-23.12.51:871][811]PIE: Server logged in
+[2022.12.04-23.12.51:872][811]PIE: Play in editor total start time 0.152 seconds.
+[2022.12.04-23.13.11:582][985]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.11:582][985]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-23.13.11:582][985]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-23.13.11:982][  9]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.11:982][  9]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.13.13:785][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.13.14:220][143]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.14:220][143]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.13.14:720][173]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.14:720][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.13.17:891][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.13.18:671][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.13.19:172][440]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.19:172][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.13.20:007][490]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.20:007][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.13.21:945][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.13.22:361][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.13.22:915][664]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.22:915][664]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.13.24:733][773]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.24:733][773]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.13.38:657][607]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.38:657][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.13.49:923][282]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.49:923][282]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.13.52:210][419]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.13.52:210][419]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.13.59:488][855]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.13.59:488][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.14.22:821][253]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h 
+[2022.12.04-23.14.25:445][253]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h : 42
+[2022.12.04-23.14.25:445][253]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:450][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:451][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:452][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:453][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:454][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:455][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:456][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:498][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:541][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:689][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:717][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:754][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:755][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.14.25:755][253]LogVSAccessor: Warning: Couldn't access module table
+[2022.12.04-23.15.15:899][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.15.15:899][838]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.15.15:899][838]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.15.15:900][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.15.15:910][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.15.15:947][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.15.15:969][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.15.15:970][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.15.15:971][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.15.15:979][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.04-23.15.16:026][839]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.12.04-23.20.56:800][732]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.20.56:809][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.20.56:809][732]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 11:20:56 AM)
+[2022.12.04-23.20.56:809][732]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.20.56:822][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012671s)
+[2022.12.04-23.20.56:823][732]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-23.20.56:823][732]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2022.12.04-23.20.56:823][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013998s)
+[2022.12.04-23.20.56:849][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.04-23.20.56:851][732]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.20.56:851][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.20.56:851][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.20.56:851][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.20.56:851][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.20.56:851][732]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.20.56:857][732]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.20.56:857][732]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.20.56:946][732]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.20.56:947][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.20.56:947][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.20.56:947][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.20.56:947][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.20.56:947][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.20.56:947][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.20.56:949][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.20.56:949][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.20.56:949][732]LogInit: FAudioDevice initialized.
+[2022.12.04-23.20.56:949][732]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-23.20.56:956][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.20.56:959][732]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-17.20.56
+[2022.12.04-23.20.56:960][732]LogWorld: Bringing up level for play took: 0.003079
+[2022.12.04-23.20.56:960][732]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.12.04-23.20.56:965][732]PIE: Server logged in
+[2022.12.04-23.20.56:966][732]PIE: Play in editor total start time 0.16 seconds.
+[2022.12.04-23.20.58:781][836]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.20.59:133][857]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.20.59:133][857]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-23.20.59:133][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-23.21.03:159][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.21.03:159][ 95]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.21.03:159][ 95]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.21.03:160][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.21.03:172][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.21.03:208][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.21.03:230][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.21.03:230][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.21.03:232][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.21.03:239][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.04-23.21.03:291][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.12.04-23.21.13:806][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Pickups/HealthPotion.HealthPotion
+[2022.12.04-23.22.08:658][806]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/Inventory.Inventory
+[2022.12.04-23.22.40:951][741]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/UseDropHUD.UseDropHUD
+[2022.12.04-23.22.56:774][865]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/InventorySlot.InventorySlot
+[2022.12.04-23.25.34:413][744]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.25.34:421][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.25.34:421][744]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 11:25:34 AM)
+[2022.12.04-23.25.34:421][744]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.25.34:434][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013072s)
+[2022.12.04-23.25.34:436][744]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-23.25.34:436][744]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2022.12.04-23.25.34:436][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014967s)
+[2022.12.04-23.25.34:516][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.12.04-23.25.34:519][744]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.25.34:519][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.25.34:519][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.25.34:520][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.25.34:520][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.25.34:520][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.25.34:520][744]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.25.34:524][744]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.25.34:524][744]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.25.34:619][744]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.25.34:619][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.25.34:619][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.25.34:619][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.25.34:620][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.25.34:620][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.25.34:620][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.25.34:621][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.25.34:621][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.25.34:621][744]LogInit: FAudioDevice initialized.
+[2022.12.04-23.25.34:622][744]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-23.25.34:661][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.25.34:661][744]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.25.34:665][744]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-17.25.34
+[2022.12.04-23.25.34:666][744]LogWorld: Bringing up level for play took: 0.003758
+[2022.12.04-23.25.34:666][744]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.12.04-23.25.34:674][744]PIE: Server logged in
+[2022.12.04-23.25.34:677][744]PIE: Play in editor total start time 0.259 seconds.
+[2022.12.04-23.25.37:213][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-23.25.37:687][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.25.37:687][ 25]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-23.25.37:687][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-23.25.41:466][397]LogSlate: Window 'prisonGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.04-23.25.41:478][397]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-23.25.41:516][397]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.25.41:516][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.25.41:526][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.25.41:564][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.25.41:604][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.25.41:606][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.25.41:617][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.12.04-23.25.41:640][398]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.12.04-23.26.20:616][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.12.04-23.26.20:619][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2022.12.04-23.26.20:619][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Pickups/HealthPotion] ([2] browsable assets)...
+[2022.12.04-23.26.20:630][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Pickups/HealthPotion.HealthPotion]
+[2022.12.04-23.26.20:630][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/HealthPotion]
+[2022.12.04-23.26.20:649][704]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/HealthPotion_Auto127737D6A43E75B9241A8BD83869AAD90.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/Inventory/Pickups/HealthPotion_Auto1.uasset'
+[2022.12.04-23.26.20:650][704]LogFileHelpers: Auto-saving content packages took 0.031
