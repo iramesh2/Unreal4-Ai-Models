@@ -2388,3 +2388,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.03-23.56.15:810][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2022.12.03-23.56.15:823][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2022.12.03-23.56.15:829][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.03-23.56.41:351][546]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.03-23.56.41:359][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.03-23.56.41:359][546]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 3, 2022, 11:56:41 AM)
+[2022.12.03-23.56.41:361][546]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.03-23.56.41:362][546]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.03-23.56.41:362][546]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.03-23.56.41:374][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011596s)
+[2022.12.03-23.56.41:375][546]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.03-23.56.41:375][546]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2022.12.03-23.56.41:376][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013248s)
+[2022.12.03-23.56.41:383][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.03-23.56.41:385][546]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.03-23.56.41:385][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.03-23.56.41:385][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.03-23.56.41:386][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.03-23.56.41:386][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.03-23.56.41:386][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.03-23.56.41:386][546]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.03-23.56.41:391][546]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.03-23.56.41:391][546]LogAudioMixer: Display: 1: FrontRight
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.03-23.56.41:478][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.03-23.56.41:478][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.03-23.56.41:480][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.03-23.56.41:480][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.03-23.56.41:480][546]LogInit: FAudioDevice initialized.
+[2022.12.03-23.56.41:480][546]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.12.03-23.56.41:509][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.03-23.56.41:512][546]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.03-17.56.41
+[2022.12.03-23.56.41:512][546]LogWorld: Bringing up level for play took: 0.002488
+[2022.12.03-23.56.41:513][546]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.12.03-23.56.41:516][546]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.12.03-23.56.41:519][546]PIE: Server logged in
+[2022.12.03-23.56.41:521][546]PIE: Play in editor total start time 0.164 seconds.
+[2022.12.03-23.56.43:905][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.03-23.56.50:761][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-23.56.50:762][644]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.03-23.56.50:762][644]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-23.56.50:762][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.56.50:773][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.03-23.56.50:775][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-23.56.50:782][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.03-23.56.50:782][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.03-23.56.50:783][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.03-23.56.50:787][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-23.56.50:789][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.12.03-23.56.50:832][647]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.12.03-23.57.44:557][538]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:3948).
+[2022.12.03-23.57.45:891][600]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.03-23.59.42:603][606]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.12.03-23.59.42:603][606]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Content/Developers/sgosavi2/Collections/' because it could not be accessed. Aborting watch request...
+[2022.12.03-23.59.42:603][606]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
