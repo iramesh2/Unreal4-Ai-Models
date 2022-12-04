@@ -13543,3 +13543,1493 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.04-23.37.24:971][ 24]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2022.12.04-23.37.24:971][ 24]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Content/Developers/sgosavi2/Collections/' because it could not be accessed. Aborting watch request...
 [2022.12.04-23.37.25:107][ 33]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/sgosavi2/Desktop/415prisonGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.12.04-23.38.23:002][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.12.04-23.38.25:966][594]LogSlate: Window 'Save Content' being destroyed
+[2022.12.04-23.38.26:000][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Pickups/HealthPotion" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/HealthPotion.uasset" SILENT=true
+[2022.12.04-23.38.26:015][594]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/HealthPotion4D45519E43AA86B890FCB7A1870B1910.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/HealthPotion.uasset'
+[2022.12.04-23.38.26:283][594]LogBlueprint: Warning: [AssetLog] C:\Users\sgosavi2\Desktop\415prisonGame\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Play Animation ' is unsafe to call in a construction script.
+[2022.12.04-23.38.26:283][594]LogBlueprint: Warning: [AssetLog] C:\Users\sgosavi2\Desktop\415prisonGame\Content\AdvancedVillagePack\Blueprints\BP_Butterfly.uasset: [Compiler] Function ' Set Play Rate ' is unsafe to call in a construction script.
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pack_11_Leafs_DO (OODLE_AutoDXT, 64X64)
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pfx_Smoke (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pack_09_E (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pfx_FlamesAtlas (OODLE_AutoDXT, 4096X2048)
+[2022.12.04-23.38.27:652][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.12.04-23.38.27:652][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pack_03_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.27:652][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.12.04-23.38.27:652][594]LogTexture: Display: Building textures: T_Pack_01_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.28:219][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.28:219][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.28:219][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.12.04-23.38.28:219][594]LogTexture: Display: Building textures: T_Pack_03_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.28:220][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.28:220][594]LogTexture: Display: Building textures: T_Pack_09_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.28:220][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:142][594]LogTexture: Display: Building textures: T_Pack_09_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.33:142][594]LogTexture: Display: Building textures: T_Pack_07_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.33:142][594]LogTexture: Display: Building textures: T_Pack_TreeTrunks_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.33:142][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.33:142][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:142][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:142][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.33:142][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:143][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:143][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:143][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:980][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.33:980][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:980][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.33:981][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.33:981][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.34:747][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.34:747][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.34:748][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.34:748][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.34:748][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.34:748][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_TreeLeafs_RM (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_08_N (OODLE_BC5, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_08_RM (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_TreeTrunks_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_TreeLeafs_Mask (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_TreeLeafs_N (OODLE_BC5, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_TreeLeafs_O (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.35:603][594]LogTexture: Display: Building textures: T_Pack_01_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.36:004][594]LogTexture: Display: Building textures: T_Pack_09_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.36:005][594]LogTexture: Display: Building textures: T_Pack_02_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.36:005][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTexture: Display: Building textures: T_Pack_TreeTrunks_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.39:900][594]LogTexture: Display: Building textures: T_Pack_02_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.39:900][594]LogTexture: Display: Building textures: T_Pack_03_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.39:900][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.40:584][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.40:584][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.40:584][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.40:584][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.40:584][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.41:167][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_TreeLeafs_D (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_03_E (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_06_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_06_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_02_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pfx_Spark (OODLE_AutoDXT, 32X32)
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_06_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_06_O (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTexture: Display: Building textures: T_Pack_01_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:669][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.45:670][594]LogTexture: Display: Building textures: T_Butterflies_D (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.45:670][594]LogMaterial: Display: Missing cached shadermap for M_Uber in PCD3D_SM5, Default, SM5 (DDC key hash: F5EE9E6CA12E50B4D6677DAA3D593B571989C535), compiling. 
+[2022.12.04-23.38.45:737][594]LogTexture: Display: Building textures: T_Butterflies_O (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.45:737][594]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.46:116][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.12.04-23.38.46:116][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.12.04-23.38.46:116][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.12.04-23.38.46:116][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.12.04-23.38.46:116][594]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.46:116][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.46:116][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.46:116][594]LogTexture: Display: Building textures: T_Foliage_Var01_O (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.46:116][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.46:116][594]LogTexture: Display: Building textures: T_Foliage_Var01_D (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.46:116][594]LogStaticMesh: Building static mesh SM_Fish...
+[2022.12.04-23.38.46:132][594]LogTexture: Display: Building textures: T_Pack_08_D (OODLE_AutoDXT, 1024X1024)
+[2022.12.04-23.38.46:132][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Fish.SM_Fish
+[2022.12.04-23.38.46:136][594]LogMaterial: Display: Missing cached shadermap for M_Pfx_Additive in PCD3D_SM5, Default, SM5 (DDC key hash: F2682EE3BD8D53095230D6278A584183D6539828), compiling. 
+[2022.12.04-23.38.46:196][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.46:196][594]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.46:205][594]LogStaticMesh: Building static mesh SM_StreetLight...
+[2022.12.04-23.38.46:260][594]LogTexture: Display: Building textures: T_Pack_04_E (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.46:260][594]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_StreetLight.SM_StreetLight
+[2022.12.04-23.38.46:266][594]LogMaterial: Display: Missing cached shadermap for M_Pfx_TranslucentLit in PCD3D_SM5, Default, SM5 (DDC key hash: D35147B1EF39DE7BAC99278DB24344B779A6BA78), compiling. 
+[2022.12.04-23.38.46:476][594]LogShaderCompilers: Display: Submitted 96 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.46:479][594]LogStaticMesh: Building static mesh SM_Log_Var02...
+[2022.12.04-23.38.46:485][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Log_Var02.SM_Log_Var02
+[2022.12.04-23.38.46:500][594]LogStaticMesh: Building static mesh SM_House_Var02...
+[2022.12.04-23.38.46:699][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.46:707][594]LogStaticMesh: Built static mesh [0.21s] /Game/AdvancedVillagePack/Meshes/SM_House_Var02.SM_House_Var02
+[2022.12.04-23.38.46:716][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra08...
+[2022.12.04-23.38.46:727][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra08.SM_House_Var01_Extra08
+[2022.12.04-23.38.46:736][594]LogStaticMesh: Building static mesh SM_House_Var02_Extra...
+[2022.12.04-23.38.46:782][594]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_House_Var02_Extra.SM_House_Var02_Extra
+[2022.12.04-23.38.46:791][594]LogStaticMesh: Building static mesh SM_Torch_Var02...
+[2022.12.04-23.38.46:834][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Torch_Var02.SM_Torch_Var02
+[2022.12.04-23.38.47:862][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.47:862][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_04_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_05_E (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_05_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_05_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_04_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_05_D (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.47:862][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.47:862][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.47:862][594]LogTexture: Display: Building textures: T_Pack_07_N (OODLE_BC5, 4096X4096)
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2022.12.04-23.38.50:432][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.50:432][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:069][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 122
+[2022.12.04-23.38.52:070][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:070][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:467][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.52:467][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.12.04-23.38.52:954][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.52:954][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.52:954][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.53:402][594]LogTexture: Display: Building textures: T_Foliage_Var02_D (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.53:402][594]LogTexture: Display: Building textures: T_Foliage_Var02_O (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.38.53:402][594]LogTexture: Display: Building textures: T_Pack_04_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.53:402][594]LogTexture: Display: Building textures: T_Pack_07_RM (OODLE_AutoDXT, 4096X4096)
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:326][594]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.04-23.38.55:333][594]LogStaticMesh: Building static mesh ButterflyBody...
+[2022.12.04-23.38.55:335][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/ButterflyBody.ButterflyBody
+[2022.12.04-23.38.55:336][594]LogStaticMesh: Building static mesh ButterflyWing...
+[2022.12.04-23.38.55:337][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/ButterflyWing.ButterflyWing
+[2022.12.04-23.38.55:338][594]LogSkeletalMesh: Display: [AssetLog] C:\Users\sgosavi2\Desktop\415prisonGame\Content\AdvancedVillagePack\Animations\Butterfly_Anim_Var01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.12.04-23.38.55:338][594]LogSkeletalMesh: Building Skeletal Mesh Butterfly_Anim_Var01...
+[2022.12.04-23.38.55:338][594]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var01.Butterfly_Anim_Var01
+[2022.12.04-23.38.55:343][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var04_Anim.Butterfly_Anim_Var04_Anim
+[2022.12.04-23.38.55:343][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var03_Anim.Butterfly_Anim_Var03_Anim
+[2022.12.04-23.38.55:343][594]LogMaterial: Display: Missing cached shadermap for M_Pfx_Diffuse_TwoSidedFoliage in PCD3D_SM5, Default, SM5 (DDC key hash: C0D8808BDA558BF1C5DAF8D4DEF625DAF192873A), compiling. 
+[2022.12.04-23.38.55:486][594]LogShaderCompilers: Display: Submitted 110 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.55:503][594]LogStaticMesh: Building static mesh SM_Tree_Var01...
+[2022.12.04-23.38.55:567][594]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var01.SM_Tree_Var01
+[2022.12.04-23.38.55:574][594]LogStaticMesh: Building static mesh SM_Stone_Small_Var05...
+[2022.12.04-23.38.55:583][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var05.SM_Stone_Small_Var05
+[2022.12.04-23.38.55:589][594]LogMaterial: Display: Missing cached shadermap for M_Uber_Cutout_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: B49D4C18DCD5EF1A577810205F7BD8E8CF50EBB2), compiling. 
+[2022.12.04-23.38.55:674][594]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.55:676][594]LogStaticMesh: Building static mesh SM_Log_Var01...
+[2022.12.04-23.38.55:678][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Log_Var01.SM_Log_Var01
+[2022.12.04-23.38.55:679][594]LogStaticMesh: Building static mesh SM_StoneFlat_Var03...
+[2022.12.04-23.38.55:680][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var03.SM_StoneFlat_Var03
+[2022.12.04-23.38.55:682][594]LogStaticMesh: Building static mesh SM_StoneFlat_Var02...
+[2022.12.04-23.38.55:683][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var02.SM_StoneFlat_Var02
+[2022.12.04-23.38.55:684][594]LogStaticMesh: Building static mesh SM_StoneFlat_Var01...
+[2022.12.04-23.38.55:685][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var01.SM_StoneFlat_Var01
+[2022.12.04-23.38.55:687][594]LogStaticMesh: Building static mesh SM_Stone_Medium_Var05...
+[2022.12.04-23.38.55:699][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var05.SM_Stone_Medium_Var05
+[2022.12.04-23.38.55:702][594]LogStaticMesh: Building static mesh SM_Stone_Medium_Var04...
+[2022.12.04-23.38.55:726][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var04.SM_Stone_Medium_Var04
+[2022.12.04-23.38.55:728][594]LogStaticMesh: Building static mesh SM_Stone_Medium_Var03...
+[2022.12.04-23.38.55:746][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var03.SM_Stone_Medium_Var03
+[2022.12.04-23.38.55:749][594]LogStaticMesh: Building static mesh SM_Stone_Medium_Var02...
+[2022.12.04-23.38.55:769][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var02.SM_Stone_Medium_Var02
+[2022.12.04-23.38.55:772][594]LogStaticMesh: Building static mesh SM_Stone_Medium_Var01...
+[2022.12.04-23.38.55:785][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Medium_Var01.SM_Stone_Medium_Var01
+[2022.12.04-23.38.55:788][594]LogStaticMesh: Building static mesh SM_Stone_Big_Var05...
+[2022.12.04-23.38.55:851][594]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var05.SM_Stone_Big_Var05
+[2022.12.04-23.38.55:854][594]LogStaticMesh: Building static mesh SM_Stone_Big_Var04...
+[2022.12.04-23.38.55:912][594]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var04.SM_Stone_Big_Var04
+[2022.12.04-23.38.55:915][594]LogStaticMesh: Building static mesh SM_Stone_Big_Var03...
+[2022.12.04-23.38.55:959][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var03.SM_Stone_Big_Var03
+[2022.12.04-23.38.55:962][594]LogStaticMesh: Building static mesh SM_Stone_Big_Var02...
+[2022.12.04-23.38.56:001][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var02.SM_Stone_Big_Var02
+[2022.12.04-23.38.56:004][594]LogStaticMesh: Building static mesh SM_Stone_Big_Var01...
+[2022.12.04-23.38.56:045][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Big_Var01.SM_Stone_Big_Var01
+[2022.12.04-23.38.56:054][594]LogStaticMesh: Building static mesh SM_SackWithTomatoes...
+[2022.12.04-23.38.56:246][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 306
+[2022.12.04-23.38.56:246][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.56:251][594]LogStaticMesh: Built static mesh [0.20s] /Game/AdvancedVillagePack/Meshes/SM_SackWithTomatoes.SM_SackWithTomatoes
+[2022.12.04-23.38.56:262][594]LogStaticMesh: Building static mesh SM_SackWithPotatoes...
+[2022.12.04-23.38.56:330][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_SackWithPotatoes.SM_SackWithPotatoes
+[2022.12.04-23.38.56:342][594]LogStaticMesh: Building static mesh SM_SackWithApples...
+[2022.12.04-23.38.56:544][594]LogStaticMesh: Built static mesh [0.20s] /Game/AdvancedVillagePack/Meshes/SM_SackWithApples.SM_SackWithApples
+[2022.12.04-23.38.56:551][594]LogStaticMesh: Building static mesh SM_Sack_Var02...
+[2022.12.04-23.38.56:554][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Var02.SM_Sack_Var02
+[2022.12.04-23.38.56:559][594]LogStaticMesh: Building static mesh SM_Sack_Var01...
+[2022.12.04-23.38.56:576][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Var01.SM_Sack_Var01
+[2022.12.04-23.38.56:580][594]LogStaticMesh: Building static mesh SM_Sack_Tomato...
+[2022.12.04-23.38.56:591][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Tomato.SM_Sack_Tomato
+[2022.12.04-23.38.56:596][594]LogStaticMesh: Building static mesh SM_Sack_Potato...
+[2022.12.04-23.38.56:608][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Potato.SM_Sack_Potato
+[2022.12.04-23.38.56:613][594]LogStaticMesh: Building static mesh SM_Sack_Flour...
+[2022.12.04-23.38.56:626][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Flour.SM_Sack_Flour
+[2022.12.04-23.38.56:630][594]LogStaticMesh: Building static mesh SM_Sack_Apple...
+[2022.12.04-23.38.56:641][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Sack_Apple.SM_Sack_Apple
+[2022.12.04-23.38.56:652][594]LogStaticMesh: Building static mesh SM_Pumpkin_Var03...
+[2022.12.04-23.38.56:668][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pumpkin_Var03.SM_Pumpkin_Var03
+[2022.12.04-23.38.56:680][594]LogStaticMesh: Building static mesh SM_Pumpkin_Var02...
+[2022.12.04-23.38.56:695][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Pumpkin_Var02.SM_Pumpkin_Var02
+[2022.12.04-23.38.56:706][594]LogStaticMesh: Building static mesh SM_Pumpkin_Var01...
+[2022.12.04-23.38.56:723][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pumpkin_Var01.SM_Pumpkin_Var01
+[2022.12.04-23.38.56:727][594]LogStaticMesh: Building static mesh SM_Potato...
+[2022.12.04-23.38.56:734][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Potato.SM_Potato
+[2022.12.04-23.38.56:740][594]LogStaticMesh: Building static mesh SM_Pot_Var06...
+[2022.12.04-23.38.56:752][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 296
+[2022.12.04-23.38.56:752][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.56:752][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var06.SM_Pot_Var06
+[2022.12.04-23.38.56:759][594]LogStaticMesh: Building static mesh SM_Fence_Var02...
+[2022.12.04-23.38.56:771][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var02.SM_Fence_Var02
+[2022.12.04-23.38.56:777][594]LogStaticMesh: Building static mesh SM_Fence_Var01...
+[2022.12.04-23.38.56:789][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var01.SM_Fence_Var01
+[2022.12.04-23.38.56:797][594]LogStaticMesh: Building static mesh SM_Crate_Open...
+[2022.12.04-23.38.56:843][594]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_Crate_Open.SM_Crate_Open
+[2022.12.04-23.38.56:854][594]LogStaticMesh: Building static mesh SM_Crate_Closed...
+[2022.12.04-23.38.56:888][594]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Crate_Closed.SM_Crate_Closed
+[2022.12.04-23.38.56:895][594]LogStaticMesh: Building static mesh SM_Cauldron...
+[2022.12.04-23.38.56:921][594]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Cauldron.SM_Cauldron
+[2022.12.04-23.38.56:937][594]LogStaticMesh: Building static mesh SM_Cart_Var02...
+[2022.12.04-23.38.57:017][594]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedVillagePack/Meshes/SM_Cart_Var02.SM_Cart_Var02
+[2022.12.04-23.38.57:035][594]LogStaticMesh: Building static mesh SM_Cart_Var01...
+[2022.12.04-23.38.57:115][594]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedVillagePack/Meshes/SM_Cart_Var01.SM_Cart_Var01
+[2022.12.04-23.38.57:125][594]LogStaticMesh: Building static mesh SM_Bucket...
+[2022.12.04-23.38.57:146][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Bucket.SM_Bucket
+[2022.12.04-23.38.57:149][594]LogStaticMesh: Building static mesh SM_Bridge_Var04...
+[2022.12.04-23.38.57:156][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var04.SM_Bridge_Var04
+[2022.12.04-23.38.57:162][594]LogStaticMesh: Building static mesh SM_Pot_Var05...
+[2022.12.04-23.38.57:183][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var05.SM_Pot_Var05
+[2022.12.04-23.38.57:189][594]LogStaticMesh: Building static mesh SM_Pot_Var04...
+[2022.12.04-23.38.57:206][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var04.SM_Pot_Var04
+[2022.12.04-23.38.57:213][594]LogStaticMesh: Building static mesh SM_Pot_Var03...
+[2022.12.04-23.38.57:233][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 286
+[2022.12.04-23.38.57:233][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.57:233][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var03.SM_Pot_Var03
+[2022.12.04-23.38.57:238][594]LogStaticMesh: Building static mesh SM_Pot_Var02...
+[2022.12.04-23.38.57:254][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var02.SM_Pot_Var02
+[2022.12.04-23.38.57:258][594]LogStaticMesh: Building static mesh SM_Pot_Var01...
+[2022.12.04-23.38.57:278][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Pot_Var01.SM_Pot_Var01
+[2022.12.04-23.38.57:284][594]LogStaticMesh: Building static mesh SM_Plant...
+[2022.12.04-23.38.57:300][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Plant.SM_Plant
+[2022.12.04-23.38.57:304][594]LogStaticMesh: Building static mesh SM_Pitchfork...
+[2022.12.04-23.38.57:311][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Pitchfork.SM_Pitchfork
+[2022.12.04-23.38.57:319][594]LogStaticMesh: Building static mesh SM_Mushroom_Var06...
+[2022.12.04-23.38.57:343][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var06.SM_Mushroom_Var06
+[2022.12.04-23.38.57:349][594]LogStaticMesh: Building static mesh SM_Mushroom_Var05...
+[2022.12.04-23.38.57:356][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var05.SM_Mushroom_Var05
+[2022.12.04-23.38.57:360][594]LogStaticMesh: Building static mesh SM_Mushroom_Var04...
+[2022.12.04-23.38.57:366][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var04.SM_Mushroom_Var04
+[2022.12.04-23.38.57:375][594]LogStaticMesh: Building static mesh SM_Mushroom_Var03...
+[2022.12.04-23.38.57:394][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var03.SM_Mushroom_Var03
+[2022.12.04-23.38.57:404][594]LogStaticMesh: Building static mesh SM_Mushroom_Var02...
+[2022.12.04-23.38.57:421][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var02.SM_Mushroom_Var02
+[2022.12.04-23.38.57:426][594]LogStaticMesh: Building static mesh SM_Mushroom_Var01...
+[2022.12.04-23.38.57:434][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Mushroom_Var01.SM_Mushroom_Var01
+[2022.12.04-23.38.57:440][594]LogStaticMesh: Building static mesh SM_Logs_Var02...
+[2022.12.04-23.38.57:480][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Logs_Var02.SM_Logs_Var02
+[2022.12.04-23.38.57:490][594]LogStaticMesh: Building static mesh SM_Logs_Var01...
+[2022.12.04-23.38.57:540][594]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_Logs_Var01.SM_Logs_Var01
+[2022.12.04-23.38.57:544][594]LogStaticMesh: Building static mesh SM_Log_Var04...
+[2022.12.04-23.38.57:555][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Log_Var04.SM_Log_Var04
+[2022.12.04-23.38.57:559][594]LogStaticMesh: Building static mesh SM_Ladder...
+[2022.12.04-23.38.57:571][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Ladder.SM_Ladder
+[2022.12.04-23.38.57:590][594]LogStaticMesh: Building static mesh SM_House_Var01_LightsOn...
+[2022.12.04-23.38.57:657][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_LightsOn.SM_House_Var01_LightsOn
+[2022.12.04-23.38.57:664][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra02_LightsOn...
+[2022.12.04-23.38.57:679][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02_LightsOn.SM_House_Var01_Extra02_LightsOn
+[2022.12.04-23.38.57:685][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra01_LightsOn...
+[2022.12.04-23.38.57:719][594]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01_LightsOn.SM_House_Var01_Extra01_LightsOn
+[2022.12.04-23.38.57:724][594]LogStaticMesh: Building static mesh SM_Hay_Stack...
+[2022.12.04-23.38.57:732][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Stack.SM_Hay_Stack
+[2022.12.04-23.38.57:734][594]LogStaticMesh: Building static mesh SM_Hay_Small_Var02...
+[2022.12.04-23.38.57:735][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Small_Var02.SM_Hay_Small_Var02
+[2022.12.04-23.38.57:736][594]LogStaticMesh: Building static mesh SM_Hay_Small_Var01...
+[2022.12.04-23.38.57:737][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Small_Var01.SM_Hay_Small_Var01
+[2022.12.04-23.38.57:742][594]LogStaticMesh: Building static mesh SM_Fence_Var04...
+[2022.12.04-23.38.57:754][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var04.SM_Fence_Var04
+[2022.12.04-23.38.57:760][594]LogStaticMesh: Building static mesh SM_Fence_Var03...
+[2022.12.04-23.38.57:772][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var03.SM_Fence_Var03
+[2022.12.04-23.38.57:780][594]LogMaterial: Display: Missing cached shadermap for M_Simple_Cutout in PCD3D_SM5, Default, SM5 (DDC key hash: E1A62D5BD0595C787C39F32314E6A5C5FCB57B08), compiling. 
+[2022.12.04-23.38.57:851][594]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.57:874][594]LogStaticMesh: Building static mesh SM_Tree_Var05...
+[2022.12.04-23.38.57:943][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var05.SM_Tree_Var05
+[2022.12.04-23.38.57:952][594]LogStaticMesh: Building static mesh SM_Log_Var03...
+[2022.12.04-23.38.57:956][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Log_Var03.SM_Log_Var03
+[2022.12.04-23.38.57:961][594]LogStaticMesh: Building static mesh SM_Spike...
+[2022.12.04-23.38.57:980][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Spike.SM_Spike
+[2022.12.04-23.38.57:982][594]LogStaticMesh: Building static mesh SM_Stone_Small_Var01...
+[2022.12.04-23.38.57:990][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var01.SM_Stone_Small_Var01
+[2022.12.04-23.38.57:991][594]LogStaticMesh: Building static mesh SM_Stone_Small_Var02...
+[2022.12.04-23.38.57:998][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var02.SM_Stone_Small_Var02
+[2022.12.04-23.38.58:000][594]LogStaticMesh: Building static mesh SM_Stone_Small_Var03...
+[2022.12.04-23.38.58:011][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var03.SM_Stone_Small_Var03
+[2022.12.04-23.38.58:013][594]LogStaticMesh: Building static mesh SM_Stone_Small_Var04...
+[2022.12.04-23.38.58:020][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stone_Small_Var04.SM_Stone_Small_Var04
+[2022.12.04-23.38.58:025][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra03...
+[2022.12.04-23.38.58:034][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra03.SM_House_Var01_Extra03
+[2022.12.04-23.38.58:037][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra04...
+[2022.12.04-23.38.58:044][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra04.SM_House_Var01_Extra04
+[2022.12.04-23.38.58:048][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra05...
+[2022.12.04-23.38.58:060][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.SM_House_Var01_Extra05
+[2022.12.04-23.38.58:063][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra06...
+[2022.12.04-23.38.58:066][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra06.SM_House_Var01_Extra06
+[2022.12.04-23.38.58:069][594]LogStaticMesh: Building static mesh SM_House_Var01_Extra07...
+[2022.12.04-23.38.58:085][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra07.SM_House_Var01_Extra07
+[2022.12.04-23.38.58:091][594]LogStaticMesh: Building static mesh SM_Flower_Var01...
+[2022.12.04-23.38.58:111][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var01.SM_Flower_Var01
+[2022.12.04-23.38.58:117][594]LogStaticMesh: Building static mesh SM_Flower_Var02...
+[2022.12.04-23.38.58:141][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var02.SM_Flower_Var02
+[2022.12.04-23.38.58:146][594]LogStaticMesh: Building static mesh SM_Flower_Var03...
+[2022.12.04-23.38.58:171][594]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var03.SM_Flower_Var03
+[2022.12.04-23.38.58:178][594]LogStaticMesh: Building static mesh SM_Flower_Var04...
+[2022.12.04-23.38.58:203][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var04.SM_Flower_Var04
+[2022.12.04-23.38.58:208][594]LogStaticMesh: Building static mesh SM_Flower_Var05...
+[2022.12.04-23.38.58:229][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var05.SM_Flower_Var05
+[2022.12.04-23.38.58:235][594]LogStaticMesh: Building static mesh SM_Flower_Var06...
+[2022.12.04-23.38.58:259][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var06.SM_Flower_Var06
+[2022.12.04-23.38.58:263][594]LogStaticMesh: Building static mesh SM_GrassPatch_Var01...
+[2022.12.04-23.38.58:283][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_GrassPatch_Var01.SM_GrassPatch_Var01
+[2022.12.04-23.38.58:288][594]LogStaticMesh: Building static mesh SM_Well...
+[2022.12.04-23.38.58:300][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Well.SM_Well
+[2022.12.04-23.38.58:305][594]LogStaticMesh: Building static mesh SM_Well_Extra01...
+[2022.12.04-23.38.58:315][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra01.SM_Well_Extra01
+[2022.12.04-23.38.58:322][594]LogStaticMesh: Building static mesh SM_Well_Extra02...
+[2022.12.04-23.38.58:370][594]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra02.SM_Well_Extra02
+[2022.12.04-23.38.58:380][594]LogStaticMesh: Building static mesh SM_Well_Extra03...
+[2022.12.04-23.38.58:458][594]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra03.SM_Well_Extra03
+[2022.12.04-23.38.58:467][594]LogStaticMesh: Building static mesh SM_Well_Extra04...
+[2022.12.04-23.38.58:504][594]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Well_Extra04.SM_Well_Extra04
+[2022.12.04-23.38.58:507][594]LogStaticMesh: Building static mesh SM_Apple...
+[2022.12.04-23.38.58:517][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Apple.SM_Apple
+[2022.12.04-23.38.58:520][594]LogStaticMesh: Building static mesh SM_Axe...
+[2022.12.04-23.38.58:530][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Axe.SM_Axe
+[2022.12.04-23.38.58:543][594]LogStaticMesh: Building static mesh SM_Barrel...
+[2022.12.04-23.38.58:575][594]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Barrel.SM_Barrel
+[2022.12.04-23.38.58:584][594]LogStaticMesh: Building static mesh SM_Boat...
+[2022.12.04-23.38.58:605][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Boat.SM_Boat
+[2022.12.04-23.38.58:610][594]LogStaticMesh: Building static mesh SM_Bridge_Var01...
+[2022.12.04-23.38.58:622][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var01.SM_Bridge_Var01
+[2022.12.04-23.38.58:626][594]LogStaticMesh: Building static mesh SM_Bridge_Var02...
+[2022.12.04-23.38.58:636][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var02.SM_Bridge_Var02
+[2022.12.04-23.38.58:640][594]LogStaticMesh: Building static mesh SM_Bridge_Var03...
+[2022.12.04-23.38.58:651][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var03.SM_Bridge_Var03
+[2022.12.04-23.38.58:654][594]LogStaticMesh: Building static mesh SM_StoneFlat_Var04...
+[2022.12.04-23.38.58:655][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var04.SM_StoneFlat_Var04
+[2022.12.04-23.38.58:656][594]LogStaticMesh: Building static mesh SM_StoneFlat_Var05...
+[2022.12.04-23.38.58:657][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_StoneFlat_Var05.SM_StoneFlat_Var05
+[2022.12.04-23.38.58:660][594]LogStaticMesh: Building static mesh SM_Stonepath_Var01...
+[2022.12.04-23.38.58:669][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 352
+[2022.12.04-23.38.58:669][594]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.38.58:669][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stonepath_Var01.SM_Stonepath_Var01
+[2022.12.04-23.38.58:672][594]LogStaticMesh: Building static mesh SM_Stonepath_Var02...
+[2022.12.04-23.38.58:682][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stonepath_Var02.SM_Stonepath_Var02
+[2022.12.04-23.38.58:685][594]LogStaticMesh: Building static mesh SM_Stonepath_Var03...
+[2022.12.04-23.38.58:693][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Stonepath_Var03.SM_Stonepath_Var03
+[2022.12.04-23.38.58:697][594]LogStaticMesh: Building static mesh SM_Tomato...
+[2022.12.04-23.38.58:706][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Tomato.SM_Tomato
+[2022.12.04-23.38.58:712][594]LogStaticMesh: Building static mesh SM_Torch_Var01...
+[2022.12.04-23.38.58:735][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Torch_Var01.SM_Torch_Var01
+[2022.12.04-23.38.58:753][594]LogStaticMesh: Building static mesh SM_Tree_Var02...
+[2022.12.04-23.38.58:820][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var02.SM_Tree_Var02
+[2022.12.04-23.38.58:840][594]LogStaticMesh: Building static mesh SM_Tree_Var03...
+[2022.12.04-23.38.58:911][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var03.SM_Tree_Var03
+[2022.12.04-23.38.58:930][594]LogStaticMesh: Building static mesh SM_Tree_Var04...
+[2022.12.04-23.38.58:997][594]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Tree_Var04.SM_Tree_Var04
+[2022.12.04-23.38.59:005][594]LogStaticMesh: Building static mesh SM_Treestump_Var01...
+[2022.12.04-23.38.59:009][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Treestump_Var01.SM_Treestump_Var01
+[2022.12.04-23.38.59:013][594]LogStaticMesh: Building static mesh SM_Treestump_Var02...
+[2022.12.04-23.38.59:017][594]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Treestump_Var02.SM_Treestump_Var02
+[2022.12.04-23.38.59:021][594]LogStaticMesh: Building static mesh SM_Watermellon...
+[2022.12.04-23.38.59:028][594]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Watermellon.SM_Watermellon
+[2022.12.04-23.38.59:035][594]LogStaticMesh: Building static mesh SM_Wheel...
+[2022.12.04-23.38.59:055][594]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Wheel.SM_Wheel
+[2022.12.04-23.38.59:060][594]LogMaterial: Display: Missing cached shadermap for M_Uber_Cutout in PCD3D_SM5, Default, SM5 (DDC key hash: 477992F33E96BFBB40ADAAA5B22D3300C9BFEFD1), compiling. 
+[2022.12.04-23.38.59:131][594]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.59:143][594]LogMaterial: Display: Missing cached shadermap for M_Simple_Cutout_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: BC32B7825835459BE3033B4FF963EEA7B24EDBEB), compiling. 
+[2022.12.04-23.38.59:223][594]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2022.12.04-23.38.59:287][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var01_Anim.Butterfly_Anim_Var01_Anim
+[2022.12.04-23.38.59:287][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var02_Anim.Butterfly_Anim_Var02_Anim
+[2022.12.04-23.38.59:287][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedVillagePack/Animations/Butterfly_Anim_Var05_Anim.Butterfly_Anim_Var05_Anim
+[2022.12.04-23.38.59:300][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-23.38.59:300][594]LogShaderCompilers: Display: Total job queries 578, among them cache hits 0 (0.00%)
+[2022.12.04-23.38.59:300][594]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 26 distinct outputs (72.22%)
+[2022.12.04-23.38.59:300][594]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.04-23.38.59:300][594]LogShaderCompilers: Display: ================================================
+[2022.12.04-23.38.59:301][594]LogActorComponent: RegisterComponentWithWorld: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.AdvancedVillagePack_Overview:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.12.04-23.38.59:383][594]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.AdvancedVillagePack_Overview
+[2022.12.04-23.38.59:383][594]Cmd: MAP LOAD FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-23.38.59:383][594]LightingResults: New page: Lighting Build
+[2022.12.04-23.38.59:383][594]LoadErrors: New page: Loading map: AdvancedVillagePack_Overview.umap
+[2022.12.04-23.38.59:392][594]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.38.59:392][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.38.59:393][594]MapCheck: New page: Map Check
+[2022.12.04-23.38.59:393][594]LightingResults: New page: Lighting Build
+[2022.12.04-23.38.59:455][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.38.59:485][594]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2022.12.04-23.38.59:500][594]LogAudio: Display: Audio Device (ID: 1) registered with world 'AdvancedVillagePack_Overview'.
+[2022.12.04-23.38.59:589][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-23.38.59:589][594]LogAIModule: Creating AISystem for world AdvancedVillagePack_Overview
+[2022.12.04-23.38.59:654][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.12.04-23.38.59:664][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-23.38.59:664][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2022.12.04-23.38.59:664][594]LogFileHelpers: Loading map 'AdvancedVillagePack_Overview' took 0.282
+[2022.12.04-23.38.59:697][594]AssetCheck: New page: Asset Save: HealthPotion
+[2022.12.04-23.38.59:697][594]LogContentValidation: Display: Validating Blueprint /Game/Inventory/Pickups/HealthPotion.HealthPotion
+[2022.12.04-23.39.00:374][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.12.04-23.39.00:374][630]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.01:307][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.12.04-23.39.01:307][657]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.01:817][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.12.04-23.39.01:817][675]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.02:699][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.12.04-23.39.02:699][698]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.03:006][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.12.04-23.39.03:006][708]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.03:135][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.12.04-23.39.03:135][712]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.03:944][743]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.12.04-23.39.03:944][743]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.03:962][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.12.04-23.39.03:962][743]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.04:299][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.12.04-23.39.04:299][752]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.04:540][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.12.04-23.39.04:540][760]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.04:652][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 258
+[2022.12.04-23.39.04:652][764]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.04:989][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.04-23.39.05:059][771]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 248
+[2022.12.04-23.39.05:059][771]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.05:059][771]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 238
+[2022.12.04-23.39.05:059][771]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Soil_N (OODLE_BC5, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Grass_DH (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Pebbles_N (OODLE_BC5, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Pebbles_DH (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Soil_DH (OODLE_AutoDXT, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: T_Landscape_Grass_N (OODLE_BC5, 512X512)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2022.12.04-23.39.05:387][771]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.12.04-23.39.05:388][771]LogTexture: Display: Building textures: Texture2D_6_BaseColor (OODLE_DXT1, 64X64)
+[2022.12.04-23.39.05:388][771]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 078991E278CE963B08952B4C2215FF950943C953), compiling. 
+[2022.12.04-23.39.05:454][771]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2022.12.04-23.39.05:454][771]LogTexture: Display: Building textures: T_Water_N (OODLE_BC5, 512X512)
+[2022.12.04-23.39.05:454][771]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.12.04-23.39.05:455][771]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update CurveLinearColor_0
+[2022.12.04-23.39.05:465][771]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 228
+[2022.12.04-23.39.05:465][771]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.05:465][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0) Not registered. Aborting.
+[2022.12.04-23.39.05:468][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1) Not registered. Aborting.
+[2022.12.04-23.39.05:470][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2) Not registered. Aborting.
+[2022.12.04-23.39.05:470][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3) Not registered. Aborting.
+[2022.12.04-23.39.05:470][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_4) Not registered. Aborting.
+[2022.12.04-23.39.05:470][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_5) Not registered. Aborting.
+[2022.12.04-23.39.05:471][771]LogActorComponent: UnregisterComponent: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_6) Not registered. Aborting.
+[2022.12.04-23.39.05:473][771]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EC8DA2AC480964A08FA22B8BC41FDA9CD6FE8268), compiling. 
+[2022.12.04-23.39.05:541][771]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Low' priority
+[2022.12.04-23.39.05:548][771]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: A859F75A178025204E6527E7B7020C92D894BC2B), compiling. 
+[2022.12.04-23.39.05:619][771]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Low' priority
+[2022.12.04-23.39.05:663][771]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_50 in PCD3D_SM5, Default, SM5 (DDC key hash: 51329FA6D91C5BB83BF33ECD3E15541708243757), compiling. 
+[2022.12.04-23.39.05:716][771]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Low' priority
+[2022.12.04-23.39.05:761][771]LogStaticMesh: Building static mesh SM_Plane_1x1...
+[2022.12.04-23.39.05:763][771]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Plane_1x1.SM_Plane_1x1
+[2022.12.04-23.39.05:773][771]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 0D0A4B7B6A3B42EEFF97FC9A59B63BA5100FFC3F), compiling. 
+[2022.12.04-23.39.05:810][771]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2022.12.04-23.39.05:829][771]LogActorComponent: RegisterComponentWithWorld: (/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.12.04-23.39.06:243][771]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2022.12.04-23.39.06:243][771]Cmd: MAP LOAD FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-23.39.06:243][771]LightingResults: New page: Lighting Build
+[2022.12.04-23.39.06:244][771]LoadErrors: New page: Loading map: AdvancedVillagePack_Showcase.umap
+[2022.12.04-23.39.06:250][771]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.39.06:250][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.39.06:250][771]MapCheck: New page: Map Check
+[2022.12.04-23.39.06:250][771]LightingResults: New page: Lighting Build
+[2022.12.04-23.39.06:331][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.39.06:366][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.12.04-23.39.06:368][771]LogAudio: Display: Audio Device (ID: 1) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.39.07:051][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-23.39.07:051][771]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.39.07:165][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.12.04-23.39.07:176][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-23.39.07:176][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.353ms to complete.
+[2022.12.04-23.39.07:176][771]LogFileHelpers: Loading map 'AdvancedVillagePack_Showcase' took 0.933
+[2022.12.04-23.39.08:409][781]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.12.04-23.39.08:409][781]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.08:835][787]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.12.04-23.39.08:835][787]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.09:129][791]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.12.04-23.39.09:129][791]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.10:194][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.12.04-23.39.10:194][807]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.10:625][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.12.04-23.39.10:625][812]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.11:429][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.12.04-23.39.11:429][821]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.12:061][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.12.04-23.39.12:062][827]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.12:183][828]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.12.04-23.39.12:183][828]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.12:237][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.12.04-23.39.12:237][829]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.12:366][829]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 390
+[2022.12.04-23.39.12:366][829]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.12:552][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 380
+[2022.12.04-23.39.12:552][829]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.12:660][830]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 370
+[2022.12.04-23.39.12:660][830]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.13:566][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 360
+[2022.12.04-23.39.13:566][843]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.15:081][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 350
+[2022.12.04-23.39.15:081][866]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.16:464][886]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 340
+[2022.12.04-23.39.16:464][886]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.16:741][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 330
+[2022.12.04-23.39.16:741][888]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.17:024][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 320
+[2022.12.04-23.39.17:024][893]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.17:965][907]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.39.17:983][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.39.17:983][907]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:39:17 AM)
+[2022.12.04-23.39.17:983][907]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.39.18:287][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.302882s)
+[2022.12.04-23.39.18:288][907]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.39.18:322][907]LogPlayLevel: PIE: World Init took: (0.035429s)
+[2022.12.04-23.39.18:322][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.338641s)
+[2022.12.04-23.39.18:397][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.12.04-23.39.18:404][907]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.39.18:404][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.39.18:404][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.39.18:405][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.39.18:405][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.39.18:405][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.39.18:405][907]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.39.18:411][907]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.39.18:411][907]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.39.18:514][907]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.39.18:515][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.39.18:515][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.39.18:515][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.39.18:515][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.39.18:515][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.39.18:516][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.39.18:517][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.39.18:517][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.39.18:517][907]LogInit: FAudioDevice initialized.
+[2022.12.04-23.39.18:517][907]LogAudio: Display: Audio Device (ID: 23) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.39.18:539][907]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.39.18:582][907]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.39.18
+[2022.12.04-23.39.18:596][907]LogWorld: Bringing up level for play took: 0.056422
+[2022.12.04-23.39.18:596][907]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.12.04-23.39.18:599][907]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.39.18:626][907]PIE: Server logged in
+[2022.12.04-23.39.18:627][907]PIE: Play in editor total start time 0.648 seconds.
+[2022.12.04-23.39.19:241][911]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.12.04-23.39.19:241][911]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.19:626][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.12.04-23.39.19:626][913]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.20:086][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.12.04-23.39.20:086][915]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.20:905][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.12.04-23.39.20:905][921]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.21:288][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.12.04-23.39.21:288][923]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.21:694][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.12.04-23.39.21:694][926]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.21:804][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.12.04-23.39.21:804][927]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.21:815][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 296
+[2022.12.04-23.39.21:815][927]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.22:175][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.12.04-23.39.22:175][929]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.22:412][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.12.04-23.39.22:412][931]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.12.04-23.39.22:664][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2022.12.04-23.39.22:664][932]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.22:755][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 276
+[2022.12.04-23.39.22:755][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.24:060][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2022.12.04-23.39.24:060][941]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.25:202][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 256
+[2022.12.04-23.39.25:202][948]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.25:202][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.39.25:202][948]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.39.25:204][948]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.39.25:221][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.39.25:233][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.39.25:247][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.39.25:316][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.39.25:316][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.39.25:318][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.39.25:322][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.39.25:352][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.12.04-23.39.25:400][949]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.12.04-23.39.25:917][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2022.12.04-23.39.25:918][957]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.26:523][962]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 236
+[2022.12.04-23.39.26:523][962]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.27:391][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 226
+[2022.12.04-23.39.27:391][971]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.29:256][999]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 216
+[2022.12.04-23.39.29:256][999]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.29:388][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2022.12.04-23.39.29:388][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.30:492][ 16]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 196
+[2022.12.04-23.39.30:492][ 16]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.36:973][102]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2022.12.04-23.39.36:973][102]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.39:764][140]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.12.04-23.39.39:764][140]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.39:837][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 166
+[2022.12.04-23.39.39:837][141]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.41:409][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 156
+[2022.12.04-23.39.41:409][160]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.41:487][161]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2022.12.04-23.39.41:487][161]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.42:516][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2022.12.04-23.39.42:516][177]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.43:757][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 126
+[2022.12.04-23.39.43:757][196]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.44:949][217]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 116
+[2022.12.04-23.39.44:949][217]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.45:112][220]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2022.12.04-23.39.45:112][220]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.46:055][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2022.12.04-23.39.46:055][236]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.47:503][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.12.04-23.39.47:503][259]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.47:933][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2022.12.04-23.39.47:933][264]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.48:222][268]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2022.12.04-23.39.48:222][268]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.49:933][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2022.12.04-23.39.49:933][292]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.51:076][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2022.12.04-23.39.51:076][312]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.51:076][312]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2022.12.04-23.39.51:076][312]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.51:411][317]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.12.04-23.39.51:411][317]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.53:571][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.12.04-23.39.53:571][353]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.53:714][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.12.04-23.39.53:714][355]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.54:396][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.12.04-23.39.54:396][380]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.54:522][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.12.04-23.39.54:522][384]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.55:042][402]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.12.04-23.39.55:042][402]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.55:042][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.12.04-23.39.55:042][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.55:168][406]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.12.04-23.39.55:168][406]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.55:370][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.12.04-23.39.55:370][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.39.55:370][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 232
+[2022.12.04-23.39.55:371][414]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.39.55:478][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 222
+[2022.12.04-23.39.55:478][418]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.39.55:634][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 212
+[2022.12.04-23.39.55:634][424]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.39.55:968][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 202
+[2022.12.04-23.39.55:968][437]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.39.59:552][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 192
+[2022.12.04-23.39.59:552][617]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.39.59:882][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 182
+[2022.12.04-23.39.59:882][633]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.00:551][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 172
+[2022.12.04-23.40.00:551][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.00:847][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 162
+[2022.12.04-23.40.00:847][681]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.03:105][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2022.12.04-23.40.03:105][764]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.03:201][766]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2022.12.04-23.40.03:201][766]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.04:022][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2022.12.04-23.40.04:022][814]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.04:344][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2022.12.04-23.40.04:344][826]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.07:306][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.12.04-23.40.07:306][909]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.08:384][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.12.04-23.40.08:384][938]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.09:070][957]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.12.04-23.40.09:070][957]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.09:073][957]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.12.04-23.40.09:073][957]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.10:609][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.12.04-23.40.10:609][  2]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.10:705][  5]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.12.04-23.40.10:705][  5]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.10:975][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.12.04-23.40.10:975][ 13]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.11:461][ 28]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.12.04-23.40.11:461][ 28]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.11:723][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.12.04-23.40.11:723][ 36]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.04-23.40.12:073][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2022.12.04-23.40.12:073][ 47]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.12:180][ 50]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2022.12.04-23.40.12:180][ 50]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.12:270][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2022.12.04-23.40.12:270][ 53]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.12:343][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2022.12.04-23.40.12:343][ 55]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.15:220][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2022.12.04-23.40.15:220][154]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.15:447][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.12.04-23.40.15:447][162]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.16:075][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.12.04-23.40.16:075][185]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.16:600][207]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.12.04-23.40.16:600][207]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.17:725][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.12.04-23.40.17:725][252]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.17:843][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.12.04-23.40.17:843][257]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.18:136][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.12.04-23.40.18:136][265]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.18:532][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.12.04-23.40.18:532][278]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.18:554][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.12.04-23.40.18:554][279]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.18:646][281]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.12.04-23.40.18:646][281]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.12.04-23.40.23:768][565]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.40.23:778][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.40.23:778][565]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:40:23 AM)
+[2022.12.04-23.40.23:779][565]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.40.23:971][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.191442s)
+[2022.12.04-23.40.23:971][565]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.40.23:972][565]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2022.12.04-23.40.23:972][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.192858s)
+[2022.12.04-23.40.24:022][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.04-23.40.24:032][565]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.12.04-23.40.24:032][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.40.24:032][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.40.24:032][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.40.24:032][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.40.24:032][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.40.24:033][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.40.24:033][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.40.24:033][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.40.24:033][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.40.24:033][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.40.24:033][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.40.24:033][565]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.40.24:037][565]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.40.24:037][565]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.40.24:118][565]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.40.24:118][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.40.24:118][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.40.24:118][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.40.24:118][565]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.40.24:119][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.40.24:119][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.40.24:120][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.40.24:120][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.40.24:120][565]LogInit: FAudioDevice initialized.
+[2022.12.04-23.40.24:120][565]LogAudio: Display: Audio Device (ID: 24) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.40.24:128][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.40.24:157][565]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.40.24
+[2022.12.04-23.40.24:166][565]LogWorld: Bringing up level for play took: 0.037552
+[2022.12.04-23.40.24:166][565]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2022.12.04-23.40.24:168][565]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.40.24:183][565]PIE: Server logged in
+[2022.12.04-23.40.24:184][565]PIE: Play in editor total start time 0.408 seconds.
+[2022.12.04-23.41.29:899][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.41.29:899][705]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.41.29:901][705]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.41.29:913][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.41.29:925][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.41.29:941][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.41.29:995][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.41.29:995][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.41.29:996][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.41.30:026][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.12.04-23.41.30:070][706]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.12.04-23.41.40:139][237]LogSlate: Window 'Master Sequence Settings' being destroyed
+[2022.12.04-23.41.42:176][332]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.04-23.41.43:789][332]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.04-23.41.54:569][887]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.04-23.42.03:724][304]LogSlate: Window 'Project Settings' being destroyed
+[2022.12.04-23.42.03:744][304]LogSlate: Window 'Project Settings' being destroyed
+[2022.12.04-23.42.04:933][373]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.42.04:944][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.42.04:944][373]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:42:04 AM)
+[2022.12.04-23.42.04:944][373]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.42.05:138][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193421s)
+[2022.12.04-23.42.05:139][373]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.42.05:140][373]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2022.12.04-23.42.05:140][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.194832s)
+[2022.12.04-23.42.05:222][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.12.04-23.42.05:229][373]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.42.05:229][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.42.05:229][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.42.05:229][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.42.05:229][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.42.05:229][373]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.42.05:233][373]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.42.05:233][373]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.42.05:321][373]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.42.05:321][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.42.05:321][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.42.05:321][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.42.05:322][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.42.05:322][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.42.05:322][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.42.05:323][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.42.05:323][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.42.05:323][373]LogInit: FAudioDevice initialized.
+[2022.12.04-23.42.05:323][373]LogAudio: Display: Audio Device (ID: 25) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.42.05:329][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.42.05:360][373]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.42.05
+[2022.12.04-23.42.05:369][373]LogWorld: Bringing up level for play took: 0.038754
+[2022.12.04-23.42.05:369][373]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.12.04-23.42.05:371][373]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.42.05:387][373]PIE: Server logged in
+[2022.12.04-23.42.05:388][373]PIE: Play in editor total start time 0.446 seconds.
+[2022.12.04-23.42.08:030][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.42.08:030][521]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.42.08:031][521]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.42.08:043][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.42.08:055][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.42.08:072][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.42.08:117][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.42.08:119][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.42.08:120][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.42.08:170][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.12.04-23.42.08:212][522]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.12.04-23.44.53:913][315]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2022.12.04-23.44.56:444][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.12.04-23.45.07:954][132]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.12.04-23.45.14:093][305]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.04-23.45.23:981][848]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.04-23.45.54:103][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.12.04-23.45.55:742][279]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/AdvancedVillagePack_Showcase79CDCCAE460959C5891FB39C2EB098BA.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2022.12.04-23.45.55:774][279]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2022.12.04-23.45.55:774][279]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2022.12.04-23.45.56:196][299]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.45.56:211][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.45.56:211][299]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:45:56 AM)
+[2022.12.04-23.45.56:211][299]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.45.56:400][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.189149s)
+[2022.12.04-23.45.56:401][299]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.45.56:401][299]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2022.12.04-23.45.56:401][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.190699s)
+[2022.12.04-23.45.56:454][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.12.04-23.45.56:458][299]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.45.56:458][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.45.56:458][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.45.56:458][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.45.56:458][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.45.56:458][299]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.45.56:463][299]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.45.56:463][299]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.45.56:546][299]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.45.56:547][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.45.56:547][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.45.56:547][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.45.56:547][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.45.56:547][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.45.56:547][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.45.56:548][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.45.56:548][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.45.56:548][299]LogInit: FAudioDevice initialized.
+[2022.12.04-23.45.56:548][299]LogAudio: Display: Audio Device (ID: 26) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.45.56:555][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.45.56:586][299]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.45.56
+[2022.12.04-23.45.56:595][299]LogWorld: Bringing up level for play took: 0.038958
+[2022.12.04-23.45.56:595][299]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.12.04-23.45.56:597][299]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.45.56:613][299]PIE: Server logged in
+[2022.12.04-23.45.56:614][299]PIE: Play in editor total start time 0.406 seconds.
+[2022.12.04-23.46.12:730][214]Cmd: 13578904-q;lkJ fhs:"
+[2022.12.04-23.46.19:490][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.46.19:490][550]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.46.19:491][550]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.46.19:503][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.46.19:511][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.46.19:529][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.46.19:585][550]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.46.19:586][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.46.19:587][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.46.19:591][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.46.19:625][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.12.04-23.46.19:654][551]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.12.04-23.46.44:104][630]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree18)
+[2022.12.04-23.46.45:276][681]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2022.12.04-23.46.46:651][740]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.12.04-23.46.51:124][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.12.04-23.46.51:143][876]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2022.12.04-23.46.51:143][876]Cmd: MAP LOAD FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-23.46.51:144][876]LightingResults: New page: Lighting Build
+[2022.12.04-23.46.51:144][876]LoadErrors: New page: Loading map: AdvancedVillagePack_Showcase.umap
+[2022.12.04-23.46.51:162][876]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.46.51:162][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.46.51:163][876]MapCheck: New page: Map Check
+[2022.12.04-23.46.51:163][876]LightingResults: New page: Lighting Build
+[2022.12.04-23.46.51:218][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.46.51:262][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.12.04-23.46.51:473][876]LogAudio: Display: Audio Device (ID: 1) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.46.51:475][876]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.46.51:900][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-23.46.51:989][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.12.04-23.46.51:995][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-23.46.51:995][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2022.12.04-23.46.51:995][876]LogFileHelpers: Loading map 'AdvancedVillagePack_Showcase' took 0.851
+[2022.12.04-23.47.11:345][856]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.47.11:357][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.47.11:357][856]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:47:11 AM)
+[2022.12.04-23.47.11:397][856]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.47.11:598][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201643s)
+[2022.12.04-23.47.11:599][856]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.47.11:600][856]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2022.12.04-23.47.11:600][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.203202s)
+[2022.12.04-23.47.11:652][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.12.04-23.47.11:655][856]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.47.11:655][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.47.11:655][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.47.11:656][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.47.11:656][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.47.11:656][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.47.11:656][856]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.47.11:660][856]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.47.11:660][856]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.47.11:744][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.47.11:744][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.47.11:745][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.47.11:745][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.47.11:745][856]LogInit: FAudioDevice initialized.
+[2022.12.04-23.47.11:745][856]LogAudio: Display: Audio Device (ID: 27) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.47.11:752][856]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.47.11:782][856]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.47.11
+[2022.12.04-23.47.11:791][856]LogWorld: Bringing up level for play took: 0.038095
+[2022.12.04-23.47.11:791][856]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.12.04-23.47.11:793][856]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.47.11:809][856]PIE: Server logged in
+[2022.12.04-23.47.11:810][856]PIE: Play in editor total start time 0.455 seconds.
+[2022.12.04-23.49.35:678][503]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.49.35:678][503]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-23.49.35:678][503]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-23.49.36:057][531]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.49.36:057][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.49.50:432][585]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-23.49.50:433][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-23.49.50:906][618]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-23.49.50:906][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-23.50.37:481][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.50.37:481][277]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.50.37:482][277]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.50.37:495][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.50.37:507][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.50.37:517][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.50.37:574][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.50.37:574][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.50.37:575][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.50.37:580][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.50.37:606][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.12.04-23.50.37:665][278]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.12.04-23.50.52:428][ 73]Cmd: ACTOR SELECT ALL
+[2022.12.04-23.50.52:597][ 75]Cmd: DELETE
+[2022.12.04-23.50.52:597][ 75]Cmd: ACTOR DELETE
+[2022.12.04-23.50.52:597][ 75]LogEditorActor: Cannot delete special actor Brush /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.Brush_0
+[2022.12.04-23.50.52:996][ 75]LogEditorActor: Deleted Actor: PostProcessVolume
+[2022.12.04-23.50.52:997][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.52:998][ 75]LogEditorActor: Deleted Actor: SkyLight
+[2022.12.04-23.50.52:998][ 75]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2022.12.04-23.50.53:001][ 75]LogEditorActor: Deleted Actor: Landscape
+[2022.12.04-23.50.53:013][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:014][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:014][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:015][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:015][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:015][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:016][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:016][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:016][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:017][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:017][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:017][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:018][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:018][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:018][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:019][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:019][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:019][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:020][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:020][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:020][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:021][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:021][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:021][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:022][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:022][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:022][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:023][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:023][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:023][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:024][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:024][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:024][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:025][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:025][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:025][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:026][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:026][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:027][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:027][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:027][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:028][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:028][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:028][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:029][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:029][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:029][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:030][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:030][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:030][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:031][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:031][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:031][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:032][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:032][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:032][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:033][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:033][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:033][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:034][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:034][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:034][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:035][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:035][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:035][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:036][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:036][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:037][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:037][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:037][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:038][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:038][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:038][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:039][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:039][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:039][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:040][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:040][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:040][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:041][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:041][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:041][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:042][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:042][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:042][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:043][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:043][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:043][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:044][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:044][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:044][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:045][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:045][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:045][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:046][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:046][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:046][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:047][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:047][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:047][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:048][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:048][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:048][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:049][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:049][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:049][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:050][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:050][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:050][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:051][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:051][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:051][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:052][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:052][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:052][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:053][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:053][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:053][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:054][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:054][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:055][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:055][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:055][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:056][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:056][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:056][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:057][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:057][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:057][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:058][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:058][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:058][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:059][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:059][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:059][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:060][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:060][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:060][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:061][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:061][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:061][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:062][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:062][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:062][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:063][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:063][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:063][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:064][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:064][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:064][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:065][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:065][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:065][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:066][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:066][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:066][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:067][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:067][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:067][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:068][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:068][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:068][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:069][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:069][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:069][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:070][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:070][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:070][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:071][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:071][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:071][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:072][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:072][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:072][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:073][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:073][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:073][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:074][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:074][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:074][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:075][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:075][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:075][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:076][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:077][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:077][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:077][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:078][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:078][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:078][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:079][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:079][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:079][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:080][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:080][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:080][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:081][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:081][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:081][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:082][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:082][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:082][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:083][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:083][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:083][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:084][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:084][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:084][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:085][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:085][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:085][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:086][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:086][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:086][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:087][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:087][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:087][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:088][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:088][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:088][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:089][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:089][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:089][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:090][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:090][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:090][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:091][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:091][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:091][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:092][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:092][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:092][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:093][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:093][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:093][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:094][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:094][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:094][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:095][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:095][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:095][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:096][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:096][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:096][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:097][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:097][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:097][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:098][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:098][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:099][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:099][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:099][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:100][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:100][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:100][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:101][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:101][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:101][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:102][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:102][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:102][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:103][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:103][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:103][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:104][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:104][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:104][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:105][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:105][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:105][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:106][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:106][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:106][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:107][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:107][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:107][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:108][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:108][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:108][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:109][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:109][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:109][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:110][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:110][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:110][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:111][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:111][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:111][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:112][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:112][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:112][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:113][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:113][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:113][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:114][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:114][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:114][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:115][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:115][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:115][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.04-23.50.53:116][ 75]LogEditorActor: Actor CameraActor01 is referenced by MatineeActor.
+[2022.12.04-23.50.56:290][ 75]LogSlate: Window 'Message' being destroyed
+[2022.12.04-23.50.56:315][ 75]Message dialog closed, result: Cancel, title: Message, text: Actor CameraActor01 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.04-23.50.56:315][ 75]LogEditorActor: Actor CameraActor02 is referenced by MatineeActor.
+[2022.12.04-23.50.57:489][ 75]LogSlate: Window 'Message' being destroyed
+[2022.12.04-23.50.57:493][ 75]Message dialog closed, result: Cancel, title: Message, text: Actor CameraActor02 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.04-23.50.57:493][ 75]LogEditorActor: Actor CameraActor03 is referenced by MatineeActor.
+[2022.12.04-23.51.02:951][ 75]LogSlate: Window 'Message' being destroyed
+[2022.12.04-23.51.02:956][ 75]Message dialog closed, result: No, title: Message, text: Actor CameraActor03 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.04-23.51.02:956][ 75]LogEditorActor: Actor CameraActor04 is referenced by MatineeActor.
+[2022.12.04-23.51.03:904][ 75]LogSlate: Window 'Message' being destroyed
+[2022.12.04-23.51.03:908][ 75]Message dialog closed, result: NoAll, title: Message, text: Actor CameraActor04 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.04-23.51.03:960][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.12.04-23.51.03:978][ 75]LogEditorActor: Deleted 307 Actors (0.588 secs)
+[2022.12.04-23.51.08:742][160]Cmd: TRANSACTION UNDO
+[2022.12.04-23.51.08:742][160]LogEditorTransaction: Undo Delete Actors
+[2022.12.04-23.51.09:066][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.04-23.51.14:408][237]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.12.04-23.51.29:163][876]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.04-23.51.30:660][943]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.04-23.51.34:714][114]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.04-23.51.35:731][159]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree202)
+[2022.12.04-23.51.36:749][206]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree202)
+[2022.12.04-23.51.37:319][230]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.04-23.51.38:885][300]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.04-23.52.08:290][641]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-23.52.08:303][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-23.52.08:303][641]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 11:52:08 AM)
+[2022.12.04-23.52.08:303][641]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.52.08:493][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.189860s)
+[2022.12.04-23.52.08:494][641]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.04-23.52.08:494][641]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2022.12.04-23.52.08:494][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.191373s)
+[2022.12.04-23.52.08:552][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.04-23.52.08:555][641]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-23.52.08:555][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-23.52.08:556][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-23.52.08:556][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-23.52.08:556][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-23.52.08:556][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-23.52.08:556][641]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-23.52.08:561][641]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-23.52.08:561][641]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-23.52.08:642][641]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-23.52.08:642][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-23.52.08:642][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-23.52.08:642][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-23.52.08:643][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-23.52.08:643][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-23.52.08:643][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-23.52.08:644][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-23.52.08:644][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-23.52.08:644][641]LogInit: FAudioDevice initialized.
+[2022.12.04-23.52.08:644][641]LogAudio: Display: Audio Device (ID: 28) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.04-23.52.08:655][641]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-23.52.08:685][641]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-17.52.08
+[2022.12.04-23.52.08:694][641]LogWorld: Bringing up level for play took: 0.038055
+[2022.12.04-23.52.08:694][641]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.12.04-23.52.08:696][641]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.04-23.52.08:713][641]PIE: Server logged in
+[2022.12.04-23.52.08:714][641]PIE: Play in editor total start time 0.414 seconds.
+[2022.12.04-23.52.41:990][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.52.41:990][179]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.04-23.52.41:992][179]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-23.52.42:004][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.52.42:012][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-23.52.42:028][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-23.52.42:087][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-23.52.42:087][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.52.42:089][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-23.52.42:093][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-23.52.42:119][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.12.04-23.52.42:145][180]LogPlayLevel: Display: Destroying online subsystem :Context_56
