@@ -2745,3 +2745,601 @@ Make sure 'EndPicp_C' has been compiled for  Get ItemInfo
 [2022.12.04-19.46.59:875][628]LogSlate: Window 'Message Log' being destroyed
 [2022.12.04-19.47.44:621][107]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
 [2022.12.04-19.47.44:643][107]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-19.48.12:307][715]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.48.12:317][715]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.04-19.48.12:323][715]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2022.12.04-19.48.12:454][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.12.04-19.48.12:458][715]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (1 blueprints)
+[2022.12.04-19.48.12:458][715]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:48:12 AM)
+[2022.12.04-19.48.12:458][715]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.48.12:473][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014307s)
+[2022.12.04-19.48.12:474][715]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.48.12:474][715]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2022.12.04-19.48.12:474][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016125s)
+[2022.12.04-19.48.12:514][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.12.04-19.48.12:515][715]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.48.12:515][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.48.12:515][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.48.12:515][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.48.12:515][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.48.12:515][715]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.48.12:519][715]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.48.12:519][715]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.48.12:610][715]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.48.12:610][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.48.12:610][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.48.12:610][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.48.12:611][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.48.12:611][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.48.12:611][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.48.12:612][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.48.12:612][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.48.12:612][715]LogInit: FAudioDevice initialized.
+[2022.12.04-19.48.12:612][715]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.48.12:624][715]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.48.12:627][715]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.48.12
+[2022.12.04-19.48.12:627][715]LogWorld: Bringing up level for play took: 0.002829
+[2022.12.04-19.48.12:628][715]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.12.04-19.48.12:631][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.48.12:631][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.48.12:633][715]PIE: Server logged in
+[2022.12.04-19.48.12:634][715]PIE: Play in editor total start time 0.32 seconds.
+[2022.12.04-19.48.13:648][775]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.48.13:648][775]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.48.13:648][775]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.48.14:031][798]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.48.14:031][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.48.16:685][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.48.17:420][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.48.17:420][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.48.17:920][ 31]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.48.17:920][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.48.18:788][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.48.19:072][100]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.48.19:072][100]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.48.19:689][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.48.19:689][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.48.20:974][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.48.21:209][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.48.21:409][240]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.48.21:409][240]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.48.25:264][471]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.48.25:264][471]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.48.27:367][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.48.27:819][624]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.48.27:819][624]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.48.28:553][668]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.48.28:553][668]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.48.28:928][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.48.28:928][688]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.48.28:928][688]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.48.28:929][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.48.28:938][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.48.28:957][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.48.28:989][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.48.28:989][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.48.28:991][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.48.28:999][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.12.04-19.48.29:127][689]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.12.04-19.48.30:720][771]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-19.48.30:741][771]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-19.48.32:707][881]LogEditorViewport: Clicking on Actor (LMB): AttackPotion_C (AttackPotion)
+[2022.12.04-19.48.36:645][115]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (HealthPotion2)
+[2022.12.04-19.48.38:865][247]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (HealthPotion)
+[2022.12.04-19.48.41:319][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.04-19.48.42:675][472]LogEditorViewport: Clicking on Actor (LMB): CorruptingPotion_C (CorruptingPotion)
+[2022.12.04-19.48.45:263][626]LogEditorViewport: Clicking on Actor (LMB): HealthPotion_C (HealthPotion2)
+[2022.12.04-19.48.46:231][683]LogEditorViewport: Clicking on Actor (LMB): CorruptingPotion_C (CorruptingPotion2)
+[2022.12.04-19.48.49:009][847]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion
+[2022.12.04-19.48.54:245][132]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.04-19.48.54:268][132]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-19.49.00:724][503]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.49.00:724][503]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.49.00:724][503]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.49.00:724][503]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.49.09:920][  3]LogEditorTransaction: Undo Edit Stackable
+[2022.12.04-19.49.12:711][138]LogEditorTransaction: Undo Edit Stackable
+[2022.12.04-19.49.13:829][203]LogEditorTransaction: Undo Edit itemClass
+[2022.12.04-19.49.14:312][230]LogEditorTransaction: Undo Edit itemClass
+[2022.12.04-19.49.14:612][247]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.04-19.49.14:895][262]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.04-19.49.15:646][307]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.04-19.49.26:208][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2022.12.04-19.49.26:993][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.12.04-19.49.27:025][930]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap1AD69A7F4C06C0D11D0FBCB963AF1E58.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.04-19.49.27:056][930]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.04-19.49.27:056][930]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.04-19.49.29:031][ 50]BlueprintLog: New page: Compile CorruptingPotion
+[2022.12.04-19.49.29:095][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.12.04-19.49.29:786][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Pickups/CorruptingPotion" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset" SILENT=true
+[2022.12.04-19.49.29:805][ 86]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/CorruptingPotion49530A79457F90DA2A889C812A1DCD4F.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset'
+[2022.12.04-19.49.29:839][ 86]AssetCheck: New page: Asset Save: CorruptingPotion
+[2022.12.04-19.49.29:839][ 86]LogContentValidation: Display: Validating Blueprint /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion
+[2022.12.04-19.49.30:757][142]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.49.30:765][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-19.49.30:765][142]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:49:30 AM)
+[2022.12.04-19.49.30:765][142]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.49.30:777][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011728s)
+[2022.12.04-19.49.30:778][142]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.49.30:779][142]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2022.12.04-19.49.30:779][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013189s)
+[2022.12.04-19.49.30:821][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.12.04-19.49.30:822][142]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.49.30:822][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.49.30:822][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.49.30:823][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.49.30:823][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.49.30:823][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.49.30:823][142]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.49.30:827][142]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.49.30:827][142]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.49.30:923][142]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.49.30:923][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.49.30:923][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.49.30:923][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.49.30:924][142]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.49.30:924][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.49.30:924][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.49.30:925][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.49.30:925][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.49.30:925][142]LogInit: FAudioDevice initialized.
+[2022.12.04-19.49.30:925][142]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.49.30:935][142]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.49.30:937][142]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.49.30
+[2022.12.04-19.49.30:938][142]LogWorld: Bringing up level for play took: 0.002619
+[2022.12.04-19.49.30:938][142]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.12.04-19.49.30:942][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.49.30:942][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.49.30:943][142]PIE: Server logged in
+[2022.12.04-19.49.30:944][142]PIE: Play in editor total start time 0.182 seconds.
+[2022.12.04-19.49.31:777][192]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.31:777][192]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.49.31:777][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.49.32:193][217]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.32:193][217]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.33:779][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.49.34:097][331]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.34:097][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.49.34:496][355]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.34:496][355]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.35:231][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.49.35:549][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.35:550][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.49.36:099][451]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.36:099][451]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.36:566][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.49.36:851][496]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.36:851][496]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.49.37:285][522]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.37:285][522]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.39:421][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.49.39:772][671]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.39:772][671]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.49.40:288][702]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.40:289][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.42:842][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.49.43:061][868]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.49.43:061][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.49.43:944][921]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.49.43:944][921]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.49.45:038][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.49.45:038][984]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.49.45:039][984]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.49.45:039][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.49.45:052][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.49.45:071][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.49.45:107][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.49.45:107][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.49.45:108][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.49.45:118][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.12.04-19.49.45:248][985]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.12.04-19.49.47:118][ 85]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-19.49.47:138][ 85]LogSlate: Window 'Message Log' being destroyed
+[2022.12.04-19.49.58:385][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2022.12.04-19.50.02:044][975]LogEditorViewport: Clicking on Actor (LMB): CorruptingPotion_C (CorruptingPotion2)
+[2022.12.04-19.50.12:238][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.04-19.50.12:260][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-19.50.13:363][440]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.50.13:363][440]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.50.13:363][440]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.50.13:363][440]Invalid object 'BlueprintGeneratedClass /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion_C' specified for property 'itemClass_12_6D5F700A416097B07AD55A945D584143'
+[2022.12.04-19.50.14:554][529]BlueprintLog: New page: Compile CorruptingPotion
+[2022.12.04-19.50.14:625][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.12.04-19.50.15:555][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Pickups/CorruptingPotion" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset" SILENT=true
+[2022.12.04-19.50.15:574][576]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/CorruptingPotion04163C3A45AD7FC3F6985385120B2022.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset'
+[2022.12.04-19.50.15:589][576]AssetCheck: New page: Asset Save: CorruptingPotion
+[2022.12.04-19.50.15:589][576]LogContentValidation: Display: Validating Blueprint /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion
+[2022.12.04-19.50.16:530][645]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.50.16:537][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-19.50.16:538][645]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:50:16 AM)
+[2022.12.04-19.50.16:575][645]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.50.16:587][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011683s)
+[2022.12.04-19.50.16:588][645]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.50.16:588][645]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2022.12.04-19.50.16:588][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013168s)
+[2022.12.04-19.50.16:629][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.12.04-19.50.16:630][645]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.50.16:630][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.50.16:630][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.50.16:631][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.50.16:631][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.50.16:631][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.50.16:631][645]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.50.16:635][645]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.50.16:635][645]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.50.16:716][645]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.50.16:716][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.50.16:716][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.50.16:717][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.50.16:717][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.50.16:717][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.50.16:717][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.50.16:718][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.50.16:718][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.50.16:718][645]LogInit: FAudioDevice initialized.
+[2022.12.04-19.50.16:718][645]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.50.16:731][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.50.16:734][645]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.50.16
+[2022.12.04-19.50.16:735][645]LogWorld: Bringing up level for play took: 0.003077
+[2022.12.04-19.50.16:735][645]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.12.04-19.50.16:738][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.50.16:738][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.50.16:740][645]PIE: Server logged in
+[2022.12.04-19.50.16:741][645]PIE: Play in editor total start time 0.207 seconds.
+[2022.12.04-19.50.18:593][771]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.18:593][771]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.50.18:593][771]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.50.18:984][809]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.18:984][809]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.21:909][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.50.22:182][125]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.22:183][125]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.22:676][174]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.22:676][174]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.23:191][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.50.23:476][253]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.23:476][253]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.23:928][298]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.23:928][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.26:334][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.50.26:561][560]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.26:561][560]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.27:284][632]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.27:284][632]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.28:617][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.50.28:824][787]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.28:824][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.29:751][881]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.29:751][881]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.31:538][ 59]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.31:538][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.31:945][100]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.31:945][100]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.33:471][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.50.33:793][286]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.50.33:793][286]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.50.36:821][592]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.50.36:821][592]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.50.37:477][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.50.37:478][656]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.50.37:478][656]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.50.37:478][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.50.37:493][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.50.37:504][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.50.37:539][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-19.50.37:539][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.50.37:540][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.50.37:545][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.50.37:549][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.12.04-19.50.37:683][657]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.12.04-19.50.41:588][812]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.04-19.50.41:610][812]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-19.51.05:587][301]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.12.04-19.51.05:619][301]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Pickups/NewHealthPotion_C.NewHealthPotion_C
+[2022.12.04-19.51.12:290][674]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.51.12:290][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.51.13:885][765]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.04-19.51.13:907][765]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-19.51.21:048][168]BlueprintLog: New page: Compile CorruptingPotion
+[2022.12.04-19.51.21:122][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.12.04-19.51.22:535][245]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.51.22:544][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-19.51.22:544][245]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:51:22 AM)
+[2022.12.04-19.51.22:544][245]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.51.22:556][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011927s)
+[2022.12.04-19.51.22:557][245]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.51.22:557][245]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2022.12.04-19.51.22:557][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013256s)
+[2022.12.04-19.51.22:599][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.12.04-19.51.22:600][245]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.12.04-19.51.22:600][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.51.22:600][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.51.22:600][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.51.22:600][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.51.22:600][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.51.22:601][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.51.22:601][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.51.22:601][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.51.22:601][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.51.22:601][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.51.22:601][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.51.22:601][245]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.51.22:605][245]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.51.22:605][245]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.51.22:699][245]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.51.22:699][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.51.22:699][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.51.22:699][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.51.22:700][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.51.22:700][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.51.22:700][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.51.22:701][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.51.22:701][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.51.22:701][245]LogInit: FAudioDevice initialized.
+[2022.12.04-19.51.22:701][245]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.51.22:715][245]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.51.22:718][245]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.51.22
+[2022.12.04-19.51.22:718][245]LogWorld: Bringing up level for play took: 0.002951
+[2022.12.04-19.51.22:719][245]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2022.12.04-19.51.22:722][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.51.22:722][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.51.22:724][245]PIE: Server logged in
+[2022.12.04-19.51.22:725][245]PIE: Play in editor total start time 0.184 seconds.
+[2022.12.04-19.51.24:241][315]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.24:241][315]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.51.24:241][315]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.51.24:608][337]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.24:608][337]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.25:947][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.51.26:127][428]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.26:127][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.51.26:527][452]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.26:527][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.27:262][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.51.27:397][504]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.27:397][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.51.27:846][531]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.27:846][531]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.28:480][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.51.28:681][581]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.28:681][581]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.51.29:081][605]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.29:081][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.31:005][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.51.31:289][737]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.31:289][737]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.51.31:817][768]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.31:817][768]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.34:122][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.51.34:540][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.51.34:540][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.51.35:191][971]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.51.35:191][971]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.51.36:019][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.51.36:019][ 18]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.51.36:019][ 18]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.51.36:019][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.51.36:033][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.51.36:044][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.51.36:079][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-19.51.36:079][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.51.36:081][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.51.36:085][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.51.36:090][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.12.04-19.51.36:178][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.12.04-19.52.03:335][959]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/Inventory.Inventory
+[2022.12.04-19.53.36:808][516]BlueprintLog: New page: Compile Inventory
+[2022.12.04-19.53.36:869][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.12.04-19.53.38:116][631]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.53.38:125][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-19.53.38:125][631]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:53:38 AM)
+[2022.12.04-19.53.38:125][631]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.53.38:137][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012413s)
+[2022.12.04-19.53.38:138][631]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.53.38:139][631]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2022.12.04-19.53.38:139][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014087s)
+[2022.12.04-19.53.38:184][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.12.04-19.53.38:186][631]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.53.38:186][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.53.38:186][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.53.38:186][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.53.38:186][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.53.38:186][631]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.53.38:190][631]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.53.38:190][631]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.53.38:285][631]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.53.38:286][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.53.38:286][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.53.38:286][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.53.38:286][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.53.38:286][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.53.38:286][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.53.38:287][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.53.38:287][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.53.38:287][631]LogInit: FAudioDevice initialized.
+[2022.12.04-19.53.38:287][631]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.53.38:331][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.53.38:331][631]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.53.38:334][631]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.53.38
+[2022.12.04-19.53.38:335][631]LogWorld: Bringing up level for play took: 0.003550
+[2022.12.04-19.53.38:335][631]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2022.12.04-19.53.38:339][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.53.38:339][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.53.38:343][631]PIE: Server logged in
+[2022.12.04-19.53.38:345][631]PIE: Play in editor total start time 0.223 seconds.
+[2022.12.04-19.53.41:873][839]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.53.42:133][860]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.42:133][860]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.53.42:133][860]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.53.42:489][889]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.42:489][889]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.44:120][ 22]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.44:120][ 22]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.44:458][ 49]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.44:458][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.44:935][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.53.45:108][102]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.45:108][102]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.45:607][140]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.45:607][140]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.46:386][203]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.46:386][203]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.46:830][239]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.46:830][239]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.47:269][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.53.47:481][292]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.47:481][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.47:946][330]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.47:946][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.48:449][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.53.48:775][399]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.48:775][399]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.51:158][596]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.51:159][596]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.53:454][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.53.53:628][803]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.53.53:628][803]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.53.54:469][873]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.53.54:469][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.53.55:278][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.53.55:278][938]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.53.55:279][938]LogSlate: Window 'prisonGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.04-19.53.55:284][938]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.53.55:285][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.53.55:302][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.53.55:313][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.53.55:350][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-19.53.55:351][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.53.55:352][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.53.55:361][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.04-19.53.55:429][939]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.12.04-19.54.19:413][ 45]BlueprintLog: New page: Compile Inventory
+[2022.12.04-19.54.19:470][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.12.04-19.54.20:426][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/Inventory" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset" SILENT=true
+[2022.12.04-19.54.20:454][ 88]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Inventory97B5CE0D405E7E6320A4F7886E728C0E.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset'
+[2022.12.04-19.54.20:593][ 88]AssetCheck: New page: Asset Save: Inventory
+[2022.12.04-19.54.20:593][ 88]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/UI/Inventory.Inventory
+[2022.12.04-19.54.21:057][118]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.04-19.54.21:065][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-19.54.21:065][118]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 7:54:21 AM)
+[2022.12.04-19.54.21:065][118]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.54.21:077][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011778s)
+[2022.12.04-19.54.21:078][118]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.04-19.54.21:079][118]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2022.12.04-19.54.21:079][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013358s)
+[2022.12.04-19.54.21:127][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.12.04-19.54.21:128][118]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.12.04-19.54.21:128][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-19.54.21:128][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-19.54.21:128][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-19.54.21:129][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-19.54.21:129][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.04-19.54.21:129][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.04-19.54.21:129][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.04-19.54.21:129][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-19.54.21:129][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.04-19.54.21:129][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.04-19.54.21:129][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-19.54.21:129][118]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.04-19.54.21:133][118]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.04-19.54.21:133][118]LogAudioMixer: Display: 1: FrontRight
+[2022.12.04-19.54.21:230][118]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.04-19.54.21:231][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-19.54.21:231][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-19.54.21:231][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-19.54.21:231][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.04-19.54.21:231][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.04-19.54.21:231][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.04-19.54.21:232][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.04-19.54.21:232][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.04-19.54.21:232][118]LogInit: FAudioDevice initialized.
+[2022.12.04-19.54.21:232][118]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2022.12.04-19.54.21:273][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.54.21:273][118]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.04-19.54.21:276][118]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-13.54.21
+[2022.12.04-19.54.21:277][118]LogWorld: Bringing up level for play took: 0.003280
+[2022.12.04-19.54.21:277][118]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2022.12.04-19.54.21:281][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Bool
+[2022.12.04-19.54.21:281][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PatrolPath". Blueprint:  Enemy_Controller Function:  Execute Ubergraph Enemy Controller Graph:  EventGraph Node:  Set Value as Float
+[2022.12.04-19.54.21:285][118]PIE: Server logged in
+[2022.12.04-19.54.21:287][118]PIE: Play in editor total start time 0.225 seconds.
+[2022.12.04-19.54.21:837][148]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.21:837][148]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.04-19.54.21:837][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.04-19.54.22:235][172]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.22:235][172]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.23:871][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.54.24:172][288]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.24:172][288]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.54.24:639][316]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.24:639][316]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.26:224][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.54.26:526][429]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.26:526][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.54.26:959][455]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.26:960][455]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.27:560][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.54.27:677][498]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.27:677][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.54.27:994][517]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.27:995][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.28:545][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.54.28:830][567]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.28:830][567]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.54.29:296][595]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.29:296][595]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.32:751][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.04-19.54.32:835][807]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.04-19.54.32:835][807]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.04-19.54.33:469][845]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.04-19.54.33:469][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.04-19.54.33:989][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-19.54.33:989][874]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.04-19.54.33:989][874]LogSlate: Window 'prisonGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.04-19.54.33:995][874]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-19.54.33:995][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.54.34:013][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-19.54.34:023][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-19.54.34:062][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-19.54.34:063][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.54.34:064][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.04-19.54.34:073][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.12.04-19.54.34:134][875]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.12.04-19.54.35:947][968]BlueprintLog: New page: Compile Inventory
+[2022.12.04-19.54.36:005][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.12.04-19.54.36:683][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/Inventory" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset" SILENT=true
+[2022.12.04-19.54.36:711][  3]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/InventoryCBD7F6FC40C62879A8C0A7BA0147B7BF.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset'
+[2022.12.04-19.54.36:744][  3]AssetCheck: New page: Asset Save: Inventory
+[2022.12.04-19.54.36:744][  3]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/UI/Inventory.Inventory
+[2022.12.04-19.54.40:304][218]BlueprintLog: New page: Compile Inventory
+[2022.12.04-19.54.40:384][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.12.04-19.54.40:810][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/Inventory" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset" SILENT=true
+[2022.12.04-19.54.40:839][225]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Inventory78C7918B4265046DF614859983DB1A2F.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/Inventory.uasset'
+[2022.12.04-19.54.40:871][225]AssetCheck: New page: Asset Save: Inventory
+[2022.12.04-19.54.40:871][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/UI/Inventory.Inventory
