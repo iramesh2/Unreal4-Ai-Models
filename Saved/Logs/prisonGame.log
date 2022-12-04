@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 12/04/22 13:06:50
 =======
 ﻿Log file open, 12/03/22 18:27:00
 >>>>>>> parent of 00255a8 (Current State)
+=======
+﻿Log file open, 12/03/22 19:15:08
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 ﻿Log file open, 12/03/22 19:15:08
 >>>>>>> parent of 05fe8e6 (Added sprint)
@@ -20,10 +24,14 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.269448
 =======
 LogStats: Stats thread started at 0.388603
 >>>>>>> parent of 00255a8 (Current State)
+=======
+LogStats: Stats thread started at 0.285033
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 LogStats: Stats thread started at 0.285033
 >>>>>>> parent of 05fe8e6 (Added sprint)
@@ -36,6 +44,7 @@ LogPluginManager: Mounting plugin AISupport
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -43,6 +52,11 @@ LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin LiveLink
 >>>>>>> parent of 00255a8 (Current State)
+=======
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin GameplayCameras
@@ -80,6 +94,7 @@ LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin SpeedTreeImporter
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin PluginBrowser
@@ -88,6 +103,10 @@ LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin Niagara
+=======
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
@@ -106,7 +125,10 @@ LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 05fe8e6 (Added sprint)
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin MotoSynth
@@ -116,6 +138,9 @@ LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< HEAD
+>>>>>>> parent of 05fe8e6 (Added sprint)
+=======
 >>>>>>> parent of 05fe8e6 (Added sprint)
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
@@ -123,6 +148,7 @@ LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin MotoSynth
@@ -147,6 +173,8 @@ LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 >>>>>>> parent of 00255a8 (Current State)
 LogPluginManager: Mounting plugin SkeletalReduction
+=======
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 >>>>>>> parent of 05fe8e6 (Added sprint)
 LogPluginManager: Mounting plugin AndroidMedia
@@ -158,10 +186,15 @@ LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 =======
 >>>>>>> parent of 00255a8 (Current State)
+=======
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin TcpMessaging
@@ -212,7 +245,10 @@ LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+=======
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 >>>>>>> parent of 05fe8e6 (Added sprint)
 LogPluginManager: Mounting plugin ScreenshotTools
@@ -220,11 +256,14 @@ LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin LightPropagationVolume
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin Takes
 >>>>>>> parent of 00255a8 (Current State)
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+=======
+>>>>>>> parent of 05fe8e6 (Added sprint)
 =======
 >>>>>>> parent of 05fe8e6 (Added sprint)
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
@@ -320,6 +359,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2022.12.04-19.06.51:487][  0]LogConfig: Setting CVar [[r.VSync:0]]
@@ -6081,6 +6121,8 @@ Continue: Skip saving this asset only.
 [2022.12.04-01.02.53:166][807]LogShaderCompilers: Display: ================================================
 >>>>>>> parent of 00255a8 (Current State)
 =======
+=======
+>>>>>>> parent of 05fe8e6 (Added sprint)
 [2022.12.04-01.15.09:284][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.12.04-01.15.09:284][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.12.04-01.15.09:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sgosavi2/Desktop/415prisonGame/Saved/Config/Windows/Engine.ini]
@@ -20629,4 +20671,7 @@ Continue: Skip saving this asset only.
 [2022.12.04-01.16.39:611][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2022.12.04-01.16.39:624][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2022.12.04-01.16.39:629][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+<<<<<<< HEAD
+>>>>>>> parent of 05fe8e6 (Added sprint)
+=======
 >>>>>>> parent of 05fe8e6 (Added sprint)
