@@ -14716,3 +14716,1091 @@ Make sure 'ChangingtheSpeed_C' has been compiled for  Get Speed
 [2022.12.05-04.54.24:504][287]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap2ED44A8A49C69E2B1B3EF6992AB69DAC.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2022.12.05-04.54.24:530][287]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2022.12.05-04.54.24:530][287]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-04.55.52:428][919]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall32)
+[2022.12.05-04.55.52:934][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall32)
+[2022.12.05-04.55.54:779][148]Cmd: EDIT COPY
+[2022.12.05-04.55.55:418][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor33)
+[2022.12.05-04.55.56:533][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-04.55.57:429][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall32)
+[2022.12.05-04.56.00:423][718]Cmd: EDIT PASTE
+[2022.12.05-04.56.05:914][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor31)
+[2022.12.05-04.56.07:067][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor33)
+[2022.12.05-04.56.08:697][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall33)
+[2022.12.05-04.56.16:693][352]Cmd: EDIT COPY
+[2022.12.05-04.56.19:848][663]Cmd: EDIT PASTE
+[2022.12.05-04.56.24:540][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall34)
+[2022.12.05-04.56.25:258][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall35)
+[2022.12.05-04.56.27:103][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.56.46:451][302]Cmd: EDIT PASTE
+[2022.12.05-04.56.49:520][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall35)
+[2022.12.05-04.56.50:553][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.56.59:675][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall39)
+[2022.12.05-04.57.00:657][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall38)
+[2022.12.05-04.57.01:242][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall37)
+[2022.12.05-04.57.02:772][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.57.06:436][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor40)
+[2022.12.05-04.57.07:547][397]Cmd: TRANSACTION UNDO
+[2022.12.05-04.57.07:547][397]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-04.57.08:515][464]Cmd: TRANSACTION UNDO
+[2022.12.05-04.57.08:515][464]LogEditorTransaction: Undo Move Actors
+[2022.12.05-04.57.09:002][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor41)
+[2022.12.05-04.57.09:635][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.57.16:179][222]Cmd: EDIT COPY
+[2022.12.05-04.57.18:199][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.57.19:074][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor40)
+[2022.12.05-04.57.20:449][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-04.57.21:290][731]Cmd: EDIT PASTE
+[2022.12.05-04.58.30:052][488]Cmd: EDIT COPY
+[2022.12.05-04.58.32:009][679]Cmd: EDIT PASTE
+[2022.12.05-04.59.34:670][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor40)
+[2022.12.05-04.59.36:807][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall43)
+[2022.12.05-04.59.41:811][610]Cmd: TRANSACTION UNDO
+[2022.12.05-04.59.41:811][610]LogEditorTransaction: Undo Move Actors
+[2022.12.05-04.59.42:851][687]Cmd: TRANSACTION UNDO
+[2022.12.05-04.59.42:851][687]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-04.59.44:400][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor39)
+[2022.12.05-04.59.45:171][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall45)
+[2022.12.05-04.59.47:731][166]Cmd: TRANSACTION UNDO
+[2022.12.05-04.59.47:731][166]LogEditorTransaction: Undo Move Actors
+[2022.12.05-04.59.57:560][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor37)
+[2022.12.05-05.00.12:189][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.00.56:629][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.05-05.00.56:688][111]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMapCBFC25AD4DFEC5838C2D62BE0271141A.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.00.56:714][111]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.00.56:714][111]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.00.57:779][212]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.00.57:788][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.00.57:788][212]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.00.57:974][212]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.00.57:974][212]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:00:57 PM)
+[2022.12.05-05.00.57:998][212]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.00.58:015][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016978s)
+[2022.12.05-05.00.58:016][212]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.00.58:017][212]LogPlayLevel: PIE: World Init took: (0.002060s)
+[2022.12.05-05.00.58:017][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019371s)
+[2022.12.05-05.00.58:040][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.05-05.00.58:041][212]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.00.58:042][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.00.58:042][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.00.58:042][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.00.58:042][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.00.58:042][212]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.00.58:048][212]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.00.58:048][212]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.00.58:055][212]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.00.58:055][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.00.58:055][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.00.58:055][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.00.58:055][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.00.58:056][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.00.58:056][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.00.58:056][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.00.58:056][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.00.58:056][212]LogInit: FAudioDevice initialized.
+[2022.12.05-05.00.58:056][212]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.00.58:066][212]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.00.58:071][212]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.00.58
+[2022.12.05-05.00.58:072][212]LogWorld: Bringing up level for play took: 0.005835
+[2022.12.05-05.00.58:072][212]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.12.05-05.00.58:078][212]PIE: Server logged in
+[2022.12.05-05.00.58:079][212]PIE: Play in editor total start time 0.294 seconds.
+[2022.12.05-05.00.58:084][212]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.01.46:230][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.01.46:230][776]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.01.46:231][776]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.01.46:232][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.01.46:241][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.01.46:259][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.01.46:279][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.01.46:279][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.01.46:281][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.01.46:287][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.05-05.01.46:333][777]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.12.05-05.01.50:305][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall34)
+[2022.12.05-05.01.51:235][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall35)
+[2022.12.05-05.01.53:163][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-05.01.59:223][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall45)
+[2022.12.05-05.02.25:143][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor36)
+[2022.12.05-05.02.30:811][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.02.44:020][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.02.50:213][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.02.54:746][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor36)
+[2022.12.05-05.02.55:602][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.03.00:171][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.03.06:192][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.03.07:316][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.03.16:132][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.03.19:150][889]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.03.19:159][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.03.19:159][889]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.03.19:350][889]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.03.19:351][889]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:03:19 PM)
+[2022.12.05-05.03.19:351][889]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.03.19:368][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017152s)
+[2022.12.05-05.03.19:369][889]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.03.19:369][889]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2022.12.05-05.03.19:369][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018478s)
+[2022.12.05-05.03.19:393][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.05-05.03.19:397][889]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.03.19:397][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.03.19:397][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.03.19:398][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.03.19:398][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.03.19:398][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.03.19:398][889]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.03.19:403][889]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.03.19:403][889]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.03.19:410][889]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.03.19:410][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.03.19:410][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.03.19:410][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.03.19:411][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.03.19:411][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.03.19:411][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.03.19:412][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.03.19:412][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.03.19:412][889]LogInit: FAudioDevice initialized.
+[2022.12.05-05.03.19:412][889]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.03.19:420][889]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.03.19:425][889]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.03.19
+[2022.12.05-05.03.19:426][889]LogWorld: Bringing up level for play took: 0.005842
+[2022.12.05-05.03.19:427][889]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.12.05-05.03.19:433][889]PIE: Server logged in
+[2022.12.05-05.03.19:433][889]PIE: Play in editor total start time 0.277 seconds.
+[2022.12.05-05.03.19:453][890]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.03.21:859][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.03.53:381][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.03.53:381][756]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.03.53:381][756]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.03.53:382][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.03.53:391][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.03.53:408][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.03.53:428][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.03.53:428][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.03.53:429][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.03.53:436][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.05-05.03.53:480][757]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.12.05-05.04.15:741][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.04.51:503][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.05.01:084][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.05.07:142][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.05.08:294][210]Cmd: DELETE
+[2022.12.05-05.05.08:294][210]Cmd: ACTOR DELETE
+[2022.12.05-05.05.08:297][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.05.08:321][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.05-05.05.08:324][210]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.12.05-05.05.09:720][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.05.10:503][450]Cmd: DELETE
+[2022.12.05-05.05.10:503][450]Cmd: ACTOR DELETE
+[2022.12.05-05.05.10:507][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.05.10:526][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.05-05.05.10:528][450]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.12.05-05.05.11:506][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.05.12:443][655]Cmd: EDIT COPY
+[2022.12.05-05.05.28:803][287]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.05.29:460][341]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.05.30:027][398]Cmd: EDIT PASTE
+[2022.12.05-05.06.50:784][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.12.05-05.06.50:841][489]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMapE2C4F7DF4D71FB78BB6CA6A76DACB0FA.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.06.50:866][489]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.06.50:866][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.07.03:146][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.07.04:007][795]Cmd: EDIT COPY
+[2022.12.05-05.07.04:580][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor21)
+[2022.12.05-05.07.05:079][898]Cmd: EDIT PASTE
+[2022.12.05-05.07.26:346][ 35]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.07.30:596][452]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.07.30:605][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.07.30:605][452]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.07.30:795][452]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.07.30:795][452]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:07:30 PM)
+[2022.12.05-05.07.30:828][452]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.07.30:844][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016285s)
+[2022.12.05-05.07.30:845][452]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.07.30:845][452]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2022.12.05-05.07.30:845][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017965s)
+[2022.12.05-05.07.30:869][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.05-05.07.30:872][452]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.07.30:872][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.07.30:872][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.07.30:873][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.07.30:873][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.07.30:873][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.07.30:873][452]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.07.30:878][452]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.07.30:878][452]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.07.30:885][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.07.30:885][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.07.30:887][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.07.30:887][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.07.30:887][452]LogInit: FAudioDevice initialized.
+[2022.12.05-05.07.30:887][452]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.07.30:896][452]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.07.30:901][452]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.07.30
+[2022.12.05-05.07.30:903][452]LogWorld: Bringing up level for play took: 0.005689
+[2022.12.05-05.07.30:903][452]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.12.05-05.07.30:908][452]PIE: Server logged in
+[2022.12.05-05.07.30:909][452]PIE: Play in editor total start time 0.307 seconds.
+[2022.12.05-05.07.30:930][453]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.07.32:622][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.07.33:312][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.08.17:142][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.08.17:142][767]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.08.17:143][767]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.08.17:144][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.08.17:151][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.08.17:160][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.08.17:180][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.08.17:181][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.08.17:182][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.08.17:189][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.05-05.08.17:230][768]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.12.05-05.08.21:372][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.08.22:230][265]Cmd: EDIT COPY
+[2022.12.05-05.08.23:531][396]Cmd: EDIT PASTE
+[2022.12.05-05.09.05:331][601]Cmd: TRANSACTION UNDO
+[2022.12.05-05.09.05:331][601]LogEditorTransaction: Undo Scale Actors
+[2022.12.05-05.09.25:612][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.05-05.09.25:672][653]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap605376AF48456DFDC4AB58962FC83CEF.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.09.25:695][653]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.09.25:695][653]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.09.29:774][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.09.29:783][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.09.29:783][ 63]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.09.29:966][ 63]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.09.29:966][ 63]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:09:29 PM)
+[2022.12.05-05.09.29:967][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.09.29:983][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016104s)
+[2022.12.05-05.09.29:983][ 63]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.09.29:984][ 63]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2022.12.05-05.09.29:984][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017436s)
+[2022.12.05-05.09.30:008][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-05.09.30:009][ 63]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.09.30:009][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.09.30:009][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.09.30:010][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.09.30:010][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.09.30:010][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.09.30:010][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.09.30:015][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.09.30:015][ 63]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.09.30:023][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.09.30:025][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.09.30:025][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.09.30:025][ 63]LogInit: FAudioDevice initialized.
+[2022.12.05-05.09.30:025][ 63]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.09.30:032][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.09.30:036][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.09.30
+[2022.12.05-05.09.30:038][ 63]LogWorld: Bringing up level for play took: 0.005664
+[2022.12.05-05.09.30:038][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.12.05-05.09.30:044][ 63]PIE: Server logged in
+[2022.12.05-05.09.30:045][ 63]PIE: Play in editor total start time 0.265 seconds.
+[2022.12.05-05.09.30:065][ 64]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.09.32:368][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.10.13:821][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.10.13:822][122]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.10.13:822][122]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.10.13:822][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.10.13:831][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.10.13:849][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.10.13:868][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.10.13:869][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.10.13:870][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.10.13:876][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.05-05.10.13:921][123]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.12.05-05.10.14:498][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall41)
+[2022.12.05-05.10.35:250][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall46)
+[2022.12.05-05.10.38:419][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.10.43:429][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.10.43:437][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.10.43:437][ 95]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.10.43:620][ 95]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.10.43:621][ 95]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:10:43 PM)
+[2022.12.05-05.10.43:658][ 95]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.10.43:674][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016090s)
+[2022.12.05-05.10.43:676][ 95]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.10.43:676][ 95]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2022.12.05-05.10.43:676][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017751s)
+[2022.12.05-05.10.43:701][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.05-05.10.43:705][ 95]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.10.43:705][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.10.43:705][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.10.43:706][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.10.43:706][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.10.43:706][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.10.43:706][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.10.43:711][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.10.43:711][ 95]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.10.43:717][ 95]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.10.43:717][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.10.43:717][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.10.43:717][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.10.43:717][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.10.43:718][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.10.43:718][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.10.43:719][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.10.43:719][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.10.43:719][ 95]LogInit: FAudioDevice initialized.
+[2022.12.05-05.10.43:719][ 95]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.10.43:727][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.10.43:731][ 95]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.10.43
+[2022.12.05-05.10.43:733][ 95]LogWorld: Bringing up level for play took: 0.005623
+[2022.12.05-05.10.43:733][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.12.05-05.10.43:738][ 95]PIE: Server logged in
+[2022.12.05-05.10.43:740][ 95]PIE: Play in editor total start time 0.306 seconds.
+[2022.12.05-05.10.43:759][ 96]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.10.45:792][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.10.46:246][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.11.21:182][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.11.21:182][411]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.11.21:182][411]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.11.21:183][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.11.21:192][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.11.21:209][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.11.21:229][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.11.21:230][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.11.21:231][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.11.21:238][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.05-05.11.21:283][412]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.12.05-05.11.22:869][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall46)
+[2022.12.05-05.11.30:811][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor22)
+[2022.12.05-05.11.38:437][131]Cmd: TRANSACTION UNDO
+[2022.12.05-05.11.38:437][131]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.11.39:021][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall46)
+[2022.12.05-05.11.59:972][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor23)
+[2022.12.05-05.12.02:786][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.05-05.12.02:844][559]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMapB3289790468C4951064E8E80F09F24EE.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.12.02:867][559]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.12.02:867][559]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.13.05:229][778]Cmd: EDIT PASTE
+[2022.12.05-05.13.13:148][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.13.14:820][745]Cmd: DELETE
+[2022.12.05-05.13.14:820][745]Cmd: ACTOR DELETE
+[2022.12.05-05.13.14:824][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.13.14:845][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.05-05.13.14:848][745]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.12.05-05.13.19:314][279]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor14)
+[2022.12.05-05.13.20:294][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor17)
+[2022.12.05-05.13.24:682][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.13.51:159][335]Cmd: TRANSACTION UNDO
+[2022.12.05-05.13.51:159][335]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.13.51:794][369]Cmd: TRANSACTION UNDO
+[2022.12.05-05.13.51:794][369]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.14.22:039][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.05-05.14.22:098][168]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap6866E14B4515520D53CAB08B7597FD43.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.14.22:121][168]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.14.22:121][168]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.14.23:263][271]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.14.23:271][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.14.23:271][271]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.14.23:455][271]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.14.23:456][271]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:14:23 PM)
+[2022.12.05-05.14.23:479][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.14.23:494][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015887s)
+[2022.12.05-05.14.23:496][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.14.23:496][271]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2022.12.05-05.14.23:496][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017699s)
+[2022.12.05-05.14.23:520][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.05-05.14.23:521][271]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.14.23:521][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.14.23:521][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.14.23:522][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.14.23:522][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.14.23:522][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.14.23:522][271]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.14.23:527][271]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.14.23:527][271]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.14.23:534][271]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.14.23:535][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.14.23:535][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.14.23:535][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.14.23:535][271]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.14.23:535][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.14.23:535][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.14.23:536][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.14.23:536][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.14.23:536][271]LogInit: FAudioDevice initialized.
+[2022.12.05-05.14.23:536][271]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.14.23:543][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.14.23:548][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.14.23
+[2022.12.05-05.14.23:549][271]LogWorld: Bringing up level for play took: 0.005714
+[2022.12.05-05.14.23:550][271]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.12.05-05.14.23:555][271]PIE: Server logged in
+[2022.12.05-05.14.23:556][271]PIE: Play in editor total start time 0.287 seconds.
+[2022.12.05-05.14.23:575][272]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.15.04:542][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.15.04:542][993]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.15.04:542][993]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.15.04:543][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.15.04:552][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.15.04:569][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.15.04:589][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.15.04:589][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.15.04:591][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.15.04:597][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.05-05.15.04:643][994]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.12.05-05.15.05:352][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall46)
+[2022.12.05-05.15.11:300][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.12.05-05.15.13:682][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-05.15.13:740][871]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap81A117CA413C478F39C58390CA5E736D.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.15.13:761][871]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.15.13:761][871]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.15.15:527][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.15.15:536][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.15.15:536][ 39]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.15.15:723][ 39]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.15.15:723][ 39]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:15:15 PM)
+[2022.12.05-05.15.15:723][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.15.15:740][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016641s)
+[2022.12.05-05.15.15:741][ 39]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.15.15:741][ 39]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2022.12.05-05.15.15:741][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018253s)
+[2022.12.05-05.15.15:764][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-05.15.15:767][ 39]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.15.15:767][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.15.15:767][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.15.15:767][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.15.15:767][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.15.15:767][ 39]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.15.15:772][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.15.15:772][ 39]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.15.15:779][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.15.15:780][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.15.15:780][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.15.15:780][ 39]LogInit: FAudioDevice initialized.
+[2022.12.05-05.15.15:780][ 39]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.15.15:791][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.15.15:796][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.15.15
+[2022.12.05-05.15.15:797][ 39]LogWorld: Bringing up level for play took: 0.005511
+[2022.12.05-05.15.15:798][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.12.05-05.15.15:803][ 39]PIE: Server logged in
+[2022.12.05-05.15.15:804][ 39]PIE: Play in editor total start time 0.271 seconds.
+[2022.12.05-05.15.15:824][ 40]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.15.17:756][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.16.05:752][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.16.05:752][798]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.16.05:752][798]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.16.05:753][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.16.05:763][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.16.05:780][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.16.05:803][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.16.05:804][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.16.05:805][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.16.05:812][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.05-05.16.05:858][799]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.12.05-05.16.14:131][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.16.18:642][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2022.12.05-05.16.19:814][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.12.05-05.16.19:872][187]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap7D75A7ED4B45B22A3B74539321F13E39.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.16.19:915][187]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.16.19:915][187]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.16.37:305][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall36)
+[2022.12.05-05.16.45:278][748]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.16.51:323][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall40)
+[2022.12.05-05.17.03:139][498]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall40)
+[2022.12.05-05.17.03:770][552]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.17.04:411][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.17.10:172][187]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.17.10:939][252]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.17.19:620][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2022.12.05-05.17.20:984][206]Cmd: EDIT COPY
+[2022.12.05-05.17.21:578][265]Cmd: EDIT PASTE
+[2022.12.05-05.17.39:050][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2022.12.05-05.17.48:362][  3]Cmd: EDIT COPY
+[2022.12.05-05.17.48:980][ 66]Cmd: EDIT PASTE
+[2022.12.05-05.18.03:530][541]Cmd: TRANSACTION UNDO
+[2022.12.05-05.18.03:531][541]LogEditorTransaction: Undo Rotate Actors
+[2022.12.05-05.18.08:506][ 11]Cmd: TRANSACTION UNDO
+[2022.12.05-05.18.08:506][ 11]LogEditorTransaction: Undo Rotate Actors
+[2022.12.05-05.18.31:852][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.18.42:090][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.18.53:443][469]Cmd: EDIT COPY
+[2022.12.05-05.18.53:912][517]Cmd: EDIT PASTE
+[2022.12.05-05.18.55:276][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.19.39:451][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.19.40:249][248]Cmd: DELETE
+[2022.12.05-05.19.40:250][248]Cmd: ACTOR DELETE
+[2022.12.05-05.19.40:253][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.19.40:275][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.05-05.19.40:278][248]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.12.05-05.19.41:352][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.19.42:523][491]Cmd: DELETE
+[2022.12.05-05.19.42:523][491]Cmd: ACTOR DELETE
+[2022.12.05-05.19.42:526][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.19.42:547][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.05-05.19.42:549][491]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.19.45:076][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.19.46:212][904]Cmd: EDIT COPY
+[2022.12.05-05.19.46:648][947]Cmd: EDIT PASTE
+[2022.12.05-05.20.08:980][190]Cmd: EDIT COPY
+[2022.12.05-05.20.09:349][228]Cmd: EDIT PASTE
+[2022.12.05-05.20.10:067][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.20.43:587][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.21.10:097][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.21.11:430][384]Cmd: EDIT COPY
+[2022.12.05-05.21.13:559][603]Cmd: EDIT PASTE
+[2022.12.05-05.21.42:651][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall20)
+[2022.12.05-05.21.43:537][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall50)
+[2022.12.05-05.21.48:841][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall50)
+[2022.12.05-05.21.49:652][148]Cmd: DELETE
+[2022.12.05-05.21.49:652][148]Cmd: ACTOR DELETE
+[2022.12.05-05.21.49:656][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.21.49:679][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.12.05-05.21.49:682][148]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.12.05-05.21.55:326][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall20)
+[2022.12.05-05.21.56:106][878]Cmd: DELETE
+[2022.12.05-05.21.56:106][878]Cmd: ACTOR DELETE
+[2022.12.05-05.21.56:109][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.21.56:129][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.05-05.21.56:131][878]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.12.05-05.21.56:956][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2022.12.05-05.21.57:659][ 43]Cmd: DELETE
+[2022.12.05-05.21.57:659][ 43]Cmd: ACTOR DELETE
+[2022.12.05-05.21.57:663][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.21.57:683][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.05-05.21.57:685][ 43]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.21.58:842][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall18)
+[2022.12.05-05.21.59:417][237]Cmd: DELETE
+[2022.12.05-05.21.59:418][237]Cmd: ACTOR DELETE
+[2022.12.05-05.21.59:421][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.21.59:441][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.05-05.21.59:442][237]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.22.00:380][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.22.00:963][399]Cmd: DELETE
+[2022.12.05-05.22.00:964][399]Cmd: ACTOR DELETE
+[2022.12.05-05.22.00:966][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.22.00:986][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.05-05.22.00:987][399]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.22.02:824][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.22.03:446][679]Cmd: DELETE
+[2022.12.05-05.22.03:446][679]Cmd: ACTOR DELETE
+[2022.12.05-05.22.03:450][679]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.22.03:470][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.05-05.22.03:471][679]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.22.04:880][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2022.12.05-05.22.05:592][915]Cmd: DELETE
+[2022.12.05-05.22.05:592][915]Cmd: ACTOR DELETE
+[2022.12.05-05.22.05:596][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.22.05:617][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.05-05.22.05:619][915]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.22.07:814][178]Cmd: TRANSACTION UNDO
+[2022.12.05-05.22.07:814][178]LogEditorTransaction: Undo Delete Actors
+[2022.12.05-05.22.15:939][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.22.29:391][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2022.12.05-05.22.33:338][648]Cmd: EDIT PASTE
+[2022.12.05-05.22.35:380][854]Cmd: TRANSACTION UNDO
+[2022.12.05-05.22.35:380][854]LogEditorTransaction: Undo Paste
+[2022.12.05-05.22.35:505][858]Cmd: TRANSACTION UNDO
+[2022.12.05-05.22.35:506][858]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.22.36:543][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.22.41:436][428]Cmd: EDIT PASTE
+[2022.12.05-05.22.44:084][697]Cmd: DELETE
+[2022.12.05-05.22.44:084][697]Cmd: ACTOR DELETE
+[2022.12.05-05.22.44:087][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.22.44:109][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.05-05.22.44:113][697]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.12.05-05.22.46:283][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.22.48:408][165]Cmd: EDIT COPY
+[2022.12.05-05.22.49:221][245]Cmd: EDIT PASTE
+[2022.12.05-05.23.03:304][659]Cmd: EDIT PASTE
+[2022.12.05-05.23.07:564][ 82]Cmd: TRANSACTION UNDO
+[2022.12.05-05.23.07:564][ 82]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.23.16:059][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.05-05.23.16:118][820]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap431EBDE64646A9F112330F9F5FB08712.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.23.16:141][820]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.23.16:141][820]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.23.32:848][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2022.12.05-05.23.33:273][440]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.12.05-05.23.35:676][679]Cmd: TRANSACTION UNDO
+[2022.12.05-05.23.35:676][679]LogEditorTransaction: Undo Clicking on Components
+[2022.12.05-05.23.37:539][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.23.39:290][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2022.12.05-05.24.22:361][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.24.23:932][403]Cmd: EDIT COPY
+[2022.12.05-05.24.24:604][470]Cmd: EDIT PASTE
+[2022.12.05-05.25.06:027][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall50)
+[2022.12.05-05.25.19:810][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall50)
+[2022.12.05-05.25.20:715][973]Cmd: DELETE
+[2022.12.05-05.25.20:715][973]Cmd: ACTOR DELETE
+[2022.12.05-05.25.20:718][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.25.20:741][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.05-05.25.20:745][973]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.12.05-05.25.23:252][247]LogEditorViewport: Clicking on Actor (LMB): mortar_C (mortar)
+[2022.12.05-05.25.23:976][311]Cmd: DELETE
+[2022.12.05-05.25.23:976][311]Cmd: ACTOR DELETE
+[2022.12.05-05.25.23:980][311]LogEditorActor: Deleted Actor: mortar_C
+[2022.12.05-05.25.24:001][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.05-05.25.24:002][311]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.12.05-05.25.28:611][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.25.29:707][943]Cmd: EDIT COPY
+[2022.12.05-05.25.30:196][994]Cmd: EDIT PASTE
+[2022.12.05-05.25.37:256][667]Cmd: DELETE
+[2022.12.05-05.25.37:256][667]Cmd: ACTOR DELETE
+[2022.12.05-05.25.37:259][667]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.25.37:280][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.05-05.25.37:284][667]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.12.05-05.25.38:399][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.25.39:382][898]Cmd: EDIT COPY
+[2022.12.05-05.25.39:829][944]Cmd: EDIT PASTE
+[2022.12.05-05.26.16:012][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall19)
+[2022.12.05-05.26.16:707][646]Cmd: DELETE
+[2022.12.05-05.26.16:707][646]Cmd: ACTOR DELETE
+[2022.12.05-05.26.16:710][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.26.16:732][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.05-05.26.16:735][646]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.12.05-05.26.17:642][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.26.18:443][833]Cmd: DELETE
+[2022.12.05-05.26.18:443][833]Cmd: ACTOR DELETE
+[2022.12.05-05.26.18:446][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.26.18:466][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.05-05.26.18:468][833]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.26.19:426][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall50)
+[2022.12.05-05.26.20:037][  7]Cmd: DELETE
+[2022.12.05-05.26.20:037][  7]Cmd: ACTOR DELETE
+[2022.12.05-05.26.20:040][  7]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.26.20:061][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.05-05.26.20:063][  7]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.12.05-05.26.23:591][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall48)
+[2022.12.05-05.26.26:484][689]Cmd: EDIT COPY
+[2022.12.05-05.26.26:981][739]Cmd: EDIT PASTE
+[2022.12.05-05.26.54:799][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.26.56:395][611]Cmd: EDIT COPY
+[2022.12.05-05.26.56:809][653]Cmd: EDIT PASTE
+[2022.12.05-05.27.00:380][ 12]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall50)
+[2022.12.05-05.27.00:928][ 57]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall19)
+[2022.12.05-05.27.01:977][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.12.05-05.27.16:578][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall49)
+[2022.12.05-05.27.17:685][674]Cmd: EDIT COPY
+[2022.12.05-05.27.18:490][756]Cmd: EDIT PASTE
+[2022.12.05-05.27.26:106][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.27.27:369][621]Cmd: EDIT COPY
+[2022.12.05-05.27.27:914][677]Cmd: EDIT PASTE
+[2022.12.05-05.27.53:459][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.27.55:634][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.27.57:769][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.28.11:450][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2022.12.05-05.28.12:472][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2022.12.05-05.28.13:116][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.12.05-05.28.14:326][250]Cmd: EDIT COPY
+[2022.12.05-05.28.14:852][304]Cmd: EDIT PASTE
+[2022.12.05-05.28.16:771][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.12.05-05.28.20:826][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.12.05-05.28.27:029][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.12.05-05.28.27:894][565]Cmd: EDIT COPY
+[2022.12.05-05.28.28:306][607]Cmd: EDIT PASTE
+[2022.12.05-05.28.35:576][284]Cmd: TRANSACTION UNDO
+[2022.12.05-05.28.35:576][284]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.28.44:116][ 44]Cmd: EDIT COPY
+[2022.12.05-05.28.44:676][100]Cmd: EDIT PASTE
+[2022.12.05-05.28.46:634][264]Cmd: EDIT COPY
+[2022.12.05-05.28.46:890][288]Cmd: EDIT PASTE
+[2022.12.05-05.29.05:756][108]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall17)
+[2022.12.05-05.29.08:061][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.05-05.29.08:121][306]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap1559542240C23752ACF0CA9B375C7FB6.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.29.08:143][306]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.29.08:143][306]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.29.17:308][143]LogSlate: Window 'ChangingtheSpeed' being destroyed
+[2022.12.05-05.29.17:370][143]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.29.17:370][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.29.34:489][122]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI4)
+[2022.12.05-05.29.43:305][ 92]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.29.49:942][880]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.29.50:553][952]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.29.51:160][ 23]LogEditorViewport: Clicking on Actor (context menu): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.29.53:397][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.29.53:928][321]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.29.57:007][676]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.30.21:002][488]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall17)
+[2022.12.05-05.30.21:639][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall17)
+[2022.12.05-05.30.22:451][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.30.26:458][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.30.27:112][200]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath2)
+[2022.12.05-05.31.19:760][458]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-05.31.19:760][458]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-05.32.17:990][313]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.32.17:998][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.32.17:998][313]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.32.18:182][313]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.32.18:182][313]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:32:18 PM)
+[2022.12.05-05.32.18:182][313]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.32.18:199][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016902s)
+[2022.12.05-05.32.18:201][313]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.32.18:202][313]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2022.12.05-05.32.18:202][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018618s)
+[2022.12.05-05.32.18:227][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.05-05.32.18:241][313]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.32.18:241][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.32.18:241][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.32.18:242][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.32.18:242][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.32.18:242][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.32.18:242][313]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.32.18:247][313]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.32.18:247][313]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.32.18:255][313]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.32.18:255][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.32.18:255][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.32.18:255][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.32.18:256][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.32.18:256][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.32.18:256][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.32.18:257][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.32.18:257][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.32.18:257][313]LogInit: FAudioDevice initialized.
+[2022.12.05-05.32.18:257][313]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.32.18:268][313]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.32.18:273][313]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.32.18
+[2022.12.05-05.32.18:275][313]LogWorld: Bringing up level for play took: 0.006256
+[2022.12.05-05.32.18:275][313]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.12.05-05.32.18:281][313]PIE: Server logged in
+[2022.12.05-05.32.18:282][313]PIE: Play in editor total start time 0.286 seconds.
+[2022.12.05-05.32.18:293][314]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.32.20:526][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.32.21:727][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.32.40:196][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.33.32:545][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.33.59:993][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.33.59:993][506]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.33.59:994][506]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.33.59:995][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.34.00:002][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.34.00:020][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.34.00:040][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-05.34.00:040][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.34.00:042][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.34.00:045][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.34.00:049][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.05-05.34.00:088][507]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.12.05-05.34.13:490][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.34.33:853][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.34.34:727][543]Cmd: DELETE
+[2022.12.05-05.34.34:727][543]Cmd: ACTOR DELETE
+[2022.12.05-05.34.34:731][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.34.34:749][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.05-05.34.34:758][543]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.12.05-05.34.35:782][666]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.12.05-05.34.36:422][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.34.37:971][920]Cmd: EDIT COPY
+[2022.12.05-05.34.38:580][993]Cmd: EDIT PASTE
+[2022.12.05-05.35.01:519][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.35.03:315][873]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.03:315][873]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.35.03:717][893]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.03:717][893]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.35.04:114][937]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.04:114][937]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.35.04:516][985]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.04:516][985]LogEditorTransaction: Undo Rotate Actors
+[2022.12.05-05.35.04:835][ 21]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.04:835][ 21]LogEditorTransaction: Undo Scale Actors
+[2022.12.05-05.35.05:332][ 79]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.05:332][ 79]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.35.05:811][135]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.05:811][135]LogEditorTransaction: Undo Paste
+[2022.12.05-05.35.06:211][177]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.06:211][177]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.35.06:758][238]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.06:758][238]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.35.07:126][282]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.07:126][282]LogEditorTransaction: Undo Delete Actors
+[2022.12.05-05.35.08:122][395]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.08:122][395]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.35.08:712][464]Cmd: TRANSACTION UNDO
+[2022.12.05-05.35.08:712][464]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-05.35.12:620][920]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2022.12.05-05.35.22:879][ 91]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.35.23:549][148]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.35.24:100][211]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.35.37:818][825]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.12.05-05.35.38:730][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.12.05-05.35.50:399][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2022.12.05-05.35.52:523][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2022.12.05-05.35.53:253][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2022.12.05-05.35.59:978][358]Cmd: EDIT COPY
+[2022.12.05-05.36.00:837][461]Cmd: EDIT PASTE
+[2022.12.05-05.36.11:387][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.36.11:932][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.36.16:175][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.36.16:998][318]Cmd: DELETE
+[2022.12.05-05.36.16:998][318]Cmd: ACTOR DELETE
+[2022.12.05-05.36.17:001][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.36.17:020][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.05-05.36.17:034][318]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.12.05-05.36.18:404][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.36.24:028][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.36.24:820][197]Cmd: EDIT COPY
+[2022.12.05-05.36.25:269][251]Cmd: EDIT PASTE
+[2022.12.05-05.36.31:827][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.36.34:149][294]Cmd: EDIT PASTE
+[2022.12.05-05.36.38:869][855]Cmd: TRANSACTION UNDO
+[2022.12.05-05.36.38:869][855]LogEditorTransaction: Undo Move Actors
+[2022.12.05-05.36.41:337][119]Cmd: EDIT COPY
+[2022.12.05-05.36.41:545][144]Cmd: EDIT COPY
+[2022.12.05-05.36.45:511][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.36.55:919][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh4)
+[2022.12.05-05.37.03:046][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.37.08:927][340]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.12.05-05.37.09:867][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh2)
+[2022.12.05-05.37.10:611][533]Cmd: DELETE
+[2022.12.05-05.37.10:611][533]Cmd: ACTOR DELETE
+[2022.12.05-05.37.10:615][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.37.10:633][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.12.05-05.37.10:644][533]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.12.05-05.37.11:627][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh4)
+[2022.12.05-05.37.14:472][986]Cmd: DELETE
+[2022.12.05-05.37.14:472][986]Cmd: ACTOR DELETE
+[2022.12.05-05.37.14:475][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.05-05.37.14:492][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.05-05.37.14:495][986]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.12.05-05.37.15:505][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.37.39:387][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.37.49:379][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.37.53:252][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.38.15:326][155]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.38.15:334][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.38.15:334][155]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.38.15:516][155]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.38.15:516][155]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:38:15 PM)
+[2022.12.05-05.38.15:541][155]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.38.15:558][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017621s)
+[2022.12.05-05.38.15:560][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.38.15:560][155]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2022.12.05-05.38.15:560][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019378s)
+[2022.12.05-05.38.15:581][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.05-05.38.15:592][155]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.38.15:592][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.38.15:592][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.38.15:593][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.38.15:593][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.38.15:593][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.38.15:593][155]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.38.15:597][155]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.38.15:597][155]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.38.15:605][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.38.15:605][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.38.15:606][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.38.15:606][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.38.15:606][155]LogInit: FAudioDevice initialized.
+[2022.12.05-05.38.15:606][155]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.38.15:619][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.38.15:625][155]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.38.15
+[2022.12.05-05.38.15:626][155]LogWorld: Bringing up level for play took: 0.006160
+[2022.12.05-05.38.15:626][155]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.12.05-05.38.15:632][155]PIE: Server logged in
+[2022.12.05-05.38.15:633][155]PIE: Play in editor total start time 0.301 seconds.
+[2022.12.05-05.38.15:645][156]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.38.17:419][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.37:653][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=369.371 Y=709.623 Z=500.000
+[2022.12.05-05.38.37:653][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-05.38.39:319][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.39:420][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.39:427][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.45:724][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.45:733][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.45:741][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.50:966][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.58:367][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.38.58:375][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.39.21:123][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.39.21:123][  4]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.39.21:123][  4]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.39.21:124][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.39.21:133][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.39.21:151][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.39.21:168][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.39.21:169][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.39.21:170][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.39.21:177][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.05-05.39.21:216][  5]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.12.05-05.39.30:309][ 60]Cmd: TRANSACTION UNDO
+[2022.12.05-05.39.30:310][ 60]LogEditorTransaction: Undo Scale Actors
+[2022.12.05-05.40.39:698][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.40.40:698][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.40.41:761][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2022.12.05-05.40.42:524][298]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2022.12.05-05.41.09:044][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2022.12.05-05.41.09:711][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2022.12.05-05.41.10:598][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2022.12.05-05.41.14:019][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.41.23:061][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.41.23:749][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh3)
+[2022.12.05-05.41.28:626][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.12.05-05.41.29:300][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall47)
+[2022.12.05-05.42.01:062][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall42)
+[2022.12.05-05.42.02:391][705]Cmd: EDIT COPY
+[2022.12.05-05.42.03:864][881]Cmd: EDIT PASTE
+[2022.12.05-05.42.22:902][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.12.05-05.42.23:991][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.42.24:472][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.42.25:344][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.42.30:970][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.42.38:591][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.43.11:013][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.43.31:589][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.43.42:126][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.43.44:020][448]Cmd: EDIT COPY
+[2022.12.05-05.43.45:174][586]Cmd: EDIT PASTE
+[2022.12.05-05.44.00:971][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.12.05-05.44.09:908][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall53)
+[2022.12.05-05.44.17:014][294]Cmd: TRANSACTION UNDO
+[2022.12.05-05.44.17:014][294]LogEditorTransaction: Undo Scale Actors
+[2022.12.05-05.44.18:945][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.12.05-05.44.27:239][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall52)
+[2022.12.05-05.44.36:654][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall53)
+[2022.12.05-05.44.41:379][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.12.05-05.44.43:460][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall53)
+[2022.12.05-05.44.46:726][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2022.12.05-05.45.26:294][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.05-05.45.26:372][512]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMapE63425B841EEB72177ADB4852F605A74.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.45.26:398][512]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.45.26:398][512]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.45.46:090][874]Cmd: EDIT COPY
+[2022.12.05-05.45.46:566][931]Cmd: EDIT COPY
+[2022.12.05-05.45.47:049][989]Cmd: EDIT COPY
+[2022.12.05-05.45.47:541][ 48]Cmd: EDIT COPY
+[2022.12.05-05.46.09:193][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.05-05.46.09:264][620]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap593CA40F49809CB22B59179DE43F18E9.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.46.09:287][620]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.46.09:287][620]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.46.09:542][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.05-05.46.09:607][645]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap36ECAC3A43C82449C4D37D9AC856C4B1.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.46.09:630][645]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.46.09:630][645]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.46.10:298][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.05-05.46.10:383][716]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMapDE4824D7484BD338725B8C99A86CE7EA.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.12.05-05.46.10:411][716]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.12.05-05.46.10:411][716]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-05.46.11:553][847]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-05.46.11:561][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-05.46.11:561][847]LogHMD: Initializing OVRPlugin session
+[2022.12.05-05.46.11:744][847]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-05.46.11:744][847]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 5:46:11 PM)
+[2022.12.05-05.46.11:772][847]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.46.11:791][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019546s)
+[2022.12.05-05.46.11:792][847]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-05.46.11:793][847]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2022.12.05-05.46.11:793][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021400s)
+[2022.12.05-05.46.11:814][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.05-05.46.11:816][847]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-05.46.11:816][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-05.46.11:816][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-05.46.11:816][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-05.46.11:816][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-05.46.11:816][847]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-05.46.11:822][847]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-05.46.11:822][847]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-05.46.11:829][847]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-05.46.11:829][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-05.46.11:829][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-05.46.11:829][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-05.46.11:830][847]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-05.46.11:830][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-05.46.11:830][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-05.46.11:831][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-05.46.11:831][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-05.46.11:831][847]LogInit: FAudioDevice initialized.
+[2022.12.05-05.46.11:831][847]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-05.46.11:840][847]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-05.46.11:846][847]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-23.46.11
+[2022.12.05-05.46.11:847][847]LogWorld: Bringing up level for play took: 0.007093
+[2022.12.05-05.46.11:848][847]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.12.05-05.46.11:854][847]PIE: Server logged in
+[2022.12.05-05.46.11:855][847]PIE: Play in editor total start time 0.296 seconds.
+[2022.12.05-05.46.11:869][848]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-05.46.13:671][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-05.46.44:353][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.46.44:353][734]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-05.46.44:354][734]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-05.46.44:355][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.46.44:366][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-05.46.44:384][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-05.46.44:400][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-05.46.44:401][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.46.44:402][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-05.46.44:410][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.05-05.46.44:446][735]LogPlayLevel: Display: Destroying online subsystem :Context_32
