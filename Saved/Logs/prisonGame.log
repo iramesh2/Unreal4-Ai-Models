@@ -1705,3 +1705,17 @@ Make sure 'MyHUD' has been compiled for  Get Health
 [2022.12.05-03.00.47:663][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.05-03.00.47:672][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
 [2022.12.05-03.00.47:691][118]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.05-03.01.20:798][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.12.05-03.01.20:829][546]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/ThirdPersonExampleMap_Auto10B7CECB0492CA522EA23B492393835D8.tmp' to '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.12.05-03.01.20:831][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.068
+[2022.12.05-03.01.20:831][546]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2022.12.05-03.01.20:832][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.12.05-03.01.20:869][546]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.12.05-03.01.20:881][546]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.05-03.01.20:881][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.12.05-03.01.20:957][546]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/ThirdPersonCharacter_Auto118E30623436B3006E6EA1F8FB6A4F2D0.tmp' to '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.12.05-03.01.20:959][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/MyHUD] ([2] browsable assets)...
+[2022.12.05-03.01.20:959][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/MyHUD]
+[2022.12.05-03.01.20:959][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/MyHUD" FILE="../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/Autosaves/Game/HUD/MyHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.05-03.01.20:976][546]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/MyHUD_Auto1CB8802ED4BE7B1CEBE26038B0C80CC7C.tmp' to '../../../../../../Users/iramesh2/Desktop/New folder/415prisonGame/Saved/Autosaves/Game/HUD/MyHUD_Auto1.uasset'
+[2022.12.05-03.01.20:978][546]LogFileHelpers: Auto-saving content packages took 0.147
