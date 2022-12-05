@@ -1345,3 +1345,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.05-00.42.48:467][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.05-00.42.48:475][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
 [2022.12.05-00.42.48:497][572]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.12.05-00.47.27:732][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.12.05-00.47.27:761][582]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap_Auto2EB02A42F481CEBFD639C05972F1EE054.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.12.05-00.47.27:763][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.078
+[2022.12.05-00.47.27:763][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2022.12.05-00.53.05:724][590]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9ae1cea-4a00-41ef-84cd-4fb042a2601f}.
+[2022.12.05-00.53.05:724][590]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.53.05:817][590]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.53.05:817][590]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.53.22:511][640]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{19b268dc-06b9-44a8-a7d5-697fb4d02947}.
+[2022.12.05-00.53.22:511][640]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.53.22:528][640]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.53.22:528][640]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.53.23:736][641]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.53.23:753][641]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.53.23:753][641]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.54.25:130][824]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9ae1cea-4a00-41ef-84cd-4fb042a2601f}.
+[2022.12.05-00.54.25:130][824]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.54.25:159][824]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.54.25:159][824]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.58.22:099][530]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{19b268dc-06b9-44a8-a7d5-697fb4d02947}.
+[2022.12.05-00.58.22:099][530]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.58.22:120][530]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.58.22:120][530]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.59.17:800][696]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9ae1cea-4a00-41ef-84cd-4fb042a2601f}.
+[2022.12.05-00.59.17:800][696]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.59.17:893][696]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.59.17:893][696]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.59.20:832][705]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{19b268dc-06b9-44a8-a7d5-697fb4d02947}.
+[2022.12.05-00.59.20:832][705]LogAudioMixer: Resetting audio stream to device id 
+[2022.12.05-00.59.20:850][705]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.59.20:850][705]LogAudioMixer: Display: 1: FrontRight
