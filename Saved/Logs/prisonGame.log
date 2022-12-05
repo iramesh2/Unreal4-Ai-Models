@@ -9607,3 +9607,1212 @@ Error: CDO Constructor (CameraRig_Crane): Failed to find /Engine/EditorMeshes/Ca
 [2022.12.05-04.13.55:055][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.05-04.13.55:061][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2022.12.05-04.13.55:131][169]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.12.05-04.14.09:742][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.05-04.14.10:825][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.05-04.14.28:143][512]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Migrate/AAA/mortarProjectile.mortarProjectile
+[2022.12.05-04.16.02:789][554]BlueprintLog: New page: Compile mortarProjectile
+[2022.12.05-04.16.02:944][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.12.05-04.16.05:252][708]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.16.05:262][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.16.05:262][708]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.16.05:447][708]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.16.05:448][708]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:16:05 PM)
+[2022.12.05-04.16.05:473][708]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.16.05:486][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013288s)
+[2022.12.05-04.16.05:487][708]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.16.05:487][708]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2022.12.05-04.16.05:487][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014822s)
+[2022.12.05-04.16.05:541][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.12.05-04.16.05:543][708]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.16.05:543][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.16.05:543][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.16.05:543][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.16.05:543][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.16.05:543][708]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.16.05:549][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.16.05:549][708]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.16.05:555][708]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.16.05:555][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.16.05:555][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.16.05:557][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.16.05:557][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.16.05:557][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.16.05:557][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.16.05:558][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.16.05:558][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.16.05:558][708]LogInit: FAudioDevice initialized.
+[2022.12.05-04.16.05:558][708]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.16.05:571][708]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.16.05:574][708]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.16.05
+[2022.12.05-04.16.05:576][708]LogWorld: Bringing up level for play took: 0.004124
+[2022.12.05-04.16.05:576][708]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.12.05-04.16.05:580][708]PIE: Server logged in
+[2022.12.05-04.16.05:581][708]PIE: Play in editor total start time 0.324 seconds.
+[2022.12.05-04.16.05:602][709]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.16.07:635][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.09:793][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.09:804][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.12:009][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.12:854][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.13:180][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.13:583][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.14:014][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.14:505][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.14:599][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.14:656][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.19:015][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.20:782][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.21:115][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.21:482][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.21:493][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.21:571][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.21:582][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.24:341][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.25:832][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.26:109][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.26:548][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.27:058][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.27:205][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.27:446][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.29:828][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.30:914][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.31:531][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.32:088][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.32:307][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.34:238][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.35:414][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.16.35:499][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.16.35:499][282]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.16.35:500][282]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.16.35:500][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.16.35:513][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.16.35:531][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.16.35:573][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-04.16.35:573][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.16.35:574][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.16.35:577][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.16.35:582][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.12.05-04.16.35:627][283]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.12.05-04.17.07:303][694]BlueprintLog: New page: Compile mortar
+[2022.12.05-04.17.07:385][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.12.05-04.17.10:019][873]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.17.10:029][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.17.10:029][873]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.17.10:213][873]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.17.10:213][873]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:17:10 PM)
+[2022.12.05-04.17.10:213][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.17.10:227][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012697s)
+[2022.12.05-04.17.10:228][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.17.10:228][873]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2022.12.05-04.17.10:228][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013975s)
+[2022.12.05-04.17.10:275][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.12.05-04.17.10:277][873]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.17.10:277][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.17.10:277][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.17.10:277][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.17.10:277][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.17.10:277][873]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.17.10:282][873]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.17.10:282][873]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.17.10:288][873]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.17.10:289][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.17.10:289][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.17.10:289][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.17.10:289][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.17.10:289][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.17.10:289][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.17.10:290][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.17.10:290][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.17.10:290][873]LogInit: FAudioDevice initialized.
+[2022.12.05-04.17.10:290][873]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.17.10:300][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.17.10:303][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.17.10
+[2022.12.05-04.17.10:305][873]LogWorld: Bringing up level for play took: 0.004284
+[2022.12.05-04.17.10:305][873]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.12.05-04.17.10:311][873]PIE: Server logged in
+[2022.12.05-04.17.10:312][873]PIE: Play in editor total start time 0.287 seconds.
+[2022.12.05-04.17.10:333][874]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.17.12:215][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.14:706][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.14:799][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.15:364][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.16:086][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.16:425][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.16:552][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.16:564][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.16:576][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.21:989][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.17.21:989][875]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.17.21:989][875]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.17.21:989][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.17.22:015][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.17.22:034][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.17.22:073][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-04.17.22:075][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.17.22:076][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.17.22:078][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.17.22:083][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.05-04.17.22:151][876]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.12.05-04.17.23:106][947]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.17.23:116][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.17.23:116][947]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.17.23:309][947]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.17.23:309][947]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:17:23 PM)
+[2022.12.05-04.17.23:309][947]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.17.23:321][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012582s)
+[2022.12.05-04.17.23:323][947]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.17.23:323][947]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2022.12.05-04.17.23:323][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014132s)
+[2022.12.05-04.17.23:368][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.12.05-04.17.23:371][947]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.17.23:371][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.17.23:371][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.17.23:371][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.17.23:371][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.17.23:371][947]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.17.23:376][947]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.17.23:376][947]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.17.23:382][947]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.17.23:382][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.17.23:382][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.17.23:382][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.17.23:383][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.17.23:383][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.17.23:383][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.17.23:384][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.17.23:384][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.17.23:384][947]LogInit: FAudioDevice initialized.
+[2022.12.05-04.17.23:384][947]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.17.23:390][947]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.17.23:394][947]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.17.23
+[2022.12.05-04.17.23:395][947]LogWorld: Bringing up level for play took: 0.004214
+[2022.12.05-04.17.23:395][947]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.12.05-04.17.23:401][947]PIE: Server logged in
+[2022.12.05-04.17.23:402][947]PIE: Play in editor total start time 0.29 seconds.
+[2022.12.05-04.17.23:425][948]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.17.24:241][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.26:713][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.17.27:849][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.17.27:849][318]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.17.27:850][318]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.17.27:850][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.17.27:869][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.17.27:887][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.17.27:928][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.17.27:928][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.17.27:930][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.17.27:937][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.05-04.17.28:000][319]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.12.05-04.18.05:295][979]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.18.05:305][979]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.05-04.18.05:306][979]LogPlayLevel: [PlayLevel] Compiling mortar before play...
+[2022.12.05-04.18.05:408][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.12.05-04.18.05:412][979]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (1 blueprints)
+[2022.12.05-04.18.05:412][979]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.18.05:598][979]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.18.05:599][979]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:18:05 PM)
+[2022.12.05-04.18.05:623][979]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.18.05:635][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012212s)
+[2022.12.05-04.18.05:636][979]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.18.05:637][979]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2022.12.05-04.18.05:637][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013817s)
+[2022.12.05-04.18.05:683][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.12.05-04.18.05:683][979]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.18.05:683][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.18.05:683][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.18.05:683][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.18.05:684][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.18.05:684][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.18.05:684][979]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.18.05:688][979]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.18.05:688][979]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.18.05:695][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.18.05:695][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.18.05:696][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.18.05:696][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.18.05:696][979]LogInit: FAudioDevice initialized.
+[2022.12.05-04.18.05:696][979]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.18.05:712][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.18.05:715][979]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.18.05
+[2022.12.05-04.18.05:717][979]LogWorld: Bringing up level for play took: 0.005036
+[2022.12.05-04.18.05:717][979]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.12.05-04.18.05:723][979]PIE: Server logged in
+[2022.12.05-04.18.05:724][979]PIE: Play in editor total start time 0.423 seconds.
+[2022.12.05-04.18.05:770][980]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.18.07:377][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Migrate/AAA/Enemy_Blueprints/mortar" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/Migrate/AAA/Enemy_Blueprints/mortar.uasset" SILENT=true
+[2022.12.05-04.18.07:405][ 99]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/mortar925748AF41C0355BA7AF638ECBA9F780.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/Migrate/AAA/Enemy_Blueprints/mortar.uasset'
+[2022.12.05-04.18.07:413][ 99]AssetCheck: New page: Asset Save: mortar
+[2022.12.05-04.18.07:413][ 99]LogContentValidation: Display: Validating Blueprint /Game/Migrate/AAA/Enemy_Blueprints/mortar.mortar
+[2022.12.05-04.18.07:889][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.08:597][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Migrate/AAA/Enemy_Blueprints/mortar" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/Migrate/AAA/Enemy_Blueprints/mortar.uasset" SILENT=true
+[2022.12.05-04.18.08:622][195]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/mortarAEF7ABE749E06D991AA1E8A17B752732.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/Migrate/AAA/Enemy_Blueprints/mortar.uasset'
+[2022.12.05-04.18.08:629][195]AssetCheck: New page: Asset Save: mortar
+[2022.12.05-04.18.08:629][195]LogContentValidation: Display: Validating Blueprint /Game/Migrate/AAA/Enemy_Blueprints/mortar.mortar
+[2022.12.05-04.18.10:305][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.10:527][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.10:539][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:226][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:240][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:252][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:265][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:277][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.16:289][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.18:627][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.18.21:060][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.18.21:060][172]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.18.21:061][172]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.18.21:061][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.18.21:079][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.18.21:097][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.18.21:138][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.18.21:138][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.18.21:139][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.18.21:147][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.05-04.18.21:217][173]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.12.05-04.18.54:687][545]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:687][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:687][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.mortar_2.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:688][545]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:703][546]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:703][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:703][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:704][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:718][547]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:732][548]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:746][549]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:747][549]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:760][550]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:760][550]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:761][550]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:774][551]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:774][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:774][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:775][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:788][552]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:788][552]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:788][552]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:789][552]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:803][553]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:803][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:803][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:804][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:818][554]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:818][554]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:818][554]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:819][554]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:832][555]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:847][556]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:861][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:876][558]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:890][559]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:904][560]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:904][560]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:904][560]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:905][560]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:919][561]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:933][562]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:948][563]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:962][564]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:962][564]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:962][564]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:962][564]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:962][564]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:963][564]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:963][564]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:963][564]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:963][564]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:977][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.54:991][566]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:004][567]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:004][567]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:004][567]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:005][567]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:019][568]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:020][568]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:020][568]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:020][568]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:033][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:034][569]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:034][569]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:034][569]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:048][570]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:048][570]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:048][570]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:049][570]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:063][571]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:077][572]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:092][573]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:105][574]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:106][574]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:120][575]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:120][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:120][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:121][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:135][576]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:149][577]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:163][578]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:164][578]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:178][579]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:192][580]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:192][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:192][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:193][580]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:206][581]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:208][581]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:208][581]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:208][581]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:221][582]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:221][582]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:221][582]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:222][582]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:235][583]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:250][584]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:264][585]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:278][586]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:278][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:278][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:279][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:292][587]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:292][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:292][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:293][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:307][588]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:322][589]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:336][590]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:336][590]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:336][590]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:337][590]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:351][591]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:365][592]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:380][593]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:719][617]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:719][617]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:719][617]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.mortar_2.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:720][617]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:735][618]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:749][619]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:749][619]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:749][619]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:750][619]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:763][620]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:763][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:763][620]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:763][620]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:764][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:764][620]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:764][620]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:764][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:764][620]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:778][621]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:792][622]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:792][622]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:792][622]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:793][622]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:806][623]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:807][623]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:821][624]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:835][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:850][626]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:863][627]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:864][627]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:878][628]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:893][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:905][630]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:907][630]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:921][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:922][631]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:922][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:922][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:935][632]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:935][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:935][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:936][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:949][633]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:949][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:949][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:950][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:964][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:978][635]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:978][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:978][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:979][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:992][636]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:992][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.55:993][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:007][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:021][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:036][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:049][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:064][641]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:064][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:064][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:065][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:078][642]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:078][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:078][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:079][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:092][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:107][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:121][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:135][646]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:135][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:135][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:136][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:150][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:164][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:178][649]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:178][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:178][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:179][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:193][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:207][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:221][652]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:221][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:221][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:222][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:236][653]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:236][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:236][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:237][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: Scale for /Engine/Transient.World_25:PersistentLevel.mortar_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.500 Z=0.000
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.12.05-04.18.56:251][654]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.12.05-04.19.08:084][553]BlueprintLog: New page: Compile mortar
+[2022.12.05-04.19.08:184][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.12.05-04.19.08:995][607]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.19.09:006][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.19.09:006][607]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.19.09:190][607]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.19.09:190][607]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:19:09 PM)
+[2022.12.05-04.19.09:190][607]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.19.09:204][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012749s)
+[2022.12.05-04.19.09:205][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.19.09:205][607]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2022.12.05-04.19.09:205][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014283s)
+[2022.12.05-04.19.09:252][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.12.05-04.19.09:253][607]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.19.09:253][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.19.09:253][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.19.09:254][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.19.09:254][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.19.09:254][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.19.09:254][607]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.19.09:259][607]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.19.09:259][607]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.19.09:265][607]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.19.09:265][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.19.09:265][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.19.09:266][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.19.09:266][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.19.09:266][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.19.09:266][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.19.09:267][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.19.09:267][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.19.09:267][607]LogInit: FAudioDevice initialized.
+[2022.12.05-04.19.09:267][607]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.19.09:283][607]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.19.09:287][607]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.19.09
+[2022.12.05-04.19.09:289][607]LogWorld: Bringing up level for play took: 0.004777
+[2022.12.05-04.19.09:289][607]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.12.05-04.19.09:295][607]PIE: Server logged in
+[2022.12.05-04.19.09:296][607]PIE: Play in editor total start time 0.295 seconds.
+[2022.12.05-04.19.09:316][608]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.19.13:670][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.19.29:521][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.19.29:521][251]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.19.29:521][251]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.19.29:522][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.19.29:534][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.19.29:553][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.19.29:594][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-04.19.29:594][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.19.29:596][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.19.29:599][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.19.29:603][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.12.05-04.19.29:676][252]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.12.05-04.20.45:318][953]BlueprintLog: New page: Compile mortarProjectile
+[2022.12.05-04.20.45:325][953]LogBlueprint: Error: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\mortarProjectile.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2022.12.05-04.20.45:325][953]LogBlueprint: Error: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\mortarProjectile.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.12.05-04.20.45:397][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.12.05-04.20.58:070][ 16]BlueprintLog: New page: Compile mortarProjectile
+[2022.12.05-04.20.58:151][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.12.05-04.20.59:205][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.20.59:215][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.20.59:215][ 98]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.20.59:402][ 98]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.20.59:402][ 98]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:20:59 PM)
+[2022.12.05-04.20.59:402][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.20.59:414][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012916s)
+[2022.12.05-04.20.59:416][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.20.59:416][ 98]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2022.12.05-04.20.59:416][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014473s)
+[2022.12.05-04.20.59:464][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.12.05-04.20.59:465][ 98]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.20.59:465][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.20.59:465][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.20.59:466][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.20.59:467][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.20.59:467][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.20.59:467][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.20.59:472][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.20.59:472][ 98]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.20.59:478][ 98]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.20.59:478][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.20.59:478][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.20.59:478][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.20.59:479][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.20.59:479][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.20.59:479][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.20.59:480][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.20.59:480][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.20.59:480][ 98]LogInit: FAudioDevice initialized.
+[2022.12.05-04.20.59:480][ 98]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.20.59:493][ 98]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.20.59:498][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.20.59
+[2022.12.05-04.20.59:500][ 98]LogWorld: Bringing up level for play took: 0.005314
+[2022.12.05-04.20.59:500][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.12.05-04.20.59:506][ 98]PIE: Server logged in
+[2022.12.05-04.20.59:507][ 98]PIE: Play in editor total start time 0.296 seconds.
+[2022.12.05-04.20.59:528][ 99]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.21.01:674][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.03:429][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.06:705][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.07:040][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.07:897][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.11:546][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.11:557][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.12:379][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.12:462][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.15:647][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.15:658][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.19:762][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.20:107][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.21:744][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.22:999][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.23:116][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.25:773][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.21.31:679][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.21.31:679][105]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.21.31:679][105]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.21.31:679][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.21.31:695][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.21.31:713][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.21.31:756][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-04.21.31:757][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.21.31:758][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.21.31:760][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.21.31:765][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.12.05-04.21.31:811][106]LogPlayLevel: Display: Destroying online subsystem :Context_44
