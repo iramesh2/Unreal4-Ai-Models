@@ -996,3 +996,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.05-03.30.34:287][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.05-03.30.34:289][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2022.12.05-03.30.34:314][727]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.12.05-03.31.06:240][  4]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-03.31.06:248][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-03.31.06:248][  4]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 3:31:06 PM)
+[2022.12.05-03.31.06:248][  4]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.31.06:261][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012576s)
+[2022.12.05-03.31.06:263][  4]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-03.31.06:263][  4]LogPlayLevel: PIE: World Init took: (0.002371s)
+[2022.12.05-03.31.06:263][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015207s)
+[2022.12.05-03.31.06:271][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.12.05-03.31.06:272][  4]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-03.31.06:272][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-03.31.06:272][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-03.31.06:273][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-03.31.06:273][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-03.31.06:273][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-03.31.06:273][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-03.31.06:277][  4]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-03.31.06:277][  4]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-03.31.06:363][  4]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-03.31.06:363][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-03.31.06:364][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-03.31.06:364][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-03.31.06:364][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-03.31.06:364][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-03.31.06:364][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-03.31.06:365][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-03.31.06:366][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-03.31.06:366][  4]LogInit: FAudioDevice initialized.
+[2022.12.05-03.31.06:366][  4]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-03.31.06:372][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-03.31.06:374][  4]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-21.31.06
+[2022.12.05-03.31.06:375][  4]LogWorld: Bringing up level for play took: 0.002910
+[2022.12.05-03.31.06:375][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.12.05-03.31.06:381][  4]PIE: Server logged in
+[2022.12.05-03.31.06:381][  4]PIE: Play in editor total start time 0.136 seconds.
+[2022.12.05-03.31.08:263][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.09:623][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-653.701 Y=-461.167 Z=500.000
+[2022.12.05-03.31.09:623][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-03.31.10:883][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-257.785 Y=-757.329 Z=500.000
+[2022.12.05-03.31.10:883][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-03.31.12:141][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.12:449][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.12:524][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-197.570 Y=-775.220 Z=500.000
+[2022.12.05-03.31.12:524][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-03.31.13:683][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.13:808][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.18:025][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=605.472 Y=522.880 Z=500.000
+[2022.12.05-03.31.18:025][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-03.31.19:267][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.31.19:487][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.31.19:487][559]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.31.19:487][559]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.31.19:488][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.31.19:499][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-03.31.19:515][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.31.19:521][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.31.19:521][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.31.19:522][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.31.19:528][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.05-03.31.19:585][561]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.05-03.52.08:675][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Pickups/AttackPotion.AttackPotion
+[2022.12.05-03.52.08:866][159]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.12.05-03.52.09:695][159]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.05-03.52.09:743][160]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.05-03.57.15:560][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.05-03.57.15:561][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2022.12.05-03.57.15:561][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Pickups/AttackPotion] ([2] browsable assets)...
+[2022.12.05-03.57.15:571][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Pickups/AttackPotion.AttackPotion]
+[2022.12.05-03.57.15:571][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/AttackPotion]
+[2022.12.05-03.57.15:590][909]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/AttackPotion_Auto11D8B4D2D4F332E8CF0D9F999DB428744.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/Inventory/Pickups/AttackPotion_Auto1.uasset'
+[2022.12.05-03.57.15:591][909]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.12.05-03.58.49:821][623]BlueprintLog: New page: Compile AttackPotion
+[2022.12.05-03.58.49:862][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.05-03.59.38:174][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Pickups/AttackPotion" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/AttackPotion.uasset" SILENT=true
+[2022.12.05-03.59.38:193][599]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/AttackPotionCEB71EA14C96DDB65AF8ADA55FD7B9EE.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/AttackPotion.uasset'
+[2022.12.05-03.59.38:209][599]AssetCheck: New page: Asset Save: AttackPotion
+[2022.12.05-03.59.38:209][599]LogContentValidation: Display: Validating Blueprint /Game/Inventory/Pickups/AttackPotion.AttackPotion
+[2022.12.05-04.07.15:685][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.12.05-04.07.15:717][186]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap_Auto2F4D44BDF44C4B1F4746BAD8959966562.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.12.05-04.07.15:719][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.060
+[2022.12.05-04.07.15:719][186]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.12.05-04.08.25:864][674]BlueprintLog: New page: Compile AttackPotion
+[2022.12.05-04.08.25:905][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.05-04.17.15:794][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.12.05-04.17.15:827][537]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap_Auto384AF9914429F13A3C24983B63C1F37D9.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.12.05-04.17.15:829][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.061
+[2022.12.05-04.17.15:829][537]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.12.05-04.20.26:933][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
