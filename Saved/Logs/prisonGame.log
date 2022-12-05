@@ -1259,3 +1259,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.05-00.33.45:238][ 74]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/InventorySlotC992DBE84A99EA9CD0DD928BC4A052D9.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/UI/InventorySlot.uasset'
 [2022.12.05-00.33.45:265][ 74]AssetCheck: New page: Asset Save: InventorySlot
 [2022.12.05-00.33.45:265][ 74]LogContentValidation: Display: Validating WidgetBlueprint /Game/Inventory/UI/InventorySlot.InventorySlot
+[2022.12.05-00.37.01:275][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.05-00.37.01:307][732]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/ThirdPersonExampleMap_Auto1B5E3E6AD4DD6107BB0107B9030C8F39C.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.12.05-00.37.01:309][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.077
+[2022.12.05-00.37.01:309][732]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.12.05-00.37.01:310][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/UI/Inventory] ([2] browsable assets)...
+[2022.12.05-00.37.01:310][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/Inventory]
+[2022.12.05-00.37.01:337][732]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Inventory_Auto136192CE244A09A8DA9FD568633EB3BCD.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/Autosaves/Game/Inventory/UI/Inventory_Auto1.uasset'
+[2022.12.05-00.37.01:338][732]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.12.05-00.42.20:451][108]BlueprintLog: New page: Compile CorruptingPotion
+[2022.12.05-00.42.20:543][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.12.05-00.42.21:175][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Pickups/CorruptingPotion" FILE="../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset" SILENT=true
+[2022.12.05-00.42.21:194][125]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/CorruptingPotion95B4EC4E4178FC4D3EBAB99AB319A2A9.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/Inventory/Pickups/CorruptingPotion.uasset'
+[2022.12.05-00.42.21:214][125]AssetCheck: New page: Asset Save: CorruptingPotion
+[2022.12.05-00.42.21:214][125]LogContentValidation: Display: Validating Blueprint /Game/Inventory/Pickups/CorruptingPotion.CorruptingPotion
+[2022.12.05-00.42.22:502][203]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.42.22:510][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.42.22:510][203]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 12:42:22 PM)
+[2022.12.05-00.42.22:511][203]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-00.42.22:523][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012449s)
+[2022.12.05-00.42.22:524][203]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-00.42.22:525][203]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2022.12.05-00.42.22:525][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014034s)
+[2022.12.05-00.42.22:567][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.12.05-00.42.22:568][203]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.42.22:568][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.42.22:568][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.42.22:568][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.42.22:568][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.42.22:569][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.42.22:569][203]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.42.22:573][203]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.42.22:573][203]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.42.22:660][203]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.42.22:660][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.42.22:660][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.42.22:661][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.42.22:661][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.42.22:661][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.42.22:661][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.42.22:662][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.42.22:662][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.42.22:662][203]LogInit: FAudioDevice initialized.
+[2022.12.05-00.42.22:662][203]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-00.42.22:699][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.42.22:699][203]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.42.22:703][203]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-18.42.22
+[2022.12.05-00.42.22:704][203]LogWorld: Bringing up level for play took: 0.003648
+[2022.12.05-00.42.22:704][203]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.12.05-00.42.22:713][203]PIE: Server logged in
+[2022.12.05-00.42.22:717][203]PIE: Play in editor total start time 0.21 seconds.
+[2022.12.05-00.42.25:872][244]LogRenderer: Reallocating scene render targets to support 1616x1368 Format 10 NumSamples 1 (Frame:42).
+[2022.12.05-00.42.28:719][395]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.05-00.42.28:719][395]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.12.05-00.42.28:719][395]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.12.05-00.42.29:319][431]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.05-00.42.29:319][431]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.12.05-00.42.32:457][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Punch hit 
+[2022.12.05-00.42.34:660][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-00.42.35:377][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-00.42.35:678][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-00.42.40:035][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-00.42.40:469][ 99]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.05-00.42.40:469][ 99]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.12.05-00.42.42:325][209]LogBlueprintUserMessages: [CorruptingPotion_C_0] UseItem1
+[2022.12.05-00.42.43:226][263]LogBlueprintUserMessages: [HealthPotion_C_0] UseItem1
+[2022.12.05-00.42.44:061][313]LogBlueprintUserMessages: [AttackPotion_C_0] use attack potion
+[2022.12.05-00.42.44:929][365]LogBlueprintUserMessages: [HealthPotion_C_1] UseItem1
+[2022.12.05-00.42.45:664][409]LogBlueprintUserMessages: [CorruptingPotion_C_1] UseItem1
+[2022.12.05-00.42.48:412][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.42.48:412][571]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-00.42.48:412][571]LogSlate: Window 'prisonGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.05-00.42.48:416][571]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.42.48:417][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.42.48:424][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.42.48:430][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.42.48:466][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-00.42.48:466][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.42.48:467][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.42.48:475][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.05-00.42.48:497][572]LogPlayLevel: Display: Destroying online subsystem :Context_17
