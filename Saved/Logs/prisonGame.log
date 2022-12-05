@@ -15033,3 +15033,352 @@ MatineeActor
 [2022.12.04-23.52.42:093][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.04-23.52.42:119][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
 [2022.12.04-23.52.42:145][180]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.12.05-00.00.51:148][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.12.05-00.00.51:154][653]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase' took 0.065
+[2022.12.05-00.05.24:394][819]Cmd: DELETE
+[2022.12.05-00.05.24:394][819]Cmd: ACTOR DELETE
+[2022.12.05-00.05.24:457][819]LogEditorActor: Actor CameraActor01 is referenced by MatineeActor.
+[2022.12.05-00.05.29:864][819]LogSlate: Window 'Message' being destroyed
+[2022.12.05-00.05.29:879][819]Message dialog closed, result: YesAll, title: Message, text: Actor CameraActor01 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.05-00.05.29:879][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:891][819]LogEditorActor: Actor CameraActor02 is referenced by MatineeActor.
+[2022.12.05-00.05.29:891][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:900][819]LogEditorActor: Actor CameraActor03 is referenced by MatineeActor.
+[2022.12.05-00.05.29:900][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:910][819]LogEditorActor: Actor CameraActor04 is referenced by MatineeActor.
+[2022.12.05-00.05.29:910][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:921][819]LogEditorActor: Actor CameraActor05 is referenced by MatineeActor.
+[2022.12.05-00.05.29:921][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:931][819]LogEditorActor: Actor CameraActor06 is referenced by MatineeActor.
+[2022.12.05-00.05.29:931][819]LogEditorActor: Deleted Actor: CameraActor
+[2022.12.05-00.05.29:992][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.05-00.05.29:995][819]LogEditorActor: Deleted 6 Actors (0.179 secs)
+[2022.12.05-00.05.31:752][909]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.05.31:764][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.05.31:764][909]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 12:05:31 PM)
+[2022.12.05-00.05.31:765][909]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.05.31:959][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194839s)
+[2022.12.05-00.05.31:960][909]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.05-00.05.31:961][909]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2022.12.05-00.05.31:961][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.196593s)
+[2022.12.05-00.05.32:014][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.12.05-00.05.32:016][909]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.05.32:016][909]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.05.32:016][909]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.05.32:016][909]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.05.32:016][909]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.05.32:016][909]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.05.32:021][909]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.05.32:021][909]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.05.32:114][909]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.05.32:115][909]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.05.32:115][909]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.05.32:115][909]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.05.32:115][909]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.05.32:115][909]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.05.32:115][909]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.05.32:116][909]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.05.32:116][909]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.05.32:116][909]LogInit: FAudioDevice initialized.
+[2022.12.05-00.05.32:116][909]LogAudio: Display: Audio Device (ID: 29) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.05-00.05.32:126][909]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.05.32:157][909]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-18.05.32
+[2022.12.05-00.05.32:166][909]LogWorld: Bringing up level for play took: 0.039103
+[2022.12.05-00.05.32:166][909]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.12.05-00.05.32:168][909]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.05-00.05.32:184][909]PIE: Server logged in
+[2022.12.05-00.05.32:185][909]PIE: Play in editor total start time 0.424 seconds.
+[2022.12.05-00.05.40:991][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.05.40:991][400]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.05.40:993][400]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.05.41:005][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.05.41:016][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.05.41:026][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.05.41:076][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.05.41:084][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.05.41:086][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.05.41:115][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.05-00.05.41:141][401]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.12.05-00.05.42:378][465]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.42:378][465]LogEditorTransaction: Undo Delete Actors
+[2022.12.05-00.05.42:499][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.46:021][538]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.05.46:033][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.05.46:033][538]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 12:05:46 PM)
+[2022.12.05-00.05.46:033][538]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.05.46:223][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190472s)
+[2022.12.05-00.05.46:224][538]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.05-00.05.46:224][538]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2022.12.05-00.05.46:224][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.191884s)
+[2022.12.05-00.05.46:278][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.12.05-00.05.46:280][538]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.05.46:281][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.05.46:281][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.05.46:281][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.05.46:281][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.05.46:281][538]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.05.46:285][538]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.05.46:285][538]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.05.46:375][538]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.05.46:375][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.05.46:375][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.05.46:375][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.05.46:376][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.05.46:376][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.05.46:376][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.05.46:377][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.05.46:377][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.05.46:377][538]LogInit: FAudioDevice initialized.
+[2022.12.05-00.05.46:377][538]LogAudio: Display: Audio Device (ID: 30) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.05-00.05.46:387][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.05.46:419][538]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-18.05.46
+[2022.12.05-00.05.46:428][538]LogWorld: Bringing up level for play took: 0.040005
+[2022.12.05-00.05.46:428][538]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.12.05-00.05.46:430][538]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.05-00.05.46:446][538]PIE: Server logged in
+[2022.12.05-00.05.46:447][538]PIE: Play in editor total start time 0.417 seconds.
+[2022.12.05-00.05.49:211][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.05.49:211][679]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.05.49:213][679]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.05.49:226][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.05.49:240][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.05.49:285][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.05.49:343][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.05.49:343][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.05.49:345][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.05.49:384][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.12.05-00.05.49:426][680]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.12.05-00.05.51:662][725]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.51:662][725]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.51:749][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.52:841][747]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.52:841][747]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.52:953][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.53:570][761]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.53:570][761]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.53:682][761]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.54:742][785]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.54:742][785]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.54:853][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.55:700][803]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.55:700][803]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.55:809][803]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.55:993][807]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.55:993][807]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.56:098][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.56:293][811]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.56:293][811]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.56:404][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.05.56:548][815]Cmd: TRANSACTION UNDO
+[2022.12.05-00.05.56:548][815]LogEditorTransaction: Undo Clicking on Actors
+[2022.12.05-00.05.56:632][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.05-00.06.00:797][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.12.05-00.06.02:437][996]LogSavePackage: Moving '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Saved/AdvancedVillagePack_Showcase1533557D47C8138546FB09A0C18F3CED.tmp' to '../../../../../../Users/sgosavi2/Desktop/415prisonGame/Content/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.umap'
+[2022.12.05-00.06.02:475][996]AssetCheck: New page: Asset Save: AdvancedVillagePack_Showcase
+[2022.12.05-00.06.02:475][996]LogContentValidation: Display: Validating World /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase
+[2022.12.05-00.06.05:366][128]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.06.05:378][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.06.05:378][128]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 12:06:05 PM)
+[2022.12.05-00.06.05:378][128]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.06.05:568][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188578s)
+[2022.12.05-00.06.05:568][128]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.05-00.06.05:569][128]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2022.12.05-00.06.05:569][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.190040s)
+[2022.12.05-00.06.05:622][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.12.05-00.06.05:623][128]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.06.05:624][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.06.05:624][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.06.05:624][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.06.05:624][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.06.05:624][128]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.06.05:628][128]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.06.05:628][128]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.06.05:722][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.06.05:722][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.06.05:724][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.06.05:724][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.06.05:724][128]LogInit: FAudioDevice initialized.
+[2022.12.05-00.06.05:724][128]LogAudio: Display: Audio Device (ID: 31) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.05-00.06.05:731][128]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.06.05:761][128]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-18.06.05
+[2022.12.05-00.06.05:770][128]LogWorld: Bringing up level for play took: 0.037757
+[2022.12.05-00.06.05:770][128]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.12.05-00.06.05:772][128]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.05-00.06.05:788][128]PIE: Server logged in
+[2022.12.05-00.06.05:789][128]PIE: Play in editor total start time 0.413 seconds.
+[2022.12.05-00.06.07:472][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.06.07:472][207]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.06.07:473][207]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.06.07:485][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.06.07:497][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.06.07:543][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.06.07:592][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.06.07:602][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.06.07:603][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.06.07:633][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.12.05-00.06.07:664][208]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.12.05-00.08.02:780][316]LogEditorViewport: Clicking on Actor (LMB): BP_Misc_DayNight_Cycle_C (BP_Misc_DayNight_Cycle)
+[2022.12.05-00.08.07:209][468]LogEditorViewport: Clicking on Actor (LMB): Emitter (Pfx_Mist7)
+[2022.12.05-00.08.07:895][492]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree49)
+[2022.12.05-00.08.08:455][511]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree12)
+[2022.12.05-00.08.09:479][547]LogEditorViewport: Clicking on Actor (LMB): BP_Tree_C (BP_Tree49)
+[2022.12.05-00.09.20:221][394]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor)
+[2022.12.05-00.09.23:988][592]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor)
+[2022.12.05-00.09.24:419][614]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor)
+[2022.12.05-00.09.29:834][903]Cmd: DELETE
+[2022.12.05-00.09.29:834][903]Cmd: ACTOR DELETE
+[2022.12.05-00.09.33:650][903]LogSlate: Window 'Message' being destroyed
+[2022.12.05-00.09.33:654][903]Message dialog closed, result: Yes, title: Message, text: Actor MatineeActor is referenced by the level blueprint.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+MatineeActor
+[2022.12.05-00.09.33:655][903]LogEditorActor: Deleted Actor: MatineeActor
+[2022.12.05-00.09.33:709][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.12.05-00.09.33:717][903]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2022.12.05-00.09.36:407][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.09.36:419][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.09.36:419][ 10]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 12:09:36 PM)
+[2022.12.05-00.09.36:420][ 10]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.09.36:608][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187437s)
+[2022.12.05-00.09.36:609][ 10]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.05-00.09.36:609][ 10]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2022.12.05-00.09.36:609][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.188976s)
+[2022.12.05-00.09.36:660][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.12.05-00.09.36:662][ 10]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.09.36:662][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.09.36:662][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.09.36:663][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.09.36:663][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.09.36:663][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.09.36:663][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.09.36:667][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.09.36:667][ 10]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.09.36:755][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.09.36:757][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.09.36:757][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.09.36:757][ 10]LogInit: FAudioDevice initialized.
+[2022.12.05-00.09.36:757][ 10]LogAudio: Display: Audio Device (ID: 32) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.05-00.09.36:767][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.09.36:801][ 10]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-18.09.36
+[2022.12.05-00.09.36:810][ 10]LogWorld: Bringing up level for play took: 0.041881
+[2022.12.05-00.09.36:810][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.12.05-00.09.36:812][ 10]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.05-00.09.36:828][ 10]PIE: Server logged in
+[2022.12.05-00.09.36:829][ 10]PIE: Play in editor total start time 0.413 seconds.
+[2022.12.05-00.09.37:474][ 39]LogScript: Warning: Accessed None trying to read property MatineeActor_0_ExecuteUbergraph_AdvancedVillagePack_Showcase_RefProperty
+	AdvancedVillagePack_Showcase_C /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.AdvancedVillagePack_Showcase_C_0
+	Function /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase_C:ExecuteUbergraph_AdvancedVillagePack_Showcase:001C
+[2022.12.05-00.09.37:475][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MatineeActor_0_ExecuteUbergraph_AdvancedVillagePack_Showcase_RefProperty". Blueprint:  AdvancedVillagePack_Showcase Function:  Execute Ubergraph Advanced Village Pack Showcase Graph:  EventGraph Node:  Play
+[2022.12.05-00.10.02:312][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.10.02:312][606]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.10.02:313][606]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.10.02:325][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.10.02:333][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.10.02:343][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.10.02:393][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.10.02:403][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.10.02:405][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.10.02:435][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.12.05-00.10.02:502][607]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.12.05-00.10.06:164][787]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-00.10.06:176][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-00.10.06:176][787]PIE: New page: PIE session: AdvancedVillagePack_Showcase (Dec 4, 2022, 12:10:06 PM)
+[2022.12.05-00.10.06:176][787]LogPlayLevel: Creating play world package: /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.10.06:364][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188533s)
+[2022.12.05-00.10.06:365][787]LogAIModule: Creating AISystem for world AdvancedVillagePack_Showcase
+[2022.12.05-00.10.06:366][787]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2022.12.05-00.10.06:366][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase to /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase (0.190069s)
+[2022.12.05-00.10.06:417][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.12.05-00.10.06:419][787]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-00.10.06:419][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-00.10.06:419][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-00.10.06:420][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-00.10.06:420][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-00.10.06:420][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-00.10.06:420][787]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-00.10.06:424][787]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-00.10.06:424][787]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-00.10.06:512][787]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.12.05-00.10.06:512][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-00.10.06:512][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-00.10.06:512][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-00.10.06:512][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-00.10.06:513][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-00.10.06:513][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-00.10.06:514][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-00.10.06:514][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-00.10.06:514][787]LogInit: FAudioDevice initialized.
+[2022.12.05-00.10.06:514][787]LogAudio: Display: Audio Device (ID: 33) registered with world 'AdvancedVillagePack_Showcase'.
+[2022.12.05-00.10.06:524][787]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-00.10.06:554][787]LogWorld: Bringing World /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase up for play (max tick rate 0) at 2022.12.04-18.10.06
+[2022.12.05-00.10.06:563][787]LogWorld: Bringing up level for play took: 0.038406
+[2022.12.05-00.10.06:563][787]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.12.05-00.10.06:565][787]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2022.12.05-00.10.06:581][787]PIE: Server logged in
+[2022.12.05-00.10.06:582][787]PIE: Play in editor total start time 0.409 seconds.
+[2022.12.05-00.10.07:245][815]LogScript: Warning: Accessed None trying to read property MatineeActor_0_ExecuteUbergraph_AdvancedVillagePack_Showcase_RefProperty
+	AdvancedVillagePack_Showcase_C /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase:PersistentLevel.AdvancedVillagePack_Showcase_C_0
+	Function /Game/AdvancedVillagePack/Maps/AdvancedVillagePack_Showcase.AdvancedVillagePack_Showcase_C:ExecuteUbergraph_AdvancedVillagePack_Showcase:001C
+[2022.12.05-00.10.07:245][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MatineeActor_0_ExecuteUbergraph_AdvancedVillagePack_Showcase_RefProperty". Blueprint:  AdvancedVillagePack_Showcase Function:  Execute Ubergraph Advanced Village Pack Showcase Graph:  EventGraph Node:  Play
+[2022.12.05-00.10.17:543][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.10.17:543][406]LogWorld: BeginTearingDown for /Game/AdvancedVillagePack/Maps/UEDPIE_0_AdvancedVillagePack_Showcase
+[2022.12.05-00.10.17:545][406]LogWorld: UWorld::CleanupWorld for AdvancedVillagePack_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-00.10.17:556][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.10.17:570][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-00.10.17:581][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-00.10.17:627][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-00.10.17:638][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.10.17:639][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-00.10.17:670][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.12.05-00.10.17:749][407]LogPlayLevel: Display: Destroying online subsystem :Context_61
