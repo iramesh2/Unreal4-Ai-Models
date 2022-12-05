@@ -4237,3 +4237,961 @@ Error: CDO Constructor (CameraRig_Crane): Failed to find /Engine/EditorMeshes/Ca
 [2022.12.05-03.44.57:214][476]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap835ED40A42C148FE2446B19E21DCC025.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2022.12.05-03.44.57:233][476]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2022.12.05-03.44.57:233][476]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.05-03.45.50:566][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.12.05-03.47.04:737][920]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.12.05-03.47.04:804][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.05-03.47.05:881][993]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-03.47.05:889][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-03.47.05:889][993]LogHMD: Initializing OVRPlugin session
+[2022.12.05-03.47.06:072][993]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-03.47.06:072][993]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 3:47:06 PM)
+[2022.12.05-03.47.06:073][993]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.47.06:085][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012402s)
+[2022.12.05-03.47.06:086][993]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-03.47.06:086][993]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2022.12.05-03.47.06:086][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013966s)
+[2022.12.05-03.47.06:112][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.12.05-03.47.06:112][993]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-03.47.06:112][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-03.47.06:112][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-03.47.06:113][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-03.47.06:113][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-03.47.06:113][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-03.47.06:113][993]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-03.47.06:118][993]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-03.47.06:118][993]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-03.47.06:125][993]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-03.47.06:125][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-03.47.06:125][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-03.47.06:126][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-03.47.06:126][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-03.47.06:126][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-03.47.06:126][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-03.47.06:127][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-03.47.06:127][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-03.47.06:127][993]LogInit: FAudioDevice initialized.
+[2022.12.05-03.47.06:127][993]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-03.47.06:139][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-03.47.06:145][993]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-21.47.06
+[2022.12.05-03.47.06:146][993]LogWorld: Bringing up level for play took: 0.006050
+[2022.12.05-03.47.06:146][993]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.12.05-03.47.06:150][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.06:151][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:151][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:153][993]PIE: Server logged in
+[2022.12.05-03.47.06:153][993]PIE: Play in editor total start time 0.268 seconds.
+[2022.12.05-03.47.06:158][993]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:158][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:159][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:159][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:159][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:159][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.06:159][993]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:551][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:552][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:554][302]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:565][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:566][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:566][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:567][303]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:578][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:578][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:578][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:578][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:578][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:579][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:579][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:579][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:579][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:579][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:581][304]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:593][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:595][305]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:605][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:605][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:605][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:605][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:607][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:609][306]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:619][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:620][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:622][307]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:633][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:633][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:633][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:634][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:635][308]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:647][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:647][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:647][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:647][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:647][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:648][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:648][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:648][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:648][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:649][309]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:660][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:660][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:661][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:663][310]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:674][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:675][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:675][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:675][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:677][311]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:687][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:688][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:688][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:688][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:688][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.10:689][312]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:701][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:704][313]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:715][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:716][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:716][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:716][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:717][314]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:728][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:731][315]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:742][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:744][316]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:755][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:756][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:756][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:757][317]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:767][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:768][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:770][318]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:781][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:783][319]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:795][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:797][320]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:808][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:808][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:808][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:808][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:809][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:809][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:809][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:809][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:810][321]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:821][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:822][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:822][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:823][322]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:834][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:835][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:837][323]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:847][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:847][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:848][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:848][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:848][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:848][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:848][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:850][324]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:860][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:861][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:863][325]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:875][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:877][326]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:887][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:887][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:887][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:887][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:887][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:888][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:888][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:889][327]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:900][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:900][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:900][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:900][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:901][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:901][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:901][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:902][328]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:914][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:914][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:914][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:915][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:915][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:915][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:915][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:917][329]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:928][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:929][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:929][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:929][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:929][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:930][330]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:943][331]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:943][331]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:943][331]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:943][331]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:956][332]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:956][332]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:969][333]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:982][334]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:994][335]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.10:995][335]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:006][336]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:008][336]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:019][337]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:020][337]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:031][338]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:032][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:034][338]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:045][339]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:046][339]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:057][340]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.11:059][340]LogBlueprintUserMessages: [Boss_5] damage
+[2022.12.05-03.47.11:394][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:406][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:419][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:431][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:443][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:455][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:467][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.11:480][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.13:404][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.14:590][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.16:265][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:395][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:650][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:651][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:663][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:663][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:675][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:675][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:686][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:687][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:699][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:699][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:723][912]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:735][913]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:735][913]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:747][914]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:747][914]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:759][915]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:760][915]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:771][916]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:771][916]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:783][917]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:784][917]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:795][918]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:796][918]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:807][919]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:808][919]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:820][920]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.47.17:941][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:942][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.17:954][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.19:670][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.20:169][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.21:266][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.22:656][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.23:686][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.23:733][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You have died
+[2022.12.05-03.47.23:733][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.26:683][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You have died
+[2022.12.05-03.47.26:683][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.26:976][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You have died
+[2022.12.05-03.47.26:976][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.47.37:194][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.47.37:194][600]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.47.37:194][600]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.47.37:195][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.47.37:206][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-03.47.37:243][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.47.37:262][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-03.47.37:262][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.47.37:263][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.47.37:266][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.47.37:270][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.05-03.47.37:315][601]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.05-03.49.59:940][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2022.12.05-03.50.07:619][418]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/EnemyAI/Enemy_BT.Enemy_BT
+[2022.12.05-03.50.29:179][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemyAI/EnemyAI.EnemyAI
+[2022.12.05-03.51.32:015][748]LogMaterial: Display: Material /Game/StarterContent/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.05-03.51.32:016][748]LogMaterial: Display: Missing cached shadermap for M_ColorGrid_LowSpec in PCD3D_SM5, Default, SM5 (DDC key hash: 9BF99D1AAE71C02FAE72F3D1E7C7C17F37683953), compiling. 
+[2022.12.05-03.51.32:051][748]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.12.05-03.51.32:075][749]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2022.12.05-03.51.32:075][749]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.12.05-03.51.32:075][749]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.12.05-03.51.32:075][749]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.12.05-03.51.32:075][749]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.12.05-03.51.35:946][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.12.05-03.51.35:946][958]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.05-03.51.35:956][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.05-03.51.35:956][958]LogShaderCompilers: Display: Total job queries 82, among them cache hits 0 (0.00%)
+[2022.12.05-03.51.35:956][958]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 40 distinct outputs (78.43%)
+[2022.12.05-03.51.35:956][958]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.12.05-03.51.35:956][958]LogShaderCompilers: Display: ================================================
+[2022.12.05-03.53.54:858][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/enemymoveProjectile.
+[2022.12.05-03.53.54:860][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/FirstPersonProjectile.
+[2022.12.05-03.53.54:861][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/astroprojectile.
+[2022.12.05-03.53.54:862][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/FirstPersonCharacter.
+[2022.12.05-03.53.54:864][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/healthBP.
+[2022.12.05-03.53.54:865][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/HUD.
+[2022.12.05-03.53.54:866][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/keyBP.
+[2022.12.05-03.53.54:867][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/mortarProjectile.
+[2022.12.05-03.53.54:867][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/Restart.
+[2022.12.05-03.53.54:868][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI/FindPlayerLocation.
+[2022.12.05-03.53.54:869][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI/FindRandomLocation.
+[2022.12.05-03.53.54:871][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI/FinishedTask.
+[2022.12.05-03.53.54:872][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI/NPC.
+[2022.12.05-03.53.54:872][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI/npc_ai.
+[2022.12.05-03.53.54:874][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI2/aicontrollerenemy.
+[2022.12.05-03.53.54:874][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI2/enemyAI.
+[2022.12.05-03.53.54:877][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI2/Tasks/PlayerLocation.
+[2022.12.05-03.53.54:877][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/AI2/Tasks/RandomLocationTask.
+[2022.12.05-03.53.54:878][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/Enemy_Blueprints/BP_enemy_charger.
+[2022.12.05-03.53.54:879][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/Enemy_Blueprints/bp_enemy_turrent.
+[2022.12.05-03.53.54:880][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/Enemy_Blueprints/bp_moving_enemy.
+[2022.12.05-03.53.54:881][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/Enemy_Blueprints/mortar.
+[2022.12.05-03.53.54:882][826]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/AAA/maps/FirstPersonExampleMap.
+[2022.12.05-03.53.55:208][827]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/LevelDesignKit/Scene/moveablecube.
+[2022.12.05-03.53.55:209][827]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Migrate/LevelDesignKit/Scene/redcube.
+[2022.12.05-03.54.09:508][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.05-03.54.10:112][612]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI2)
+[2022.12.05-03.54.38:764][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:764][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:764][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:764][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:781][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:781][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:783][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:783][406]LoadErrors: Failed to load /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by FP_Gun_GEN_VARIABLE
+[2022.12.05-03.54.38:784][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:784][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:784][406]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2022.12.05-03.54.38:784][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:784][406]LoadErrors: Failed to load /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2022.12.05-03.54.38:785][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:785][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:785][406]LoadErrors: Failed to load /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun Referenced by VR_Gun_GEN_VARIABLE
+[2022.12.05-03.54.38:797][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:798][406]LoadErrors: Failed to load /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh Referenced by StaticMeshComponent_252__1AD2D010
+[2022.12.05-03.54.38:798][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:800][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:800][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\FirstPersonProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:800][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:800][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:801][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:806][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\mortarProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:812][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\mortarProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:813][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:815][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:815][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\healthBP.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:820][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:821][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:821][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:821][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:822][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:823][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:825][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:825][406]LoadErrors: Failed to load /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02 Referenced by K2Node_CallFunction_3218
+[2022.12.05-03.54.38:825][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:825][406]LoadErrors: Failed to load /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage Referenced by K2Node_CallFunction_4872
+[2022.12.05-03.54.38:829][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:829][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\AI2\aicontrollerenemy.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:833][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:834][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:834][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:834][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:871][406]LogBlueprint: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2022.12.05-03.54.38:913][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:913][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:913][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:913][406]LogLinker: Warning: Error opening file '../../../Engine/Content/BasicShapes/Sphere.uasset'.
+[2022.12.05-03.54.38:914][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPerson_AnimBP': Can't find file.
+[2022.12.05-03.54.38:914][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Animations/FirstPersonFire_Montage': Can't find file.
+[2022.12.05-03.54.38:914][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:914][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:914][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:915][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms': Can't find file.
+[2022.12.05-03.54.38:915][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2022.12.05-03.54.38:915][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\AAA\FirstPersonCharacter.uasset: Failed to load '/Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02': Can't find file.
+[2022.12.05-03.54.38:915][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\enemymoveProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.38:916][406]LogLinker: Warning: [AssetLog] C:\Users\iramesh2\Desktop\game\415prisonGame\Content\Migrate\enemymoveProjectile.uasset: Failed to load '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh': Can't find file.
+[2022.12.05-03.54.39:003][406]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Migrate/enemymoveProjectile.enemymoveProjectile
+[2022.12.05-03.56.09:571][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/EnemyAI" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/EnemyAI/EnemyAI.uasset" SILENT=true
+[2022.12.05-03.56.09:585][424]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/EnemyAI57A311BF4DBF6394045F048ABF98F487.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Content/EnemyAI/EnemyAI.uasset'
+[2022.12.05-03.56.09:602][424]AssetCheck: New page: Asset Save: EnemyAI
+[2022.12.05-03.56.09:602][424]LogContentValidation: Display: Validating Blueprint /Game/EnemyAI/EnemyAI.EnemyAI
+[2022.12.05-03.56.32:909][962]LogContentBrowser: Deferred new asset file creation: EnemyAI1
+[2022.12.05-03.56.32:937][962]LogContentBrowser: Creating deferred item: EnemyAI1
+[2022.12.05-03.56.43:095][685]LogContentBrowser: Attempting asset rename: EnemyAI1 -> EnemyAI1
+[2022.12.05-03.56.43:131][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.12.05-03.56.43:143][685]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/EnemyAI/EnemyAI1.
+[2022.12.05-03.56.43:143][685]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/EnemyAI/EnemyAI1.
+[2022.12.05-03.56.43:144][685]LogContentBrowser: End creating deferred item EnemyAI1
+[2022.12.05-03.56.52:494][325]LogContentBrowser: Deferred new asset file creation: EnemyAI2
+[2022.12.05-03.56.52:523][325]LogContentBrowser: Creating deferred item: EnemyAI2
+[2022.12.05-03.56.56:854][629]LogContentBrowser: Attempting asset rename: EnemyAI2 -> EnemyAI2
+[2022.12.05-03.56.56:886][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.05-03.56.56:895][629]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/EnemyAI/EnemyAI2.
+[2022.12.05-03.56.56:896][629]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/EnemyAI/EnemyAI2.
+[2022.12.05-03.56.56:896][629]LogContentBrowser: End creating deferred item EnemyAI2
+[2022.12.05-03.57.00:202][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.05-03.57.02:143][842]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.05-03.57.02:433][842]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.57.02:433][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.57.02:517][842]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-03.57.02:517][842]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.57.02:517][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.57.02:579][842]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/EnemyAI/EnemyAI2.EnemyAI2
+[2022.12.05-03.57.03:443][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.05-03.57.03:487][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.05-03.57.05:769][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.05-03.57.06:860][992]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.05-03.57.07:111][992]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/EnemyAI/EnemyAI1.EnemyAI1
+[2022.12.05-03.57.07:394][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.05-03.57.07:431][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.12.05-03.57.12:662][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.05-03.57.15:436][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemyAI/EnemyAI.EnemyAI
+[2022.12.05-03.57.33:329][829]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake needed to have new flag set bUsedWithSkeletalMesh !
+[2022.12.05-03.57.33:330][829]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: B4B0E8EB734450B208E383037D1CBBC9CD74D75E), compiling. 
+[2022.12.05-03.57.33:364][829]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.12.05-03.57.33:367][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2022.12.05-03.57.33:367][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.12.05-03.57.33:367][829]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.12.05-03.57.33:367][829]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.12.05-03.57.33:367][829]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.12.05-03.57.37:809][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.12.05-03.57.37:809][ 65]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.12.05-03.57.37:823][ 65]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.05-03.57.37:823][ 65]LogShaderCompilers: Display: Total job queries 124, among them cache hits 1 (0.81%)
+[2022.12.05-03.57.37:823][ 65]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 68 distinct outputs (73.91%)
+[2022.12.05-03.57.37:823][ 65]LogShaderCompilers: Display: RAM used: 0.41 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.12.05-03.57.37:823][ 65]LogShaderCompilers: Display: ================================================
+[2022.12.05-03.57.42:050][382]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-03.57.42:058][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-03.57.42:058][382]LogHMD: Initializing OVRPlugin session
+[2022.12.05-03.57.42:243][382]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-03.57.42:243][382]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 3:57:42 PM)
+[2022.12.05-03.57.42:283][382]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.57.42:305][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022487s)
+[2022.12.05-03.57.42:306][382]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-03.57.42:307][382]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2022.12.05-03.57.42:307][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024212s)
+[2022.12.05-03.57.42:334][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.05-03.57.42:339][382]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-03.57.42:339][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-03.57.42:339][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-03.57.42:340][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-03.57.42:340][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-03.57.42:340][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-03.57.42:340][382]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-03.57.42:344][382]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-03.57.42:344][382]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-03.57.42:352][382]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-03.57.42:352][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-03.57.42:352][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-03.57.42:352][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-03.57.42:353][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-03.57.42:353][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-03.57.42:353][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-03.57.42:354][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-03.57.42:354][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-03.57.42:354][382]LogInit: FAudioDevice initialized.
+[2022.12.05-03.57.42:354][382]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-03.57.42:370][382]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-03.57.42:376][382]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-21.57.42
+[2022.12.05-03.57.42:377][382]LogWorld: Bringing up level for play took: 0.006200
+[2022.12.05-03.57.42:377][382]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.12.05-03.57.42:382][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.42:383][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:383][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:385][382]PIE: Server logged in
+[2022.12.05-03.57.42:385][382]PIE: Play in editor total start time 0.33 seconds.
+[2022.12.05-03.57.42:390][382]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:390][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:391][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:391][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:391][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:391][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.42:391][382]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:922][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:922][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:922][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:922][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:923][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:924][561]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:935][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:936][562]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:947][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:947][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:948][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:949][563]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:960][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:961][564]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:972][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:973][565]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:984][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:985][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:985][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:985][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:985][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:986][566]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:996][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:997][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:997][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:997][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:997][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.44:998][567]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:008][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:008][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:008][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:008][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:008][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:009][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:010][568]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:021][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:022][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:022][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:022][569]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:033][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:034][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:034][570]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:045][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:046][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:046][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:046][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:046][571]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:057][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:058][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:058][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:058][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:058][572]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:069][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:069][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:069][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:069][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:070][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:071][573]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:081][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:082][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:082][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:082][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:082][574]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:094][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:095][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:095][575]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:107][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:108][576]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:118][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:119][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:119][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:119][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:119][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:119][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:120][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:120][577]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:131][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:132][578]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:143][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:143][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:143][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:143][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:143][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:144][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:144][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:144][579]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:155][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:156][580]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:166][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:166][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:166][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:166][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:166][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:167][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:167][581]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:178][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:180][582]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:190][583]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:190][583]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:190][583]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:190][583]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:191][583]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:202][584]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:202][584]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:202][584]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:202][584]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:203][584]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:214][585]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:214][585]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:214][585]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:214][585]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:215][585]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:225][586]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:225][586]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:225][586]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:225][586]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:226][586]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:238][587]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:238][587]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:238][587]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:239][587]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:250][588]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:250][588]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:262][589]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:273][590]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:274][590]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:285][591]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:286][591]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:296][592]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:297][592]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:308][593]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:309][593]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:319][594]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:321][594]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:331][595]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:332][595]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:342][596]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:343][596]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:354][597]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:355][597]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:365][598]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:366][598]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:377][599]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:378][599]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:389][600]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:390][600]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:400][601]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:401][601]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:412][602]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:413][602]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:424][603]LogBlueprintUserMessages: [Boss_5] don't
+[2022.12.05-03.57.45:425][603]LogBlueprintUserMessages: [Boss_5] damage
+[2022.12.05-03.57.45:578][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.45:589][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.45:600][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.45:612][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.45:622][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.45:634][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.46:395][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.50:174][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-03.57.50:784][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.57.50:784][ 77]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-03.57.50:785][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.57.50:786][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.57.50:799][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-03.57.50:816][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.57.50:837][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-03.57.50:838][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.57.50:839][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-03.57.50:841][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.57.50:845][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.05-03.57.50:917][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.12.05-03.58.27:985][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.05-03.58.28:019][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap_Auto136D84C0545B21CF9245A69BB651232AB.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.12.05-03.58.28:021][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.064
+[2022.12.05-03.58.28:021][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.12.05-03.58.28:022][993]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.12.05-03.58.28:037][993]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.12.05-03.58.28:047][993]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.05-03.58.28:047][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.12.05-03.58.28:129][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonCharacter_Auto18008AA4243316D1FFA3781991D6079F7.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.12.05-03.58.28:130][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyAI/EnemyAI] ([2] browsable assets)...
+[2022.12.05-03.58.28:130][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyAI/EnemyAI]
+[2022.12.05-03.58.28:130][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/EnemyAI" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/EnemyAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.05-03.58.28:136][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/EnemyAI_Auto1BE806DD84D6D1DF1A3771295B8E85C69.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/EnemyAI_Auto1.uasset'
+[2022.12.05-03.58.28:137][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/CubeMaterial] ([1] browsable assets)...
+[2022.12.05-03.58.28:145][993]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial]
+[2022.12.05-03.58.28:146][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/CubeMaterial]
+[2022.12.05-03.58.28:152][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/CubeMaterial_Auto1782104EC48B2E24E197F078DAB6C2C1E.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Geometry/Meshes/CubeMaterial_Auto1.uasset'
+[2022.12.05-03.58.28:154][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_ColorGrid_LowSpec] ([1] browsable assets)...
+[2022.12.05-03.58.28:162][993]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec]
+[2022.12.05-03.58.28:162][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_ColorGrid_LowSpec]
+[2022.12.05-03.58.28:170][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/M_ColorGrid_LowSpec_Auto1AE5EE44245E1E71479308FAAFA65F96A.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/StarterContent/Materials/M_ColorGrid_LowSpec_Auto1.uasset'
+[2022.12.05-03.58.28:171][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Water_Lake] ([1] browsable assets)...
+[2022.12.05-03.58.28:192][993]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake]
+[2022.12.05-03.58.28:192][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Water_Lake]
+[2022.12.05-03.58.28:207][993]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/M_Water_Lake_Auto1F4B8F31144A0F5F55A9D8F8327FB3D7A.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/StarterContent/Materials/M_Water_Lake_Auto1.uasset'
+[2022.12.05-03.58.28:207][993]LogFileHelpers: Auto-saving content packages took 0.186
