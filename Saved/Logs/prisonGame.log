@@ -10816,3 +10816,41 @@ Error: CDO Constructor (CameraRig_Crane): Failed to find /Engine/EditorMeshes/Ca
 [2022.12.05-04.21.31:760][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.05-04.21.31:765][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
 [2022.12.05-04.21.31:811][106]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.12.05-04.22.03:555][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.12.05-04.22.30:119][387]LogEditorViewport: Clicking on Actor (LMB): mortar_C (mortar)
+[2022.12.05-04.22.35:052][791]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI2)
+[2022.12.05-04.25.43:746][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.12.05-04.25.43:782][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonExampleMap_Auto273AB2EE2460E6DDC658A22B1F0C56948.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.12.05-04.25.43:784][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.091
+[2022.12.05-04.25.43:784][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2022.12.05-04.25.43:784][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.12.05-04.25.43:797][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.12.05-04.25.43:797][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.12.05-04.25.43:870][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/ThirdPersonCharacter_Auto2B941BF1C4C7EF20EBDE059A74FED24D4.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.12.05-04.25.43:872][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyAI/EnemyAI] ([2] browsable assets)...
+[2022.12.05-04.25.43:883][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyAI/EnemyAI.EnemyAI]
+[2022.12.05-04.25.43:883][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyAI/EnemyAI]
+[2022.12.05-04.25.43:883][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/EnemyAI" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/EnemyAI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.12.05-04.25.43:895][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/EnemyAI_Auto223F1FB214C1DFAE8A4BE4ABA1FA02F08.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/EnemyAI_Auto2.uasset'
+[2022.12.05-04.25.43:897][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Migrate/AAA/AI2/enemyAI] ([2] browsable assets)...
+[2022.12.05-04.25.43:907][813]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Migrate/AAA/AI2/enemyAI.enemyAI_C]
+[2022.12.05-04.25.43:917][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Migrate/AAA/AI2/enemyAI.enemyAI]
+[2022.12.05-04.25.43:918][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Migrate/AAA/AI2/enemyAI]
+[2022.12.05-04.25.43:951][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/enemyAI_Auto2AAFCCBE348576128AE93EA9BEBFD5E0B.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Migrate/AAA/AI2/enemyAI_Auto2.uasset'
+[2022.12.05-04.25.43:952][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Migrate/AAA/AI2/Tasks/PlayerLocation] ([2] browsable assets)...
+[2022.12.05-04.25.43:952][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Migrate/AAA/AI2/Tasks/PlayerLocation]
+[2022.12.05-04.25.43:959][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/PlayerLocation_Auto26A3663854FA643B335FBFDB886EAF998.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Migrate/AAA/AI2/Tasks/PlayerLocation_Auto2.uasset'
+[2022.12.05-04.25.43:960][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Migrate/AAA/mortarProjectile] ([2] browsable assets)...
+[2022.12.05-04.25.43:970][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Migrate/AAA/mortarProjectile.mortarProjectile]
+[2022.12.05-04.25.43:970][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Migrate/AAA/mortarProjectile]
+[2022.12.05-04.25.43:998][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/mortarProjectile_Auto21BC3D03E407C341102CA6AA0C0B74A33.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Migrate/AAA/mortarProjectile_Auto2.uasset'
+[2022.12.05-04.25.43:999][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/EnemyAI/spin] ([2] browsable assets)...
+[2022.12.05-04.25.44:009][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/EnemyAI/spin.spin]
+[2022.12.05-04.25.44:009][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyAI/spin]
+[2022.12.05-04.25.44:009][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/spin" FILE="../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/spin_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.12.05-04.25.44:018][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/spin_Auto2CA2FFCF54E922BFF4AD2A8B84A7A1EEF.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/EnemyAI/spin_Auto2.uasset'
+[2022.12.05-04.25.44:020][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Migrate/AAA/Enemy_Blueprints/mortar] ([2] browsable assets)...
+[2022.12.05-04.25.44:032][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Migrate/AAA/Enemy_Blueprints/mortar.mortar]
+[2022.12.05-04.25.44:032][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Migrate/AAA/Enemy_Blueprints/mortar]
+[2022.12.05-04.25.44:061][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/mortar_Auto267F591874BF703E03745868D58343434.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Migrate/AAA/Enemy_Blueprints/mortar_Auto2.uasset'
+[2022.12.05-04.25.44:062][813]LogFileHelpers: Auto-saving content packages took 0.278
