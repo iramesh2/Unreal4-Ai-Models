@@ -10854,3 +10854,95 @@ Error: CDO Constructor (CameraRig_Crane): Failed to find /Engine/EditorMeshes/Ca
 [2022.12.05-04.25.44:032][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Migrate/AAA/Enemy_Blueprints/mortar]
 [2022.12.05-04.25.44:061][813]LogSavePackage: Moving '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/mortar_Auto267F591874BF703E03745868D58343434.tmp' to '../../../../../../Users/iramesh2/Desktop/game/415prisonGame/Saved/Autosaves/Game/Migrate/AAA/Enemy_Blueprints/mortar_Auto2.uasset'
 [2022.12.05-04.25.44:062][813]LogFileHelpers: Auto-saving content packages took 0.278
+[2022.12.05-04.29.07:185][296]LogSlate: Window 'mortarProjectile' being destroyed
+[2022.12.05-04.29.07:193][296]LogSlate: Window 'mortarProjectile' being destroyed
+[2022.12.05-04.29.07:235][296]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:235][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:309][296]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-04.29.07:309][296]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:309][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:395][296]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:395][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:439][296]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:439][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:481][296]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-04.29.07:481][296]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:481][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:543][296]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-04.29.07:543][296]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:543][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.07:607][296]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.05-04.29.07:607][296]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.29.07:607][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.29.08:930][446]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.05-04.29.08:938][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.29.08:938][446]LogHMD: Initializing OVRPlugin session
+[2022.12.05-04.29.09:122][446]LogHMD: Allocating Oculus 3296 x 1648 rendertarget swapchain
+[2022.12.05-04.29.09:122][446]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2022, 4:29:09 PM)
+[2022.12.05-04.29.09:155][446]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.29.09:167][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012477s)
+[2022.12.05-04.29.09:168][446]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.12.05-04.29.09:169][446]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2022.12.05-04.29.09:169][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014308s)
+[2022.12.05-04.29.09:237][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.12.05-04.29.09:244][446]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.05-04.29.09:244][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.05-04.29.09:244][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.29.09:245][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.05-04.29.09:245][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.05-04.29.09:245][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.29.09:245][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.05-04.29.09:251][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.05-04.29.09:251][446]LogAudioMixer: Display: 1: FrontRight
+[2022.12.05-04.29.09:257][446]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.29.09:258][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.29.09:258][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.29.09:258][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.29.09:258][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.05-04.29.09:258][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.05-04.29.09:258][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.05-04.29.09:259][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.05-04.29.09:259][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.05-04.29.09:259][446]LogInit: FAudioDevice initialized.
+[2022.12.05-04.29.09:259][446]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2022.12.05-04.29.09:266][446]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.05-04.29.09:269][446]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.12.04-22.29.09
+[2022.12.05-04.29.09:271][446]LogWorld: Bringing up level for play took: 0.004163
+[2022.12.05-04.29.09:271][446]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.12.05-04.29.09:276][446]PIE: Server logged in
+[2022.12.05-04.29.09:277][446]PIE: Play in editor total start time 0.341 seconds.
+[2022.12.05-04.29.09:293][447]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2022.12.05-04.29.10:979][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.12:847][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.12:864][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.17:331][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.17:347][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.22:306][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.52:092][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.52:458][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.52:667][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.53:825][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.29.53:834][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.30.05:960][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2022.12.05-04.30.19:577][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.30.19:577][867]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.12.05-04.30.19:577][867]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.30.19:577][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.30.19:589][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.30.19:605][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.30.19:622][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.30.19:623][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.30.19:624][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.05-04.30.19:632][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.12.05-04.30.19:674][868]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.12.05-04.30.27:696][767]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Migrate/AAA/AI2/EnemyTree.EnemyTree
+[2022.12.05-04.30.48:436][745]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/EnemyAI/Enemy_BT.Enemy_BT
+[2022.12.05-04.30.52:591][ 35]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnemyAI/Services/ChangeEnemySpeed.ChangeEnemySpeed
+[2022.12.05-04.31.19:206][882]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.05-04.31.19:230][882]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
