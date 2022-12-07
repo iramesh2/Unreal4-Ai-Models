@@ -14,7 +14,7 @@
 
 ### Level Design:
 - [ ] make level nicer
-- [ ] add door-to-end level
+- [x] add door-to-end level
 
 ### Game Loop:
 - [x] score = potions * 2 + key * 25
