@@ -18,14 +18,14 @@ Due to the large size of the level data, this repository does not include the ga
    git clone https://github.com/iramesh2/prisonGame.git
    cd prisonGame
 
-1. **Download Level Assets**
+2. **Download Level Assets**
 - Access the level assets through the provided link.
 - Download and extract the assets into the Content folder of the cloned repository.
-2. **Project Configuration**
+3. **Project Configuration**
 - Open prisonGame.uproject with Unreal Engine 4.
 - Once open, go to File > Generate Visual Studio project files (if on Windows) to set up the project for coding.
 - Configure your IDE to recognize the project structure for further development.
-3. **Compile and Run**
+4. **Compile and Run**
 - Build the project from within your IDE or use Unreal Engine's built-in compiler by pressing Ctrl + B.
 - Once the build is successful, press Play to run the game from the Unreal Engine Editor.
 
