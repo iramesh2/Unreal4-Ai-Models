@@ -1,45 +1,47 @@
-# Prison Escape Game
+# Unreal Complex AI Models
 
 ## Overview
-Prison Game is a 3D action-adventure game built on Unreal Engine 4. The game features a complex prison environment where players must navigate through various challenges, utilizing their skills to overcome obstacles and outsmart AI-controlled enemies. With advanced gameplay mechanics like intelligent dash jump abilities, a robust health and lives system, and dynamic respawn points, players are immersed in a thrilling experience. The game also boasts an intelligent AI model for formidable enemy encounters and dummy AI models for practice and strategy development.
+Unreal Complex AI Models is a collection of advanced AI behaviors and systems designed for the Unreal Engine 4. This project provides a robust framework for creating complex enemy AI with versatile capabilities, suitable for a wide range of games and simulations. Developers can leverage these models to create challenging and intelligent enemies that can adapt and react to player actions in real-time.
 
-## Features
-- **Dash Jump Abilities**: Enhanced mobility for players with intelligent context-aware jumping.
-- **Health & Lives System**: Manage your survival with a detailed health and lives tracking system.
-- **Respawn Points**: Strategically placed respawn points for continued play after failure.
-- **Intelligent AI Enemy**: Engage with AI that adapts and responds to player actions.
-- **Dummy AI Models**: Practice and hone your skills against less complex AI.
+## AI Features
+- **Sentry Detection**: AI can keep watch and detect the player based on sight and sound, triggering alerts or direct engagement.
+- **Intelligent Chasing**: Once the player is detected, the AI can pursue with smart pathfinding algorithms that adapt to the environment and player's actions.
+- **Player Location Prediction**: AI can predict the player's future position to effectively use missiles or other targeted attacks.
+- **Teleportation**: For games that require a supernatural element, some AI models can teleport, adding an unpredictable challenge.
+- **Smart Coordination**: AI can communicate and coordinate with other AI entities to strategically corner or ambush the player.
+- **Adaptive Difficulty**: The AI can operate at various levels of complexity, from simple patrolling behaviors to advanced tactical decision-making.
+
+## Player Mechanics
+- **Dash and Skill Mechanisms**: The project includes player mechanics such as dashing and other skills to evade and counteract AI strategies.
 
 ## Installation & Setup
-Due to the large size of the level data, this repository does not include the game's complete assets. Follow these steps to set up the project:
+Follow these instructions to implement the AI models into your Unreal Engine 4 project:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/iramesh2/prisonGame.git
-   cd prisonGame
+   git clone https://github.com/your-username/unreal-complex-ai-models.git
+   cd unreal-complex-ai-models
 
-2. **Download Level Assets**
-- Access the level assets through the provided link.
-- Download and extract the assets into the Content folder of the cloned repository.
-3. **Project Configuration**
-- Open prisonGame.uproject with Unreal Engine 4.
-- Once open, go to File > Generate Visual Studio project files (if on Windows) to set up the project for coding.
-- Configure your IDE to recognize the project structure for further development.
-4. **Compile and Run**
-- Build the project from within your IDE or use Unreal Engine's built-in compiler by pressing Ctrl + B.
-- Once the build is successful, press Play to run the game from the Unreal Engine Editor.
+2. **Integrate AI Models**
+- Import the AI model files into your existing Unreal Engine project's Content folder.
+- Configure the AI parameters within your project's AI controller, pawn, or character blueprints as needed.
+3. **Customize AI Behavior**
+- Use the provided behavior trees and blackboard assets to customize the AI's decision-making processes.
+- Adapt the sensory components and variables to fit the design of your game's levels and player mechanics.
+Usage
 
-
+The AI models are designed to be drag-and-drop ready for most Unreal Engine 4 projects.
+Detailed comments are provided within the blueprints and scripts to guide you through customization and integration.
+Sample levels are provided to demonstrate the AI in action and to serve as testing grounds for your configurations.
 Contribution
 
-If you wish to contribute to the development of Prison Game, please adhere to the following steps:
+We welcome contributions that can enhance the capabilities of the AI models. Please follow these steps to contribute:
 
-**Fork the repository.**
-Create a new branch for your feature (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
+Fork the repository.
+Create a new branch for your improvement (git checkout -b feature/YourImprovement).
+Commit your changes (git commit -m 'Add some YourImprovement').
+Push to the branch (git push origin feature/YourImprovement).
 Open a Pull Request.
+License
 
-
-## License
-This project is free to use. Feel free to clone, modify, and distribute the code as you see fit.
+This project is provided under a free use license. You are welcome to clone, modify, and distribute the AI models in accordance with this license.
